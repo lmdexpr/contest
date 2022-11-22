@@ -1,0 +1,3 @@
+(executable
+  (name t02)
+  (libraries core iter num))
