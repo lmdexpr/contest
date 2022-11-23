@@ -18,3 +18,14 @@ link: https://atcoder.jp/contests/typical90
 # t04 Cross Sum
 - 包徐原理
 - 数え上げ
+
+# t05 Restricted Digits
+- 部分課題1
+  - 余りを桁DP
+- 部分課題2
+  - 行列累乗
+  - 繰り返し二乗法
+- 部分課題3
+  - ダブリング
+- ex
+  - FFT (高速フーリエ変換)
