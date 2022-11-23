@@ -14,3 +14,7 @@ link: https://atcoder.jp/contests/typical90
 # t03 Longest Circular Road
 - tree / graph 
 - 木の直径
+
+# t04 Cross Sum
+- 包徐原理
+- 数え上げ
