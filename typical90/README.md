@@ -29,3 +29,8 @@ link: https://atcoder.jp/contests/typical90
   - ダブリング
 - ex
   - FFT (高速フーリエ変換)
+
+# t06 Smallest Subsequence
+- 辞書順最小
+- 貪欲法
+- 前計算
