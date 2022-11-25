@@ -34,3 +34,8 @@ link: https://atcoder.jp/contests/typical90
 - 辞書順最小
 - 貪欲法
 - 前計算
+
+# t07 CP Classes
+- 要素の検索
+- sort
+- binary search
