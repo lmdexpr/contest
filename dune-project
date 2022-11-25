@@ -25,4 +25,7 @@
    ounit2
    core
    iter
-   num))
+   num
+   containers
+   threads
+   batteries))

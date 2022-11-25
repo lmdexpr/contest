@@ -16,6 +16,9 @@ depends: [
   "core"
   "iter"
   "num"
+  "containers"
+  "threads"
+  "batteries"
   "odoc" {with-doc}
 ]
 build: [

@@ -39,3 +39,7 @@ link: https://atcoder.jp/contests/typical90
 - 要素の検索
 - sort
 - binary search
+
+# t08 AtCounter
+- 状態 DP
+- 耳 DP
