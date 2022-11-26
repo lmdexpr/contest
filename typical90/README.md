@@ -43,3 +43,8 @@ link: https://atcoder.jp/contests/typical90
 # t08 AtCounter
 - 状態 DP
 - 耳 DP
+
+# t09 Three Point Angle
+- 真ん中決め打ち
+- 偏角ソート
+- 二分探索
