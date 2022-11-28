@@ -53,3 +53,9 @@ link: https://atcoder.jp/contests/typical90
 - 累積和
 - q 回のクエリ処理
 
+# t11 Gravy Jobs
+- 部分課題2
+  - 仕事は締切の早い順にやるのが重要
+  - bit 全探索
+- 部分課題3
+  - ソートして DP
