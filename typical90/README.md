@@ -48,3 +48,8 @@ link: https://atcoder.jp/contests/typical90
 - 真ん中決め打ち
 - 偏角ソート
 - 二分探索
+
+# t10 Score Sum Queries
+- 累積和
+- q 回のクエリ処理
+
