@@ -59,3 +59,8 @@ link: https://atcoder.jp/contests/typical90
   - bit 全探索
 - 部分課題3
   - ソートして DP
+
+# t12 Red Painting
+- Union-Find
+- q 回のクエリ処理
+
