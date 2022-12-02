@@ -68,3 +68,7 @@ link: https://atcoder.jp/contests/typical90
 - dijkstra
 - 無向グラフ
 
+# t14 We Used to Sing a Song Together
+- ソートして貪欲法
+
+
