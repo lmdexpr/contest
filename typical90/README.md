@@ -27,6 +27,7 @@ link: https://atcoder.jp/contests/typical90
   - 繰り返し二乗法
 - 部分課題3
   - ダブリング
+  - modulo pow
 - ex
   - FFT (高速フーリエ変換)
 
@@ -71,4 +72,9 @@ link: https://atcoder.jp/contests/typical90
 # t14 We Used to Sing a Song Together
 - ソートして貪欲法
 
-
+# t15 Don't be too close
+- 調和級数
+  - 1/1 + 1/2 + 1/3 + ... + 1/n 
+- modulo の combination
+  - 逆元を使うことで高速に計算
+- modulo pow
