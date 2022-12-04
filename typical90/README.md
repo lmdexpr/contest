@@ -83,4 +83,13 @@ link: https://atcoder.jp/contests/typical90
 - 工夫した全探索
   - N^3 -> N^2
 
+# t17 Crossing Segments
+- 部分課題1
+  - 全探索
+  - m * (m - 1) / 2
+- 部分課題2
+  - 余事象の数え上げ
+- 部分課題3
+  - BIT (Binary Indexed Tree)
+
 
