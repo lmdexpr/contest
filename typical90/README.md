@@ -92,4 +92,8 @@ link: https://atcoder.jp/contests/typical90
 - 部分課題3
   - BIT (Binary Indexed Tree)
 
+# t18 Statue of Chokudai
+- 三角関数
+- 三平方
+
 
