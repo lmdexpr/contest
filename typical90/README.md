@@ -78,3 +78,9 @@ link: https://atcoder.jp/contests/typical90
 - modulo の combination
   - 逆元を使うことで高速に計算
 - modulo pow
+
+# t16 Minimum Coins
+- 工夫した全探索
+  - N^3 -> N^2
+
+
