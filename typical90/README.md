@@ -96,4 +96,8 @@ link: https://atcoder.jp/contests/typical90
 - 三角関数
 - 三平方
 
+# t22 Cubic Cake
+- gcd
 
+# t24 Select +／- One
+- パリティ
