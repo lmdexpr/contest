@@ -101,3 +101,9 @@ link: https://atcoder.jp/contests/typical90
 
 # t24 Select +／- One
 - パリティ
+
+# t27 Sign Up Requests
+- std::map
+  - 今回は Set で実装した
+
+
