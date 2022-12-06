@@ -1,0 +1,1 @@
+(executable (name t55) (libraries core iter num))

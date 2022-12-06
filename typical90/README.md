@@ -67,7 +67,7 @@ link: https://atcoder.jp/contests/typical90
 
 # t13 Passing
 - dijkstra
-- 無向グラフ
+- 無向グラフ (graph / Graph)
 
 # t14 We Used to Sing a Song Together
 - ソートして貪欲法
@@ -106,4 +106,21 @@ link: https://atcoder.jp/contests/typical90
 - std::map
   - 今回は Set で実装した
 
+# t33 Not Too Bright
+- コーナーケースに気をつける
 
+# t55 Select 5
+- 全探索
+  - 定数倍が大きいと全探索でもなんとかなる例
+- 計算量を下げる方法は別解として存在
+
+# t61 Deck
+- Deque を使う
+
+# t67 Base 8 to 9
+- N 進法展開
+
+# t78 Easy Graph Problem
+- 隣接リスト
+- 無向グラフ (graph / Graph)
+  - 考え方としては有向だと捉えるみたいな感じなのでは
