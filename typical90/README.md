@@ -96,6 +96,9 @@ link: https://atcoder.jp/contests/typical90
 - 三角関数
 - 三平方
 
+# t20 Log Inequality
+- 整数で扱うことで誤差をなくす
+
 # t22 Cubic Cake
 - gcd
 
@@ -106,8 +109,16 @@ link: https://atcoder.jp/contests/typical90
 - std::map
   - 今回は Set で実装した
 
+# t32 AtCoder Ekiden
+- permutations
+- 順列全探索
+
 # t33 Not Too Bright
 - コーナーケースに気をつける
+
+# t38 Large LCM
+- lcm (最小公倍数)
+- オーバーフローに気をつける
 
 # t55 Select 5
 - 全探索
