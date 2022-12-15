@@ -232,7 +232,7 @@ link: https://atcoder.jp/contests/typical90
 # t51
 - アルゴリズム典型
 
-# t52
+# t52 Dice Porduct
 - 考察典型
 - 複雑な問題に対して少ないケースで考える
 - 因数分解 (factorization)
@@ -275,7 +275,7 @@ link: https://atcoder.jp/contests/typical90
 # t63
 - 考察典型
 
-# t64
+# t64 Uplift
 - 考察典型
 - 階差を考える
 
