@@ -234,6 +234,8 @@ link: https://atcoder.jp/contests/typical90
 
 # t52
 - 考察典型
+- 複雑な問題に対して少ないケースで考える
+- 因数分解 (factorization)
 
 # t53
 - アルゴリズム典型
@@ -275,6 +277,7 @@ link: https://atcoder.jp/contests/typical90
 
 # t64
 - 考察典型
+- 階差を考える
 
 # t65
 - 考察典型
