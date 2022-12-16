@@ -294,8 +294,9 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t69
+# t69 Colorful Blocks 2
 - アルゴリズム典型
+- 繰り返し二乗法 (repeated squaring / binary power)
 
 # t70
 - 考察典型
@@ -313,11 +314,15 @@ link: https://atcoder.jp/contests/typical90
 # t74
 - 考察典型
 
-# t75
+# t75 Magic For Balls
 - アルゴリズム典型
+- 素因数分解 (prime factorization)
 
-# t76
+# t76 Cake Cut
 - 考察典型
+- 列を二倍にして円環を表現する
+- しゃくとり法 O(N)
+  - 想定解は二分探索らしいが、これだと O(NlogN)
 
 # t77
 - アルゴリズム典型
@@ -328,8 +333,10 @@ link: https://atcoder.jp/contests/typical90
 - 無向グラフ (graph / Graph)
   - 考え方としては有向だと捉えるみたいな感じなのでは
 
-# t79
+# t79 Two by Two
 - 考察典型
+- 操作順序によらないので順番に全部走査する
+- 余ったところがうまくいっているかで Yes/No 判定
 
 # t80
 - アルゴリズム典型
