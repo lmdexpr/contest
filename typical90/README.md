@@ -345,8 +345,16 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t82
+# t82 Counting Numbers
 - 考察典型
+- 和の公式
+- modulo の逆元 (inverse)
+- オーバーフロー
+- Big\_int
 
 # t83
 - アルゴリズム典型
+
+# t84 There are two types of characters
+- 累積的に計算
+- (ランレングス圧縮)
