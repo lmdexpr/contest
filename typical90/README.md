@@ -2,28 +2,28 @@
 
 link: https://atcoder.jp/contests/typical90
 
-# t01 Yokan Party
+# t01 Yokan Party (★ 4)
 - 考察典型
 - binary search
 - 最小値の最大化
 - O(N log L)
 
-# t02 Encyclopedia of Parentheses
+# t02 Encyclopedia of Parentheses (★ 3)
 - アルゴリズム典型
 - bit 全探索
 - 正しいカッコ列の条件（典型）
 
-# t03 Longest Circular Road
+# t03 Longest Circular Road (★ 4)
 - アルゴリズム典型
 - tree / graph 
 - 木の直径
 
-# t04 Cross Sum
+# t04 Cross Sum (★ 2)
 - 考察典型
 - 包徐原理
 - 数え上げ
 
-# t05 Restricted Digits
+# t05 Restricted Digits (★ 7)
 - アルゴリズム典型
 - 部分課題1
   - 余りを桁DP
@@ -36,36 +36,36 @@ link: https://atcoder.jp/contests/typical90
 - ex
   - FFT (高速フーリエ変換)
 
-# t06 Smallest Subsequence
+# t06 Smallest Subsequence (★ 5)
 - 考察典型
 - 辞書順最小
 - 貪欲法
 - 前計算
 
-# t07 CP Classes
+# t07 CP Classes (★ 3)
 - アルゴリズム典型
 - 要素の検索
 - sort
 - binary search
 
-# t08 AtCounter
+# t08 AtCounter (★ 4)
 - アルゴリズム典型
 - 状態 DP
 - 耳 DP
 
-# t09 Three Point Angle
+# t09 Three Point Angle (★ 6)
 - 考察典型
 - アルゴリズム典型
 - 真ん中決め打ち
 - 偏角ソート
 - 二分探索
 
-# t10 Score Sum Queries
+# t10 Score Sum Queries (★ 2)
 - アルゴリズム典型
 - 累積和
 - q 回のクエリ処理
 
-# t11 Gravy Jobs
+# t11 Gravy Jobs (★ 6)
 - 考察典型
 - 部分課題2
   - 仕事は締切の早い順にやるのが重要
@@ -73,21 +73,21 @@ link: https://atcoder.jp/contests/typical90
 - 部分課題3
   - ソートして DP
 
-# t12 Red Painting
+# t12 Red Painting (★ 4)
 - アルゴリズム典型
 - Union-Find
 - q 回のクエリ処理
 
-# t13 Passing
+# t13 Passing (★ 5)
 - アルゴリズム典型
 - dijkstra
 - 無向グラフ (graph / Graph)
 
-# t14 We Used to Sing a Song Together
+# t14 We Used to Sing a Song Together (★ 3)
 - 考察典型
 - ソートして貪欲法
 
-# t15 Don't be too close
+# t15 Don't be too close (★ 6)
 - 考察典型
 - アルゴリズム典型
 - 調和級数
@@ -96,12 +96,12 @@ link: https://atcoder.jp/contests/typical90
   - 逆元を使うことで高速に計算
 - modulo pow
 
-# t16 Minimum Coins
+# t16 Minimum Coins (★ 3)
 - 考察典型
 - 工夫した全探索
   - N^3 -> N^2
 
-# t17 Crossing Segments
+# t17 Crossing Segments (★ 7)
 - アルゴリズム典型
 - 部分課題1
   - 全探索
@@ -111,7 +111,7 @@ link: https://atcoder.jp/contests/typical90
 - 部分課題3
   - BIT (Binary Indexed Tree)
 
-# t18 Statue of Chokudai
+# t18 Statue of Chokudai (★ 3)
 - アルゴリズム典型
 - 三角関数
 - 三平方
@@ -119,21 +119,21 @@ link: https://atcoder.jp/contests/typical90
 # t19
 - アルゴリズム典型
 
-# t20 Log Inequality
+# t20 Log Inequality (★ 3)
 - 考察典型
 - 整数で扱うことで誤差をなくす
 
 # t21
 - アルゴリズム典型
 
-# t22 Cubic Cake
+# t22 Cubic Cake (★ 2)
 - アルゴリズム典型
 - gcd
 
 # t23
 - 考察典型
 
-# t24 Select +／- One
+# t24 Select +／- One (★ 2)
 - 考察典型
 - パリティ
 
@@ -143,7 +143,7 @@ link: https://atcoder.jp/contests/typical90
 # t26
 - アルゴリズム典型
 
-# t27 Sign Up Requests
+# t27 Sign Up Requests (★ 2)
 - アルゴリズム典型
 - std::map
   - 今回は Set で実装した
@@ -160,12 +160,12 @@ link: https://atcoder.jp/contests/typical90
 # t31
 - アルゴリズム典型
 
-# t32 AtCoder Ekiden
+# t32 AtCoder Ekiden (★ 3)
 - アルゴリズム典型
 - permutations
 - 順列全探索
 
-# t33 Not Too Bright
+# t33 Not Too Bright (★ 2)
 - 考察典型
 - コーナーケースに気をつける
 
@@ -181,7 +181,7 @@ link: https://atcoder.jp/contests/typical90
 # t37
 - アルゴリズム典型
 
-# t38 Large LCM
+# t38 Large LCM (★ 3)
 - 考察典型
 - lcm (最小公倍数)
 - オーバーフローに気をつける
@@ -201,7 +201,7 @@ link: https://atcoder.jp/contests/typical90
 # t43
 - アルゴリズム典型
 
-# t44 Shift and Swapping
+# t44 Shift and Swapping (★ 3)
 - 考察典型
 - 見かけ上の変化をメモ
 - 巡回群 (cyclic group)
@@ -209,7 +209,7 @@ link: https://atcoder.jp/contests/typical90
 # t45
 - アルゴリズム典型
 
-# t46 I Love 46
+# t46 I Love 46 (★ 3)
 - 考察典型
 - mod の活用
 - 少ない数の種類に落とし込んで数える
@@ -217,7 +217,7 @@ link: https://atcoder.jp/contests/typical90
 # t47
 - アルゴリズム典型
 
-# t48 I will not drop out
+# t48 I will not drop out (★ 3)
 - 考察典型
 - 上界（下界）を見積もる
 
@@ -225,14 +225,14 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t50 Stair Jump
+# t50 Stair Jump (★ 3)
 - アルゴリズム典型
 - DP の基本
 
 # t51
 - アルゴリズム典型
 
-# t52 Dice Porduct
+# t52 Dice Porduct (★ 3)
 - 考察典型
 - 複雑な問題に対して少ないケースで考える
 - 因数分解 (factorization)
@@ -243,7 +243,7 @@ link: https://atcoder.jp/contests/typical90
 # t54 
 - 考察典型
 
-# t55 Select 5
+# t55 Select 5 (★ 2)
 - 考察典型
 - 全探索
   - 定数倍が大きいと全探索でもなんとかなる例
@@ -265,7 +265,7 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t61 Deck
+# t61 Deck (★ 2)
 - アルゴリズム典型
 - Deque を使う
 
@@ -275,7 +275,7 @@ link: https://atcoder.jp/contests/typical90
 # t63
 - 考察典型
 
-# t64 Uplift
+# t64 Uplift (★ 3)
 - 考察典型
 - 階差を考える
 
@@ -286,7 +286,7 @@ link: https://atcoder.jp/contests/typical90
 # t66
 - 考察典型
 
-# t67 Base 8 to 9
+# t67 Base 8 to 9 (★ 2)
 - アルゴリズム典型
 - N 進法展開
 
@@ -294,7 +294,7 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t69 Colorful Blocks 2
+# t69 Colorful Blocks 2 (★ 3)
 - アルゴリズム典型
 - 繰り返し二乗法 (repeated squaring / binary power)
 
@@ -314,11 +314,11 @@ link: https://atcoder.jp/contests/typical90
 # t74
 - 考察典型
 
-# t75 Magic For Balls
+# t75 Magic For Balls (★ 3)
 - アルゴリズム典型
 - 素因数分解 (prime factorization)
 
-# t76 Cake Cut
+# t76 Cake Cut (★ 3)
 - 考察典型
 - 列を二倍にして円環を表現する
 - しゃくとり法 O(N)
@@ -327,13 +327,13 @@ link: https://atcoder.jp/contests/typical90
 # t77
 - アルゴリズム典型
 
-# t78 Easy Graph Problem
+# t78 Easy Graph Problem (★ 2)
 - アルゴリズム典型
 - 隣接リスト
 - 無向グラフ (graph / Graph)
   - 考え方としては有向だと捉えるみたいな感じなのでは
 
-# t79 Two by Two
+# t79 Two by Two (★ 3)
 - 考察典型
 - 操作順序によらないので順番に全部走査する
 - 余ったところがうまくいっているかで Yes/No 判定
@@ -345,7 +345,7 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t82 Counting Numbers
+# t82 Counting Numbers (★ 3)
 - 考察典型
 - 和の公式
 - modulo の逆元 (inverse)
@@ -355,6 +355,6 @@ link: https://atcoder.jp/contests/typical90
 # t83
 - アルゴリズム典型
 
-# t84 There are two types of characters
+# t84 There are two types of characters (★ 3)
 - 累積的に計算
-- (ランレングス圧縮)
+- ランレングス圧縮(未実装)
