@@ -140,8 +140,10 @@ link: https://atcoder.jp/contests/typical90
 # t25
 - 考察典型
 
-# t26
+# t26 Independent Set on a Tree (★ 4)
 - アルゴリズム典型
+- 木は二部グラフ (bipartite graph)
+- 彩色 (coloring)
 
 # t27 Sign Up Requests (★ 2)
 - アルゴリズム典型
