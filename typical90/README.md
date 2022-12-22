@@ -150,8 +150,10 @@ link: https://atcoder.jp/contests/typical90
 - std::map
   - 今回は Set で実装した
 
-# t28
+# t28 Cluttered Paper (★ 4)
 - アルゴリズム典型
+- 二次元いもす法 (2-dim imos method)
+  - 領域加算
 
 # t29
 - アルゴリズム典型
@@ -171,8 +173,10 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - コーナーケースに気をつける
 
-# t34
+# t34 There are few types of elements (★ 4)
 - アルゴリズム典型
+- しゃくとり法
+- 単調性
 
 # t35
 - アルゴリズム典型
