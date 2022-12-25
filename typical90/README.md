@@ -201,11 +201,15 @@ link: https://atcoder.jp/contests/typical90
 # t41
 - アルゴリズム典型
 
-# t42
+# t42 Multiple of 9 (★ 4)
 - 考察典型
+- 9 の倍数の性質
+- DP
+- メモ化
 
-# t43
+# t43 Maze Challenge with Lack of Sleep (★ 4)
 - アルゴリズム典型
+- 拡張 01-bfs
 
 # t44 Shift and Swapping (★ 3)
 - 考察典型
@@ -261,8 +265,9 @@ link: https://atcoder.jp/contests/typical90
 # t57
 - アルゴリズム典型
 
-# t56
+# t58 Original Calculator (★ 4)
 - 考察典型
+- 周期性を考える
 
 # t59
 - アルゴリズム典型
