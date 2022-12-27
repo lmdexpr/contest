@@ -309,15 +309,20 @@ link: https://atcoder.jp/contests/typical90
 - アルゴリズム典型
 - 繰り返し二乗法 (repeated squaring / binary power)
 
-# t70
+# t70 Plant Planning (★ 4)
 - 考察典型
+- マンハッタン距離 (manhattan distance)
+- 独立して考える
+- 中央値 / 絶対値 / 最小値
 
 # t71
 - アルゴリズム典型
 
-# t72
+# t72 Loop Railway Plan (★ 4)
 - 考察典型
 - アルゴリズム典型
+- 探索範囲が十分少ないので全探索
+- backtrack (dfs)
 
 # t73
 - アルゴリズム典型
@@ -369,3 +374,7 @@ link: https://atcoder.jp/contests/typical90
 # t84 There are two types of characters (★ 3)
 - 累積的に計算
 - ランレングス圧縮(未実装)
+
+# t85 Multiplication 085 (★ 4)
+- 約数列挙
+- 工夫した全探索
