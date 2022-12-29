@@ -165,8 +165,11 @@ link: https://atcoder.jp/contests/typical90
 - 部分課題3
   - 遅延セグメント木(Lazy Segment Tree)
 
-# t30
+# t30 K Factors (★ 5)
 - アルゴリズム典型
+- 素因数列挙
+  - O(N log log N)
+  - エラトステネスの篩 (sieve of eratosthenes) と同じ計算量
 
 # t31
 - アルゴリズム典型
