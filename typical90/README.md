@@ -125,6 +125,7 @@ link: https://atcoder.jp/contests/typical90
 
 # t21
 - アルゴリズム典型
+- 強連結成分分解 (Strongly Connected Components decomopse / SCC decomp)
 
 # t22 Cubic Cake (★ 2)
 - アルゴリズム典型
