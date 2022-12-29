@@ -155,8 +155,14 @@ link: https://atcoder.jp/contests/typical90
 - 二次元いもす法 (2-dim imos method)
   - 領域加算
 
-# t29
+# t29 Long Bricks (★ 5)
 - アルゴリズム典型
+- 部分課題1
+  - 単純にシミュレーション
+- 部分課題2
+  - 座標圧縮
+- 部分課題3
+  - 遅延セグメント木(Lazy Segment Tree)
 
 # t30
 - アルゴリズム典型
