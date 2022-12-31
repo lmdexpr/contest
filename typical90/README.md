@@ -191,8 +191,9 @@ link: https://atcoder.jp/contests/typical90
 # t35
 - アルゴリズム典型
 
-# t36
+# t36 Max Manhattan Distance (★ 5)
 - 考察典型
+- 45度回転
 
 # t37
 - アルゴリズム典型
