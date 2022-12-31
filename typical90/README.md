@@ -203,8 +203,10 @@ link: https://atcoder.jp/contests/typical90
 - lcm (最小公倍数)
 - オーバーフローに気をつける
 
-# t39
+# t39 Tree Distance (★ 5)
 - 考察典型
+- 木 DP
+- 主客転倒
 
 # t40
 - アルゴリズム典型
