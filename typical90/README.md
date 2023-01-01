@@ -252,8 +252,11 @@ link: https://atcoder.jp/contests/typical90
 - アルゴリズム典型
 - DP の基本
 
-# t51
+# t51 Typical Shop (★ 5)
 - アルゴリズム典型
+- 半分全列挙
+- 二分探索
+  - 初期位置を -1 から始めるとうまくいった
 
 # t52 Dice Porduct (★ 3)
 - 考察典型
