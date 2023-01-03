@@ -288,9 +288,11 @@ link: https://atcoder.jp/contests/typical90
 # t59
 - アルゴリズム典型
 
-# t60
+# t60 Chimera (★ 5)
 - 考察典型
 - アルゴリズム典型
+- 最長増加部分列 (LIS)
+- 両側から考える
 
 # t61 Deck (★ 2)
 - アルゴリズム典型
