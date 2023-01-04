@@ -312,8 +312,9 @@ link: https://atcoder.jp/contests/typical90
 - 考察典型
 - アルゴリズム典型
 
-# t66
+# t66 Various Arrays (★ 5)
 - 考察典型
+- 期待値の線形性
 
 # t67 Base 8 to 9 (★ 2)
 - アルゴリズム典型
