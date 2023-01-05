@@ -320,9 +320,11 @@ link: https://atcoder.jp/contests/typical90
 - アルゴリズム典型
 - N 進法展開
 
-# t68
+# t68 Paired Information (★ 5)
 - 考察典型
 - アルゴリズム典型
+- クエリ先読み
+- UnionFind
 
 # t69 Colorful Blocks 2 (★ 3)
 - アルゴリズム典型
