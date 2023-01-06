@@ -345,8 +345,10 @@ link: https://atcoder.jp/contests/typical90
 - 探索範囲が十分少ないので全探索
 - backtrack (dfs)
 
-# t73
+# t73 We Need Both a and b (★ 5)
 - アルゴリズム典型
+- 木 DP
+- DFS
 
 # t74
 - 考察典型
