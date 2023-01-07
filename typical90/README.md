@@ -380,9 +380,11 @@ link: https://atcoder.jp/contests/typical90
 # t80
 - アルゴリズム典型
 
-# t81
+# t81 Friendly Group (★ 5)
 - 考察典型
 - アルゴリズム典型
+- 二次元にプロットして
+- 二次元累積和
 
 # t82 Counting Numbers (★ 3)
 - 考察典型
@@ -401,3 +403,11 @@ link: https://atcoder.jp/contests/typical90
 # t85 Multiplication 085 (★ 4)
 - 約数列挙
 - 工夫した全探索
+
+# t86 Snuke's Favorite Arrays (★ 5)
+- bit (桁) ごとに独立に考える
+- bit 全探索
+
+# t87 Chokudai's Demand (★ 5)
+- ワーシャルフロイド法 (warshal-floyd)
+- 二分探索
