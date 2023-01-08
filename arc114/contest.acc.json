@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc114",
+    "title": "AtCoder Regular Contest 114",
+    "url": "https://atcoder.jp/contests/arc114"
+  },
+  "tasks": [
+    {
+      "id": "arc114_a",
+      "label": "A",
+      "title": "Not coprime",
+      "url": "https://atcoder.jp/contests/arc114/tasks/arc114_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc114_b",
+      "label": "B",
+      "title": "Special Subsets",
+      "url": "https://atcoder.jp/contests/arc114/tasks/arc114_b"
+    },
+    {
+      "id": "arc114_c",
+      "label": "C",
+      "title": "Sequence Scores",
+      "url": "https://atcoder.jp/contests/arc114/tasks/arc114_c"
+    },
+    {
+      "id": "arc114_d",
+      "label": "D",
+      "title": "Moving Pieces on Line",
+      "url": "https://atcoder.jp/contests/arc114/tasks/arc114_d"
+    },
+    {
+      "id": "arc114_e",
+      "label": "E",
+      "title": "Paper Cutting 2",
+      "url": "https://atcoder.jp/contests/arc114/tasks/arc114_e"
+    },
+    {
+      "id": "arc114_f",
+      "label": "F",
+      "title": "Permutation Division",
+      "url": "https://atcoder.jp/contests/arc114/tasks/arc114_f"
+    }
+  ]
+}
