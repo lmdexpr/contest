@@ -1,3 +1,0 @@
-(executable
-  (name e)
-  (libraries core iter num))
