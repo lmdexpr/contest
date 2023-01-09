@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "abc180",
+    "title": "AtCoder Beginner Contest 180",
+    "url": "https://atcoder.jp/contests/abc180"
+  },
+  "tasks": [
+    {
+      "id": "abc180_a",
+      "label": "A",
+      "title": "box",
+      "url": "https://atcoder.jp/contests/abc180/tasks/abc180_a"
+    },
+    {
+      "id": "abc180_b",
+      "label": "B",
+      "title": "Various distances",
+      "url": "https://atcoder.jp/contests/abc180/tasks/abc180_b"
+    },
+    {
+      "id": "abc180_c",
+      "label": "C",
+      "title": "Cream puff",
+      "url": "https://atcoder.jp/contests/abc180/tasks/abc180_c"
+    },
+    {
+      "id": "abc180_d",
+      "label": "D",
+      "title": "Takahashi Unevolved",
+      "url": "https://atcoder.jp/contests/abc180/tasks/abc180_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc180_e",
+      "label": "E",
+      "title": "Traveling Salesman among Aerial Cities",
+      "url": "https://atcoder.jp/contests/abc180/tasks/abc180_e"
+    },
+    {
+      "id": "abc180_f",
+      "label": "F",
+      "title": "Unbranched",
+      "url": "https://atcoder.jp/contests/abc180/tasks/abc180_f"
+    }
+  ]
+}
