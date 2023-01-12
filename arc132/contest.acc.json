@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc132",
+    "title": "AtCoder Regular Contest 132",
+    "url": "https://atcoder.jp/contests/arc132"
+  },
+  "tasks": [
+    {
+      "id": "arc132_a",
+      "label": "A",
+      "title": "Permutation Grid",
+      "url": "https://atcoder.jp/contests/arc132/tasks/arc132_a"
+    },
+    {
+      "id": "arc132_b",
+      "label": "B",
+      "title": "Shift and Reverse",
+      "url": "https://atcoder.jp/contests/arc132/tasks/arc132_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc132_c",
+      "label": "C",
+      "title": "Almost Sorted",
+      "url": "https://atcoder.jp/contests/arc132/tasks/arc132_c"
+    },
+    {
+      "id": "arc132_d",
+      "label": "D",
+      "title": "Between Two Binary Strings",
+      "url": "https://atcoder.jp/contests/arc132/tasks/arc132_d"
+    },
+    {
+      "id": "arc132_e",
+      "label": "E",
+      "title": "Paw",
+      "url": "https://atcoder.jp/contests/arc132/tasks/arc132_e"
+    },
+    {
+      "id": "arc132_f",
+      "label": "F",
+      "title": "Takahashi The Strongest",
+      "url": "https://atcoder.jp/contests/arc132/tasks/arc132_f"
+    }
+  ]
+}
