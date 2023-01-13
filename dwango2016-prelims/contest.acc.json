@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "dwango2016-prelims",
+    "title": "第2回 ドワンゴからの挑戦状 予選",
+    "url": "https://atcoder.jp/contests/dwango2016-prelims"
+  },
+  "tasks": [
+    {
+      "id": "dwango2016qual_a",
+      "label": "A",
+      "title": "ニコニコ数",
+      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_a"
+    },
+    {
+      "id": "dwango2016qual_b",
+      "label": "B",
+      "title": "積み鉛筆",
+      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "dwango2016qual_c",
+      "label": "C",
+      "title": "メンテナンス明け",
+      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_c"
+    },
+    {
+      "id": "dwango2016qual_d",
+      "label": "D",
+      "title": "庭園",
+      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_d"
+    },
+    {
+      "id": "dwango2016qual_e",
+      "label": "E",
+      "title": "花火",
+      "url": "https://atcoder.jp/contests/dwango2016-prelims/tasks/dwango2016qual_e"
+    }
+  ]
+}
