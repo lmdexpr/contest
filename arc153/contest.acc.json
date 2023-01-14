@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc153",
+    "title": "AtCoder Regular Contest 153",
+    "url": "https://atcoder.jp/contests/arc153"
+  },
+  "tasks": [
+    {
+      "id": "arc153_a",
+      "label": "A",
+      "title": "AABCDDEFE",
+      "url": "https://atcoder.jp/contests/arc153/tasks/arc153_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc153_b",
+      "label": "B",
+      "title": "Grid Rotations",
+      "url": "https://atcoder.jp/contests/arc153/tasks/arc153_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc153_c",
+      "label": "C",
+      "title": "± Increasing Sequence",
+      "url": "https://atcoder.jp/contests/arc153/tasks/arc153_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc153_d",
+      "label": "D",
+      "title": "Sum of Sum of Digits",
+      "url": "https://atcoder.jp/contests/arc153/tasks/arc153_d"
+    },
+    {
+      "id": "arc153_e",
+      "label": "E",
+      "title": "Deque Minimization",
+      "url": "https://atcoder.jp/contests/arc153/tasks/arc153_e"
+    },
+    {
+      "id": "arc153_f",
+      "label": "F",
+      "title": "Tri-Colored Paths",
+      "url": "https://atcoder.jp/contests/arc153/tasks/arc153_f"
+    }
+  ]
+}
