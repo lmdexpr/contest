@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "abc245",
+    "title": "AtCoder Beginner Contest 245",
+    "url": "https://atcoder.jp/contests/abc245"
+  },
+  "tasks": [
+    {
+      "id": "abc245_a",
+      "label": "A",
+      "title": "Good morning",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_a"
+    },
+    {
+      "id": "abc245_b",
+      "label": "B",
+      "title": "Mex",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_b"
+    },
+    {
+      "id": "abc245_c",
+      "label": "C",
+      "title": "Choose Elements",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_c"
+    },
+    {
+      "id": "abc245_d",
+      "label": "D",
+      "title": "Polynomial division",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc245_e",
+      "label": "E",
+      "title": "Wrapping Chocolate",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_e"
+    },
+    {
+      "id": "abc245_f",
+      "label": "F",
+      "title": "Endless Walk",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_f"
+    },
+    {
+      "id": "abc245_g",
+      "label": "G",
+      "title": "Foreign Friends",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_g"
+    },
+    {
+      "id": "abc245_h",
+      "label": "Ex",
+      "title": "Product Modulo 2",
+      "url": "https://atcoder.jp/contests/abc245/tasks/abc245_h"
+    }
+  ]
+}
