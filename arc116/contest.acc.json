@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc116",
+    "title": "AtCoder Regular Contest 116",
+    "url": "https://atcoder.jp/contests/arc116"
+  },
+  "tasks": [
+    {
+      "id": "arc116_a",
+      "label": "A",
+      "title": "Odd vs Even",
+      "url": "https://atcoder.jp/contests/arc116/tasks/arc116_a"
+    },
+    {
+      "id": "arc116_b",
+      "label": "B",
+      "title": "Products of Min-Max",
+      "url": "https://atcoder.jp/contests/arc116/tasks/arc116_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc116_c",
+      "label": "C",
+      "title": "Multiple Sequences",
+      "url": "https://atcoder.jp/contests/arc116/tasks/arc116_c"
+    },
+    {
+      "id": "arc116_d",
+      "label": "D",
+      "title": "I Wanna Win The Game",
+      "url": "https://atcoder.jp/contests/arc116/tasks/arc116_d"
+    },
+    {
+      "id": "arc116_e",
+      "label": "E",
+      "title": "Spread of Information",
+      "url": "https://atcoder.jp/contests/arc116/tasks/arc116_e"
+    },
+    {
+      "id": "arc116_f",
+      "label": "F",
+      "title": "Deque Game",
+      "url": "https://atcoder.jp/contests/arc116/tasks/arc116_f"
+    }
+  ]
+}
