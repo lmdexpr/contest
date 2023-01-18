@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc017",
+    "title": "AtCoder Grand Contest 017",
+    "url": "https://atcoder.jp/contests/agc017"
+  },
+  "tasks": [
+    {
+      "id": "agc017_a",
+      "label": "A",
+      "title": "Biscuits",
+      "url": "https://atcoder.jp/contests/agc017/tasks/agc017_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "agc017_b",
+      "label": "B",
+      "title": "Moderate Differences",
+      "url": "https://atcoder.jp/contests/agc017/tasks/agc017_b"
+    },
+    {
+      "id": "agc017_c",
+      "label": "C",
+      "title": "Snuke and Spells",
+      "url": "https://atcoder.jp/contests/agc017/tasks/agc017_c"
+    },
+    {
+      "id": "agc017_d",
+      "label": "D",
+      "title": "Game on Tree",
+      "url": "https://atcoder.jp/contests/agc017/tasks/agc017_d"
+    },
+    {
+      "id": "agc017_e",
+      "label": "E",
+      "title": "Jigsaw",
+      "url": "https://atcoder.jp/contests/agc017/tasks/agc017_e"
+    },
+    {
+      "id": "agc017_f",
+      "label": "F",
+      "title": "Zigzag",
+      "url": "https://atcoder.jp/contests/agc017/tasks/agc017_f"
+    }
+  ]
+}
