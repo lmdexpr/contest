@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc006",
+    "title": "AtCoder Regular Contest 006",
+    "url": "https://atcoder.jp/contests/arc006"
+  },
+  "tasks": [
+    {
+      "id": "arc006_1",
+      "label": "A",
+      "title": "宝くじ",
+      "url": "https://atcoder.jp/contests/arc006/tasks/arc006_1"
+    },
+    {
+      "id": "arc006_2",
+      "label": "B",
+      "title": "あみだくじ",
+      "url": "https://atcoder.jp/contests/arc006/tasks/arc006_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc006_3",
+      "label": "C",
+      "title": "積み重ね",
+      "url": "https://atcoder.jp/contests/arc006/tasks/arc006_3"
+    },
+    {
+      "id": "arc006_4",
+      "label": "D",
+      "title": "アルファベット探し",
+      "url": "https://atcoder.jp/contests/arc006/tasks/arc006_4"
+    }
+  ]
+}
