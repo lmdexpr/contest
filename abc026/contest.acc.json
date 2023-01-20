@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc026",
+    "title": "AtCoder Beginner Contest 026",
+    "url": "https://atcoder.jp/contests/abc026"
+  },
+  "tasks": [
+    {
+      "id": "abc026_a",
+      "label": "A",
+      "title": "掛け算の最大値",
+      "url": "https://atcoder.jp/contests/abc026/tasks/abc026_a"
+    },
+    {
+      "id": "abc026_b",
+      "label": "B",
+      "title": "N重丸",
+      "url": "https://atcoder.jp/contests/abc026/tasks/abc026_b"
+    },
+    {
+      "id": "abc026_c",
+      "label": "C",
+      "title": "高橋君の給料",
+      "url": "https://atcoder.jp/contests/abc026/tasks/abc026_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc026_d",
+      "label": "D",
+      "title": "高橋君ボール1号",
+      "url": "https://atcoder.jp/contests/abc026/tasks/abc026_d"
+    }
+  ]
+}
