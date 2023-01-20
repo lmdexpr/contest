@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc006",
+    "title": "AtCoder Beginner Contest 006",
+    "url": "https://atcoder.jp/contests/abc006"
+  },
+  "tasks": [
+    {
+      "id": "abc006_1",
+      "label": "A",
+      "title": "世界のFizzBuzz",
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_1"
+    },
+    {
+      "id": "abc006_2",
+      "label": "B",
+      "title": "トリボナッチ数列",
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc006_3",
+      "label": "C",
+      "title": "スフィンクスのなぞなぞ",
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_3"
+    },
+    {
+      "id": "abc006_4",
+      "label": "D",
+      "title": "トランプ挿入ソート",
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_4"
+    }
+  ]
+}
