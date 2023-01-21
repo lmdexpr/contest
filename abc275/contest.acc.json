@@ -1,0 +1,62 @@
+{
+  "contest": {
+    "id": "abc275",
+    "title": "AtCoder Beginner Contest 275",
+    "url": "https://atcoder.jp/contests/abc275"
+  },
+  "tasks": [
+    {
+      "id": "abc275_a",
+      "label": "A",
+      "title": "Find Takahashi",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_a"
+    },
+    {
+      "id": "abc275_b",
+      "label": "B",
+      "title": "ABC-DEF",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_b"
+    },
+    {
+      "id": "abc275_c",
+      "label": "C",
+      "title": "Counting Squares",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc275_d",
+      "label": "D",
+      "title": "Yet Another Recursive Function",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_d"
+    },
+    {
+      "id": "abc275_e",
+      "label": "E",
+      "title": "Sugoroku 4",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_e"
+    },
+    {
+      "id": "abc275_f",
+      "label": "F",
+      "title": "Erase Subarrays",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_f"
+    },
+    {
+      "id": "abc275_g",
+      "label": "G",
+      "title": "Infinite Knapsack",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_g"
+    },
+    {
+      "id": "abc275_h",
+      "label": "Ex",
+      "title": "Monster",
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_h"
+    }
+  ]
+}
