@@ -1,12 +1,13 @@
 open Core
+open Scanf
 
-let n = Scanf.scanf "%d" ident
+let n = scanf "%d" ident
 
-let _a = Array.init n ~f:(fun _ -> Scanf.scanf " %d" ident)
+let _a = Array.init n ~f:(fun _ -> scanf " %d" ident)
 
-let _scan_1 _ = Scanf.scanf " %d" ident
-let _scan_2 _ = Scanf.scanf " %d %d" Tuple2.create
-let _scan_3 _ = Scanf.scanf " %d %d %d" Tuple3.create
+let _scan_1 _ = scanf " %d" ident
+let _scan_2 _ = scanf " %d %d" Tuple2.create
+let _scan_3 _ = scanf " %d %d %d" Tuple3.create
 
 let ans = 0
 
