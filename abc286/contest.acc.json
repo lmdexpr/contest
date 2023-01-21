@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc286",
+    "title": "UL Systems Programming Contest 2023(AtCoder Beginner Contest 286)",
+    "url": "https://atcoder.jp/contests/abc286"
+  },
+  "tasks": [
+    {
+      "id": "abc286_a",
+      "label": "A",
+      "title": "Range Swap",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc286_b",
+      "label": "B",
+      "title": "Cat",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc286_c",
+      "label": "C",
+      "title": "Rotate and Palindrome",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc286_d",
+      "label": "D",
+      "title": "Money in Hand",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc286_e",
+      "label": "E",
+      "title": "Souvenir",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc286_f",
+      "label": "F",
+      "title": "Guess The Number 2",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_f"
+    },
+    {
+      "id": "abc286_g",
+      "label": "G",
+      "title": "Unique Walk",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_g"
+    },
+    {
+      "id": "abc286_h",
+      "label": "Ex",
+      "title": "Don't Swim",
+      "url": "https://atcoder.jp/contests/abc286/tasks/abc286_h"
+    }
+  ]
+}
