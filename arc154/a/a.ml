@@ -15,13 +15,10 @@ let modulo = 998244353L
 let x = Array.init n ~f:(fun i -> Int64.min a.(i) b.(i))
 let y = Array.init n ~f:(fun i -> Int64.max a.(i) b.(i))
 
-let int64_of_arr arr =
-  let open Int64 in
-  Array.fold arr
-    ~init:0L
-    ~f:(fun acc x -> (acc * 10L + x) % modulo)
-  % modulo
+open Int64
 
-let ans = Int64.(int64_of_arr x * int64_of_arr y % modulo)
+let int64_of_arr arr = Array.fold arr ~init:0L ~f:(fun acc x -> (acc * 10L + x) % modulo) % modulo
+
+let ans = int64_of_arr x * int64_of_arr y % modulo
 
 let () = printf "%Ld\n%!" ans
