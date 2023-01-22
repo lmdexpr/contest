@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc154",
+    "title": "AtCoder Regular Contest 154",
+    "url": "https://atcoder.jp/contests/arc154"
+  },
+  "tasks": [
+    {
+      "id": "arc154_a",
+      "label": "A",
+      "title": "Swap Digit",
+      "url": "https://atcoder.jp/contests/arc154/tasks/arc154_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc154_b",
+      "label": "B",
+      "title": "New Place",
+      "url": "https://atcoder.jp/contests/arc154/tasks/arc154_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc154_c",
+      "label": "C",
+      "title": "Roller",
+      "url": "https://atcoder.jp/contests/arc154/tasks/arc154_c"
+    },
+    {
+      "id": "arc154_d",
+      "label": "D",
+      "title": "A + B > C ?",
+      "url": "https://atcoder.jp/contests/arc154/tasks/arc154_d"
+    },
+    {
+      "id": "arc154_e",
+      "label": "E",
+      "title": "Reverse and Inversion",
+      "url": "https://atcoder.jp/contests/arc154/tasks/arc154_e"
+    },
+    {
+      "id": "arc154_f",
+      "label": "F",
+      "title": "Dice Game",
+      "url": "https://atcoder.jp/contests/arc154/tasks/arc154_f"
+    }
+  ]
+}
