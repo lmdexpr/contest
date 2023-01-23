@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc152",
+    "title": "AtCoder Regular Contest 152",
+    "url": "https://atcoder.jp/contests/arc152"
+  },
+  "tasks": [
+    {
+      "id": "arc152_a",
+      "label": "A",
+      "title": "Seat Occupation",
+      "url": "https://atcoder.jp/contests/arc152/tasks/arc152_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc152_b",
+      "label": "B",
+      "title": "Pass on Path",
+      "url": "https://atcoder.jp/contests/arc152/tasks/arc152_b"
+    },
+    {
+      "id": "arc152_c",
+      "label": "C",
+      "title": "Pivot",
+      "url": "https://atcoder.jp/contests/arc152/tasks/arc152_c"
+    },
+    {
+      "id": "arc152_d",
+      "label": "D",
+      "title": "Halftree",
+      "url": "https://atcoder.jp/contests/arc152/tasks/arc152_d"
+    },
+    {
+      "id": "arc152_e",
+      "label": "E",
+      "title": "Xor Annihilation",
+      "url": "https://atcoder.jp/contests/arc152/tasks/arc152_e"
+    },
+    {
+      "id": "arc152_f",
+      "label": "F",
+      "title": "Attraction on Tree",
+      "url": "https://atcoder.jp/contests/arc152/tasks/arc152_f"
+    }
+  ]
+}
