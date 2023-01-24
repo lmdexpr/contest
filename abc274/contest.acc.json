@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "abc274",
+    "title": "キーエンスプログラミングコンテスト2022（AtCoder Beginner Contest 274）",
+    "url": "https://atcoder.jp/contests/abc274"
+  },
+  "tasks": [
+    {
+      "id": "abc274_a",
+      "label": "A",
+      "title": "Batting Average",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc274_b",
+      "label": "B",
+      "title": "Line Sensor",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc274_c",
+      "label": "C",
+      "title": "Ameba",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc274_d",
+      "label": "D",
+      "title": "Robot Arms 2",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_d"
+    },
+    {
+      "id": "abc274_e",
+      "label": "E",
+      "title": "Booster",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_e"
+    },
+    {
+      "id": "abc274_f",
+      "label": "F",
+      "title": "Fishing",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_f"
+    },
+    {
+      "id": "abc274_g",
+      "label": "G",
+      "title": "Security Camera 3",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_g"
+    },
+    {
+      "id": "abc274_h",
+      "label": "Ex",
+      "title": "XOR Sum of Arrays",
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_h"
+    }
+  ]
+}
