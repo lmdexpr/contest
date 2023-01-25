@@ -9,13 +9,23 @@
       "id": "abc275_a",
       "label": "A",
       "title": "Find Takahashi",
-      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_a"
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
     },
     {
       "id": "abc275_b",
       "label": "B",
       "title": "ABC-DEF",
-      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_b"
+      "url": "https://atcoder.jp/contests/abc275/tasks/abc275_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
     },
     {
       "id": "abc275_c",
