@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc272",
+    "title": "AtCoder Beginner Contest 272",
+    "url": "https://atcoder.jp/contests/abc272"
+  },
+  "tasks": [
+    {
+      "id": "abc272_a",
+      "label": "A",
+      "title": "Integer Sum",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc272_b",
+      "label": "B",
+      "title": "Everyone is Friends",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc272_c",
+      "label": "C",
+      "title": "Max Even",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc272_d",
+      "label": "D",
+      "title": "Root M Leaper",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc272_e",
+      "label": "E",
+      "title": "Add and Mex",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_e"
+    },
+    {
+      "id": "abc272_f",
+      "label": "F",
+      "title": "Two Strings",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_f"
+    },
+    {
+      "id": "abc272_g",
+      "label": "G",
+      "title": "Yet Another mod M",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_g"
+    },
+    {
+      "id": "abc272_h",
+      "label": "Ex",
+      "title": "Flipping Coins 2",
+      "url": "https://atcoder.jp/contests/abc272/tasks/abc272_h"
+    }
+  ]
+}
