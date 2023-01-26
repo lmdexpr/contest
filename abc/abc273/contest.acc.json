@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc273",
+    "title": "Panasonic Programming Contest 2022(AtCoder Beginner Contest 273)",
+    "url": "https://atcoder.jp/contests/abc273"
+  },
+  "tasks": [
+    {
+      "id": "abc273_a",
+      "label": "A",
+      "title": "A Recursive Function",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc273_b",
+      "label": "B",
+      "title": "Broken Rounding",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc273_c",
+      "label": "C",
+      "title": "(K+1)-th Largest Number",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc273_d",
+      "label": "D",
+      "title": "LRUD Instructions",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc273_e",
+      "label": "E",
+      "title": "Notebook",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_e"
+    },
+    {
+      "id": "abc273_f",
+      "label": "F",
+      "title": "Hammer 2",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_f"
+    },
+    {
+      "id": "abc273_g",
+      "label": "G",
+      "title": "Row Column Sums 2",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_g"
+    },
+    {
+      "id": "abc273_h",
+      "label": "Ex",
+      "title": "Inv(0,1)ving Insert(1,0)n",
+      "url": "https://atcoder.jp/contests/abc273/tasks/abc273_h"
+    }
+  ]
+}
