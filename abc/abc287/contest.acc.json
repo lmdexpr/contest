@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc287",
+    "title": "UNIQUE VISION Programming Contest 2023 New Year (AtCoder Beginner Contest 287)",
+    "url": "https://atcoder.jp/contests/abc287"
+  },
+  "tasks": [
+    {
+      "id": "abc287_a",
+      "label": "A",
+      "title": "Majority",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc287_b",
+      "label": "B",
+      "title": "Postal Card",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc287_c",
+      "label": "C",
+      "title": "Path Graph?",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc287_d",
+      "label": "D",
+      "title": "Match or Not",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc287_e",
+      "label": "E",
+      "title": "Karuta",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_e"
+    },
+    {
+      "id": "abc287_f",
+      "label": "F",
+      "title": "Components",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_f"
+    },
+    {
+      "id": "abc287_g",
+      "label": "G",
+      "title": "Balance Update Query",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_g"
+    },
+    {
+      "id": "abc287_h",
+      "label": "Ex",
+      "title": "Directed Graph and Query",
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_h"
+    }
+  ]
+}
