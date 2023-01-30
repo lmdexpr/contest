@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "abc271",
+    "title": "KYOCERA Programming Contest 2022（AtCoder Beginner Contest 271）",
+    "url": "https://atcoder.jp/contests/abc271"
+  },
+  "tasks": [
+    {
+      "id": "abc271_a",
+      "label": "A",
+      "title": "484558",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc271_b",
+      "label": "B",
+      "title": "Maintain Multiple Sequences",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc271_c",
+      "label": "C",
+      "title": "Manga",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc271_d",
+      "label": "D",
+      "title": "Flip and Adjust",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_d"
+    },
+    {
+      "id": "abc271_e",
+      "label": "E",
+      "title": "Subsequence Path",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_e"
+    },
+    {
+      "id": "abc271_f",
+      "label": "F",
+      "title": "XOR on Grid Path",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_f"
+    },
+    {
+      "id": "abc271_g",
+      "label": "G",
+      "title": "Access Counter",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_g"
+    },
+    {
+      "id": "abc271_h",
+      "label": "Ex",
+      "title": "General General",
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_h"
+    }
+  ]
+}
