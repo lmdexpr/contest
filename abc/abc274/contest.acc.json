@@ -42,7 +42,12 @@
       "id": "abc274_d",
       "label": "D",
       "title": "Robot Arms 2",
-      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_d"
+      "url": "https://atcoder.jp/contests/abc274/tasks/abc274_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
     },
     {
       "id": "abc274_e",
