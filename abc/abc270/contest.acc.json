@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "abc270",
+    "title": "TOYOTA MOTOR CORPORATION Programming Contest 2022(AtCoder Beginner Contest 270)",
+    "url": "https://atcoder.jp/contests/abc270"
+  },
+  "tasks": [
+    {
+      "id": "abc270_a",
+      "label": "A",
+      "title": "1-2-4 Test",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc270_b",
+      "label": "B",
+      "title": "Hammer",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc270_c",
+      "label": "C",
+      "title": "Simple path",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc270_d",
+      "label": "D",
+      "title": "Stones",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_d"
+    },
+    {
+      "id": "abc270_e",
+      "label": "E",
+      "title": "Apple Baskets on Circle",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_e"
+    },
+    {
+      "id": "abc270_f",
+      "label": "F",
+      "title": "Transportation",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_f"
+    },
+    {
+      "id": "abc270_g",
+      "label": "G",
+      "title": "Sequence in mod P",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_g"
+    },
+    {
+      "id": "abc270_h",
+      "label": "Ex",
+      "title": "add 1 ",
+      "url": "https://atcoder.jp/contests/abc270/tasks/abc270_h"
+    }
+  ]
+}
