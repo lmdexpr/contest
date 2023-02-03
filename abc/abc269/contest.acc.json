@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc269",
+    "title": "UNICORN Programming Contest 2022(AtCoder Beginner Contest 269)",
+    "url": "https://atcoder.jp/contests/abc269"
+  },
+  "tasks": [
+    {
+      "id": "abc269_a",
+      "label": "A",
+      "title": "Anyway Takahashi",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc269_b",
+      "label": "B",
+      "title": "Rectangle Detection",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc269_c",
+      "label": "C",
+      "title": "Submask",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc269_d",
+      "label": "D",
+      "title": "Do use hexagon grid",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc269_e",
+      "label": "E",
+      "title": "Last Rook",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_e"
+    },
+    {
+      "id": "abc269_f",
+      "label": "F",
+      "title": "Numbered Checker",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_f"
+    },
+    {
+      "id": "abc269_g",
+      "label": "G",
+      "title": "Reversible Cards 2",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_g"
+    },
+    {
+      "id": "abc269_h",
+      "label": "Ex",
+      "title": "Antichain",
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_h"
+    }
+  ]
+}
