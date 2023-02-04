@@ -42,7 +42,12 @@
       "id": "abc271_d",
       "label": "D",
       "title": "Flip and Adjust",
-      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_d"
+      "url": "https://atcoder.jp/contests/abc271/tasks/abc271_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
     },
     {
       "id": "abc271_e",
