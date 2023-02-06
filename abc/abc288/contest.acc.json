@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "abc288",
+    "title": "Toyota Programming Contest 2023 Spring Qual A（AtCoder Beginner Contest 288）",
+    "url": "https://atcoder.jp/contests/abc288"
+  },
+  "tasks": [
+    {
+      "id": "abc288_a",
+      "label": "A",
+      "title": "Many A+B Problems",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc288_b",
+      "label": "B",
+      "title": "Qualification Contest",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc288_c",
+      "label": "C",
+      "title": "Don’t be cycle",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc288_d",
+      "label": "D",
+      "title": "Range Add Query",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_d"
+    },
+    {
+      "id": "abc288_e",
+      "label": "E",
+      "title": "Wish List",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_e"
+    },
+    {
+      "id": "abc288_f",
+      "label": "F",
+      "title": "Integer Division",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_f"
+    },
+    {
+      "id": "abc288_g",
+      "label": "G",
+      "title": "3^N Minesweeper",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_g"
+    },
+    {
+      "id": "abc288_h",
+      "label": "Ex",
+      "title": "A Nameless Counting Problem",
+      "url": "https://atcoder.jp/contests/abc288/tasks/abc288_h"
+    }
+  ]
+}
