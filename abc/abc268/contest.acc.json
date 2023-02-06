@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "abc268",
+    "title": "UNIQUE VISION Programming Contest 2022 Summer (AtCoder Beginner Contest 268)",
+    "url": "https://atcoder.jp/contests/abc268"
+  },
+  "tasks": [
+    {
+      "id": "abc268_a",
+      "label": "A",
+      "title": "Five Integers",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc268_b",
+      "label": "B",
+      "title": "Prefix?",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc268_c",
+      "label": "C",
+      "title": "Chinese Restaurant",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc268_d",
+      "label": "D",
+      "title": "Unique Username",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_d"
+    },
+    {
+      "id": "abc268_e",
+      "label": "E",
+      "title": "Chinese Restaurant (Three-Star Version)",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_e"
+    },
+    {
+      "id": "abc268_f",
+      "label": "F",
+      "title": "Best Concatenation",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_f"
+    },
+    {
+      "id": "abc268_g",
+      "label": "G",
+      "title": "Random Student ID",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_g"
+    },
+    {
+      "id": "abc268_h",
+      "label": "Ex",
+      "title": "Taboo",
+      "url": "https://atcoder.jp/contests/abc268/tasks/abc268_h"
+    }
+  ]
+}
