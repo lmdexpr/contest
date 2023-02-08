@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc267",
+    "title": "NEC Programming Contest 2022 (AtCoder Beginner Contest 267)",
+    "url": "https://atcoder.jp/contests/abc267"
+  },
+  "tasks": [
+    {
+      "id": "abc267_a",
+      "label": "A",
+      "title": "Saturday",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc267_b",
+      "label": "B",
+      "title": "Split?",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc267_c",
+      "label": "C",
+      "title": "Index × A(Continuous ver.)",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc267_d",
+      "label": "D",
+      "title": "Index × A(Not Continuous ver.)",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc267_e",
+      "label": "E",
+      "title": "Erasing Vertices 2",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_e"
+    },
+    {
+      "id": "abc267_f",
+      "label": "F",
+      "title": "Exactly K Steps",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_f"
+    },
+    {
+      "id": "abc267_g",
+      "label": "G",
+      "title": "Increasing K Times",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_g"
+    },
+    {
+      "id": "abc267_h",
+      "label": "Ex",
+      "title": "Odd Sum",
+      "url": "https://atcoder.jp/contests/abc267/tasks/abc267_h"
+    }
+  ]
+}
