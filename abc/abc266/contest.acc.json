@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc266",
+    "title": "AtCoder Beginner Contest 266",
+    "url": "https://atcoder.jp/contests/abc266"
+  },
+  "tasks": [
+    {
+      "id": "abc266_a",
+      "label": "A",
+      "title": "Middle  Letter",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc266_b",
+      "label": "B",
+      "title": "Modulo Number",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc266_c",
+      "label": "C",
+      "title": "Convex Quadrilateral",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc266_d",
+      "label": "D",
+      "title": "Snuke Panic (1D)",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc266_e",
+      "label": "E",
+      "title": "Throwing the Die",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_e"
+    },
+    {
+      "id": "abc266_f",
+      "label": "F",
+      "title": "Well-defined Path Queries on a Namori",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_f"
+    },
+    {
+      "id": "abc266_g",
+      "label": "G",
+      "title": "Yet Another RGB Sequence",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_g"
+    },
+    {
+      "id": "abc266_h",
+      "label": "Ex",
+      "title": "Snuke Panic (2D)",
+      "url": "https://atcoder.jp/contests/abc266/tasks/abc266_h"
+    }
+  ]
+}
