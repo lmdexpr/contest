@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc033",
+    "title": "AtCoder Grand Contest 033",
+    "url": "https://atcoder.jp/contests/agc033"
+  },
+  "tasks": [
+    {
+      "id": "agc033_a",
+      "label": "A",
+      "title": "Darker and Darker",
+      "url": "https://atcoder.jp/contests/agc033/tasks/agc033_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "agc033_b",
+      "label": "B",
+      "title": "LRUD Game",
+      "url": "https://atcoder.jp/contests/agc033/tasks/agc033_b"
+    },
+    {
+      "id": "agc033_c",
+      "label": "C",
+      "title": "Removing Coins",
+      "url": "https://atcoder.jp/contests/agc033/tasks/agc033_c"
+    },
+    {
+      "id": "agc033_d",
+      "label": "D",
+      "title": "Complexity",
+      "url": "https://atcoder.jp/contests/agc033/tasks/agc033_d"
+    },
+    {
+      "id": "agc033_e",
+      "label": "E",
+      "title": "Go around a Circle",
+      "url": "https://atcoder.jp/contests/agc033/tasks/agc033_e"
+    },
+    {
+      "id": "agc033_f",
+      "label": "F",
+      "title": "Adding Edges",
+      "url": "https://atcoder.jp/contests/agc033/tasks/agc033_f"
+    }
+  ]
+}
