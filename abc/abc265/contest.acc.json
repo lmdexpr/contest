@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc265",
+    "title": "AtCoder Beginner Contest 265",
+    "url": "https://atcoder.jp/contests/abc265"
+  },
+  "tasks": [
+    {
+      "id": "abc265_a",
+      "label": "A",
+      "title": "Apple",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc265_b",
+      "label": "B",
+      "title": "Explore",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc265_c",
+      "label": "C",
+      "title": "Belt Conveyor",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc265_d",
+      "label": "D",
+      "title": "Iroha and Haiku (New ABC Edition)",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc265_e",
+      "label": "E",
+      "title": "Warp",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_e"
+    },
+    {
+      "id": "abc265_f",
+      "label": "F",
+      "title": "Manhattan Cafe",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_f"
+    },
+    {
+      "id": "abc265_g",
+      "label": "G",
+      "title": "012 Inversion",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_g"
+    },
+    {
+      "id": "abc265_h",
+      "label": "Ex",
+      "title": "No-capture Lance Game",
+      "url": "https://atcoder.jp/contests/abc265/tasks/abc265_h"
+    }
+  ]
+}
