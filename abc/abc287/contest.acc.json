@@ -53,7 +53,12 @@
       "id": "abc287_e",
       "label": "E",
       "title": "Karuta",
-      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_e"
+      "url": "https://atcoder.jp/contests/abc287/tasks/abc287_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
     },
     {
       "id": "abc287_f",
