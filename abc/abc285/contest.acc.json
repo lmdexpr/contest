@@ -53,7 +53,12 @@
       "id": "abc285_e",
       "label": "E",
       "title": "Work or Rest",
-      "url": "https://atcoder.jp/contests/abc285/tasks/abc285_e"
+      "url": "https://atcoder.jp/contests/abc285/tasks/abc285_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
     },
     {
       "id": "abc285_f",
