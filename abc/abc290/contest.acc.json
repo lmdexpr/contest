@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc290",
+    "title": "Toyota Programming Contest 2023 Spring Qual B（AtCoder Beginner Contest 290）",
+    "url": "https://atcoder.jp/contests/abc290"
+  },
+  "tasks": [
+    {
+      "id": "abc290_a",
+      "label": "A",
+      "title": "Contest Result",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc290_b",
+      "label": "B",
+      "title": "Qual B",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "C",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc290_d",
+      "label": "D",
+      "title": "Marking",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc290_e",
+      "label": "E",
+      "title": "Make it Palindrome",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc290_f",
+      "label": "F",
+      "title": "Maximum Diameter",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_f"
+    },
+    {
+      "id": "abc290_g",
+      "label": "G",
+      "title": "Edge Elimination",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_g"
+    },
+    {
+      "id": "abc290_h",
+      "label": "Ex",
+      "title": "Bow Meow Optimization",
+      "url": "https://atcoder.jp/contests/abc290/tasks/abc290_h"
+    }
+  ]
+}
