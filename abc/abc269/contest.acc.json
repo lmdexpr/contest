@@ -53,7 +53,12 @@
       "id": "abc269_e",
       "label": "E",
       "title": "Last Rook",
-      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_e"
+      "url": "https://atcoder.jp/contests/abc269/tasks/abc269_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
     },
     {
       "id": "abc269_f",
