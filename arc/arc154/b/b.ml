@@ -2,13 +2,27 @@ open Core
 open Scanf
 
 let n = scanf "%d" ident
+let s = scanf " %s" ident
+let t = scanf " %s" ident
 
-let _a = Array.init n ~f:(fun _ -> scanf " %d" ident)
+let sa = Array.init 26 ~f:(const 0)
+let ta = Array.init 26 ~f:(const 0)
+let () =
+  for i = 0 to n - 1 do
+    let ord s = Char.to_int s.[i] - Char.to_int 'a' in
+    sa.(ord s) <- sa.(ord s) + 1;
+    ta.(ord t) <- ta.(ord t) + 1
+  done;
+  for i = 0 to 25 do
+    if sa.(i) <> ta.(i) then (printf "-1\n%!"; exit 0)
+  done
 
-let _scan_1 _ = scanf " %d" ident
-let _scan_2 _ = scanf " %d %d" Tuple2.create
-let _scan_3 _ = scanf " %d %d %d" Tuple3.create
+let rec greedy i j =
+  if j < 0 then i + 1
+  else if Char.(s.[i] = t.[j]) then greedy (i - 1) (j - 1)
+  else
+    greedy i (j - 1)
 
-let ans = 0
-
-let () = printf "%d\n%!" ans
+let () =
+  greedy (n - 1) (n - 1)
+  |> printf "%d\n%!"
