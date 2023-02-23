@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc264",
+    "title": "freee Programming Contest 2022（AtCoder Beginner Contest 264）",
+    "url": "https://atcoder.jp/contests/abc264"
+  },
+  "tasks": [
+    {
+      "id": "abc264_a",
+      "label": "A",
+      "title": "\"atcoder\".substr()",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc264_b",
+      "label": "B",
+      "title": "Nice Grid",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc264_c",
+      "label": "C",
+      "title": "Matrix Reducing",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc264_d",
+      "label": "D",
+      "title": "\"redocta\".swap(i,i+1)",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc264_e",
+      "label": "E",
+      "title": "Blackout 2",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc264_f",
+      "label": "F",
+      "title": "Monochromatic Path",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_f"
+    },
+    {
+      "id": "abc264_g",
+      "label": "G",
+      "title": "String Fair",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_g"
+    },
+    {
+      "id": "abc264_h",
+      "label": "Ex",
+      "title": "Perfect Binary Tree",
+      "url": "https://atcoder.jp/contests/abc264/tasks/abc264_h"
+    }
+  ]
+}
