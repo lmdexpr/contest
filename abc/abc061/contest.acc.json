@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc061",
+    "title": "AtCoder Beginner Contest 061",
+    "url": "https://atcoder.jp/contests/abc061"
+  },
+  "tasks": [
+    {
+      "id": "abc061_a",
+      "label": "A",
+      "title": "Between Two Integers",
+      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_a"
+    },
+    {
+      "id": "abc061_b",
+      "label": "B",
+      "title": "Counting Roads",
+      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_b"
+    },
+    {
+      "id": "abc061_c",
+      "label": "C",
+      "title": "Big Array",
+      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc061_d",
+      "label": "D",
+      "title": "Score Attack",
+      "url": "https://atcoder.jp/contests/abc061/tasks/abc061_d"
+    }
+  ]
+}
