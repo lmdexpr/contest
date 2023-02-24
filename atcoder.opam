@@ -10,7 +10,7 @@ depends: [
   "ocaml" {= "4.10.2"}
   "ocamlformat"
   "ocaml-lsp-server"
-  "dune" {>= "3.3"}
+  "dune" {>= "3.7"}
   "cmdliner"
   "ounit2"
   "core"
