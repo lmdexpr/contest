@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc291",
+    "title": "AtCoder Beginner Contest 291（Sponsored by TOYOTA SYSTEMS）",
+    "url": "https://atcoder.jp/contests/abc291"
+  },
+  "tasks": [
+    {
+      "id": "abc291_a",
+      "label": "A",
+      "title": "camel Case",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc291_b",
+      "label": "B",
+      "title": "Trimmed Mean",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc291_c",
+      "label": "C",
+      "title": "LRUD Instructions 2",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc291_d",
+      "label": "D",
+      "title": "Flip Cards",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc291_e",
+      "label": "E",
+      "title": "Find Permutation",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc291_f",
+      "label": "F",
+      "title": "Teleporter and Closed off",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_f"
+    },
+    {
+      "id": "abc291_g",
+      "label": "G",
+      "title": "OR Sum",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_g"
+    },
+    {
+      "id": "abc291_h",
+      "label": "Ex",
+      "title": "Balanced Tree",
+      "url": "https://atcoder.jp/contests/abc291/tasks/abc291_h"
+    }
+  ]
+}
