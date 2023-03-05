@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc292",
+    "title": "AtCoder Beginner Contest 292",
+    "url": "https://atcoder.jp/contests/abc292"
+  },
+  "tasks": [
+    {
+      "id": "abc292_a",
+      "label": "A",
+      "title": "CAPS LOCK",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc292_b",
+      "label": "B",
+      "title": "Yellow and Red Card",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc292_c",
+      "label": "C",
+      "title": "Four Variables",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc292_d",
+      "label": "D",
+      "title": "Unicyclic Components",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc292_e",
+      "label": "E",
+      "title": "Transitivity",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc292_f",
+      "label": "F",
+      "title": "Regular Triangle Inside a Rectangle",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_f"
+    },
+    {
+      "id": "abc292_g",
+      "label": "G",
+      "title": "Count Strictly Increasing Sequences",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_g"
+    },
+    {
+      "id": "abc292_h",
+      "label": "Ex",
+      "title": "Rating Estimator",
+      "url": "https://atcoder.jp/contests/abc292/tasks/abc292_h"
+    }
+  ]
+}
