@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc004",
+    "title": "AtCoder Beginner Contest 004",
+    "url": "https://atcoder.jp/contests/abc004"
+  },
+  "tasks": [
+    {
+      "id": "abc004_1",
+      "label": "A",
+      "title": "流行",
+      "url": "https://atcoder.jp/contests/abc004/tasks/abc004_1"
+    },
+    {
+      "id": "abc004_2",
+      "label": "B",
+      "title": "回転",
+      "url": "https://atcoder.jp/contests/abc004/tasks/abc004_2"
+    },
+    {
+      "id": "abc004_3",
+      "label": "C",
+      "title": "入れ替え",
+      "url": "https://atcoder.jp/contests/abc004/tasks/abc004_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc004_4",
+      "label": "D",
+      "title": "マーブル",
+      "url": "https://atcoder.jp/contests/abc004/tasks/abc004_4"
+    }
+  ]
+}
