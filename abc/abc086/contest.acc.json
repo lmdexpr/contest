@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc086",
+    "title": "AtCoder Beginner Contest 086",
+    "url": "https://atcoder.jp/contests/abc086"
+  },
+  "tasks": [
+    {
+      "id": "abc086_a",
+      "label": "A",
+      "title": "Product",
+      "url": "https://atcoder.jp/contests/abc086/tasks/abc086_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc086_b",
+      "label": "B",
+      "title": "1 21",
+      "url": "https://atcoder.jp/contests/abc086/tasks/abc086_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc089_a",
+      "label": "C",
+      "title": "Traveling",
+      "url": "https://atcoder.jp/contests/abc086/tasks/arc089_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc089_b",
+      "label": "D",
+      "title": "Checker",
+      "url": "https://atcoder.jp/contests/abc086/tasks/arc089_b"
+    }
+  ]
+}
