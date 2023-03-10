@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc013",
+    "title": "AtCoder Beginner Contest 013",
+    "url": "https://atcoder.jp/contests/abc013"
+  },
+  "tasks": [
+    {
+      "id": "abc013_1",
+      "label": "A",
+      "title": "A",
+      "url": "https://atcoder.jp/contests/abc013/tasks/abc013_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc013_2",
+      "label": "B",
+      "title": "錠",
+      "url": "https://atcoder.jp/contests/abc013/tasks/abc013_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc013_3",
+      "label": "C",
+      "title": "節制",
+      "url": "https://atcoder.jp/contests/abc013/tasks/abc013_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc013_4",
+      "label": "D",
+      "title": "阿弥陀",
+      "url": "https://atcoder.jp/contests/abc013/tasks/abc013_4"
+    }
+  ]
+}
