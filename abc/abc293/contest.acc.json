@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc293",
+    "title": "AtCoder Beginner Contest 293",
+    "url": "https://atcoder.jp/contests/abc293"
+  },
+  "tasks": [
+    {
+      "id": "abc293_a",
+      "label": "A",
+      "title": "Swap Odd and Even",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc293_b",
+      "label": "B",
+      "title": "Call the ID Number",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc293_c",
+      "label": "C",
+      "title": "Make Takahashi Happy ",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc293_d",
+      "label": "D",
+      "title": "Tying Rope",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc293_e",
+      "label": "E",
+      "title": "Geometric Progression",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc293_f",
+      "label": "F",
+      "title": "Zero or One",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_f"
+    },
+    {
+      "id": "abc293_g",
+      "label": "G",
+      "title": "Triple Index",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_g"
+    },
+    {
+      "id": "abc293_h",
+      "label": "Ex",
+      "title": "Optimal Path Decomposition",
+      "url": "https://atcoder.jp/contests/abc293/tasks/abc293_h"
+    }
+  ]
+}
