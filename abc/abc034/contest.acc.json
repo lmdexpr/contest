@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc034",
+    "title": "AtCoder Beginner Contest 034",
+    "url": "https://atcoder.jp/contests/abc034"
+  },
+  "tasks": [
+    {
+      "id": "abc034_a",
+      "label": "A",
+      "title": "テスト",
+      "url": "https://atcoder.jp/contests/abc034/tasks/abc034_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc034_b",
+      "label": "B",
+      "title": "ペア",
+      "url": "https://atcoder.jp/contests/abc034/tasks/abc034_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc034_c",
+      "label": "C",
+      "title": "経路",
+      "url": "https://atcoder.jp/contests/abc034/tasks/abc034_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc034_d",
+      "label": "D",
+      "title": "食塩水",
+      "url": "https://atcoder.jp/contests/abc034/tasks/abc034_d"
+    }
+  ]
+}
