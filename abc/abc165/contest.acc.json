@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc165",
+    "title": "AtCoder Beginner Contest 165",
+    "url": "https://atcoder.jp/contests/abc165"
+  },
+  "tasks": [
+    {
+      "id": "abc165_a",
+      "label": "A",
+      "title": "We Love Golf",
+      "url": "https://atcoder.jp/contests/abc165/tasks/abc165_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc165_b",
+      "label": "B",
+      "title": "1%",
+      "url": "https://atcoder.jp/contests/abc165/tasks/abc165_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc165_c",
+      "label": "C",
+      "title": "Many Requirements",
+      "url": "https://atcoder.jp/contests/abc165/tasks/abc165_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc165_d",
+      "label": "D",
+      "title": "Floor Function",
+      "url": "https://atcoder.jp/contests/abc165/tasks/abc165_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc165_e",
+      "label": "E",
+      "title": "Rotation Matching",
+      "url": "https://atcoder.jp/contests/abc165/tasks/abc165_e"
+    },
+    {
+      "id": "abc165_f",
+      "label": "F",
+      "title": "LIS on Tree",
+      "url": "https://atcoder.jp/contests/abc165/tasks/abc165_f"
+    }
+  ]
+}
