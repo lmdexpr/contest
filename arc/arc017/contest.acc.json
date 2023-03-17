@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc017",
+    "title": "AtCoder Regular Contest 017",
+    "url": "https://atcoder.jp/contests/arc017"
+  },
+  "tasks": [
+    {
+      "id": "arc017_1",
+      "label": "A",
+      "title": "素数、コンテスト、素数",
+      "url": "https://atcoder.jp/contests/arc017/tasks/arc017_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc017_2",
+      "label": "B",
+      "title": "解像度が低い。",
+      "url": "https://atcoder.jp/contests/arc017/tasks/arc017_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc017_3",
+      "label": "C",
+      "title": "無駄なものが嫌いな人",
+      "url": "https://atcoder.jp/contests/arc017/tasks/arc017_3"
+    },
+    {
+      "id": "arc017_4",
+      "label": "D",
+      "title": "ARCたんクッキー",
+      "url": "https://atcoder.jp/contests/arc017/tasks/arc017_4"
+    }
+  ]
+}
