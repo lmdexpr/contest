@@ -1,0 +1,5 @@
+(library
+  (name lib)
+  (inline_tests)
+  (libraries core iter num)
+  (preprocess (pps ppx_inline_test)))
