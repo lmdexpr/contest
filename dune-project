@@ -1,6 +1,6 @@
 (lang dune 3.7)
 
-(name atcoder)
+(name contest)
 
 (generate_opam_files true)
 
@@ -13,7 +13,7 @@
 (license MIT)
 
 (package
- (name atcoder)
+ (name contest)
  (synopsis "For contest.")
  (allow_empty)
  (depends
@@ -27,5 +27,4 @@
    iter
    num
    containers
-   threads
    batteries))

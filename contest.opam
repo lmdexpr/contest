@@ -17,7 +17,6 @@ depends: [
   "iter"
   "num"
   "containers"
-  "threads"
   "batteries"
   "odoc" {with-doc}
 ]
