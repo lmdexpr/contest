@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc029",
+    "title": "AtCoder Regular Contest 029",
+    "url": "https://atcoder.jp/contests/arc029"
+  },
+  "tasks": [
+    {
+      "id": "arc029_1",
+      "label": "A",
+      "title": "高橋君とお肉",
+      "url": "https://atcoder.jp/contests/arc029/tasks/arc029_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc029_2",
+      "label": "B",
+      "title": "高橋君と禁断の書",
+      "url": "https://atcoder.jp/contests/arc029/tasks/arc029_2"
+    },
+    {
+      "id": "arc029_3",
+      "label": "C",
+      "title": "高橋君と国家",
+      "url": "https://atcoder.jp/contests/arc029/tasks/arc029_3"
+    },
+    {
+      "id": "arc029_4",
+      "label": "D",
+      "title": "高橋君と木のおもちゃ",
+      "url": "https://atcoder.jp/contests/arc029/tasks/arc029_4"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc028",
+    "title": "AtCoder Regular Contest 028",
+    "url": "https://atcoder.jp/contests/arc028"
+  },
+  "tasks": [
+    {
+      "id": "arc028_1",
+      "label": "A",
+      "title": "小石を取るゲーム",
+      "url": "https://atcoder.jp/contests/arc028/tasks/arc028_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc028_2",
+      "label": "B",
+      "title": "特別賞",
+      "url": "https://atcoder.jp/contests/arc028/tasks/arc028_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc028_3",
+      "label": "C",
+      "title": "高橋王国の分割統治",
+      "url": "https://atcoder.jp/contests/arc028/tasks/arc028_3"
+    },
+    {
+      "id": "arc028_4",
+      "label": "D",
+      "title": "注文の多い高橋商店",
+      "url": "https://atcoder.jp/contests/arc028/tasks/arc028_4"
+    }
+  ]
+}
