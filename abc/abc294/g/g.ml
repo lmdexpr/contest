@@ -23,9 +23,9 @@ let () =
     e.(u).(v) <- w
   done
 
-let vin  = Array.init (n+1) ~f:ident
-let vout = Array.init (n+1) ~f:ident
-let route =
+let _vin  = Array.init (n+1) ~f:ident
+let _vout = Array.init (n+1) ~f:ident
+let _route =
   let visit = Array.init (n+1) ~f:(const false) in
   let rec dfs v route =
     if visit.(v) then route
