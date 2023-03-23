@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc158",
+    "title": "AtCoder Regular Contest 158",
+    "url": "https://atcoder.jp/contests/arc158"
+  },
+  "tasks": [
+    {
+      "id": "arc158_a",
+      "label": "A",
+      "title": "+3 +5 +7",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc158_b",
+      "label": "B",
+      "title": "Sum-Product Ratio",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc158_c",
+      "label": "C",
+      "title": "All Pair Digit Sums",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc158_d",
+      "label": "D",
+      "title": "Equation",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "arc158_e",
+      "label": "E",
+      "title": "All Pair Shortest Paths",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "arc158_f",
+      "label": "F",
+      "title": "Random Radix Sort",
+      "url": "https://atcoder.jp/contests/arc158/tasks/arc158_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
