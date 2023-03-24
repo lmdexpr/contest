@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc157",
+    "title": "AtCoder Regular Contest 157",
+    "url": "https://atcoder.jp/contests/arc157"
+  },
+  "tasks": [
+    {
+      "id": "arc157_a",
+      "label": "A",
+      "title": "XXYYX",
+      "url": "https://atcoder.jp/contests/arc157/tasks/arc157_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc157_b",
+      "label": "B",
+      "title": "XYYYX",
+      "url": "https://atcoder.jp/contests/arc157/tasks/arc157_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc157_c",
+      "label": "C",
+      "title": "YY Square",
+      "url": "https://atcoder.jp/contests/arc157/tasks/arc157_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc157_d",
+      "label": "D",
+      "title": "YY Garden",
+      "url": "https://atcoder.jp/contests/arc157/tasks/arc157_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "arc157_e",
+      "label": "E",
+      "title": "XXYX Binary Tree",
+      "url": "https://atcoder.jp/contests/arc157/tasks/arc157_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "arc157_f",
+      "label": "F",
+      "title": "XY Ladder LCS",
+      "url": "https://atcoder.jp/contests/arc157/tasks/arc157_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
