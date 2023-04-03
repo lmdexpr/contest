@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc151",
+    "title": "AtCoder Regular Contest 151",
+    "url": "https://atcoder.jp/contests/arc151"
+  },
+  "tasks": [
+    {
+      "id": "arc151_a",
+      "label": "A",
+      "title": "Equal Hamming Distances",
+      "url": "https://atcoder.jp/contests/arc151/tasks/arc151_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc151_b",
+      "label": "B",
+      "title": "A < AP",
+      "url": "https://atcoder.jp/contests/arc151/tasks/arc151_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc151_c",
+      "label": "C",
+      "title": "01 Game",
+      "url": "https://atcoder.jp/contests/arc151/tasks/arc151_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc151_d",
+      "label": "D",
+      "title": "Binary Representations and Queries",
+      "url": "https://atcoder.jp/contests/arc151/tasks/arc151_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "arc151_e",
+      "label": "E",
+      "title": "Keep Being Substring",
+      "url": "https://atcoder.jp/contests/arc151/tasks/arc151_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "arc151_f",
+      "label": "F",
+      "title": "RGB Card Game",
+      "url": "https://atcoder.jp/contests/arc151/tasks/arc151_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
