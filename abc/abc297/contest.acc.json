@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc297",
+    "title": "AtCoder Beginner Contest 297",
+    "url": "https://atcoder.jp/contests/abc297"
+  },
+  "tasks": [
+    {
+      "id": "abc297_a",
+      "label": "A",
+      "title": "Double Click",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc297_b",
+      "label": "B",
+      "title": "chess960",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc297_c",
+      "label": "C",
+      "title": "PC on the Table",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc297_d",
+      "label": "D",
+      "title": "Count Subtractions",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc297_e",
+      "label": "E",
+      "title": "Kth Takoyaki Set",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc297_f",
+      "label": "F",
+      "title": "Minimum Bouding Box 2",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc297_g",
+      "label": "G",
+      "title": "Constrained Nim 2",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc297_h",
+      "label": "Ex",
+      "title": "Diff Adjacent",
+      "url": "https://atcoder.jp/contests/abc297/tasks/abc297_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}

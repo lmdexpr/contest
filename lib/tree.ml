@@ -34,9 +34,9 @@ module Segment_tree = struct
     |> Iter.iter (fun k -> seg.(k) <- op seg.(left k) seg.(right k))
 end
 
-module Fenwick_tree = struct
-  type elt  = int
-  let unity = 0
+module Fenwick_tree (M : Int_intf.S) = struct
+  type elt  = M.t
+  let unity = M.zero
 
   type t = { bit: elt array array; size: int }
 
@@ -46,21 +46,21 @@ module Fenwick_tree = struct
 
   let rec add tree p k x =
     if k <= tree.size then begin
-      tree.bit.(p).(k) <- tree.bit.(p).(k) + x;
+      tree.bit.(p).(k) <- M.(tree.bit.(p).(k) + x);
       add tree p (k land -k) x
     end
   let add tree l r x = begin
-    add tree 0 l @@ -x * (l - 1);
-    add tree 0 r @@ x * (r - 1);
+    add tree 0 l M.(-x * of_int_exn Int.(l - 1));
+    add tree 0 r M.(x * of_int_exn Int.(r - 1));
     add tree 1 l x;
-    add tree 1 r @@ -x;
+    add tree 1 r M.(-x);
   end
 
   let rec sum ?(acc=unity) tree p k =
     if k <= 0 then acc
     else
-      sum tree p ~acc:(acc + tree.bit.(p).(k)) @@ k - (k land -k)
-  let sum tree k = sum tree 0 k + k * sum tree 1 k
+      sum tree p ~acc:M.(acc + tree.bit.(p).(k)) @@ k - (k land -k)
+  let sum tree k = M.(sum tree 0 k + of_int_exn k * sum tree 1 k)
 
-  let query tree l r = sum tree (r - 1) - sum tree (l - 1)
+  let query tree l r = M.(sum tree Int.(r - 1) - sum tree Int.(l - 1))
 end
