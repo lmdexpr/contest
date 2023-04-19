@@ -8,7 +8,7 @@ path=`cd ../template && pwd`
 mkdir $dir
 pushd $dir
 
-for ((i = 1; i <= 5; i++)); do
+for ((i = 1; i <= 6; i++)); do
   mkdir $i
   pushd $i
   cp $path/dune ./
