@@ -1,12 +1,14 @@
 #!/bin/sh
 
+cd `dirname $0`
+
 dir=$1
 url=$2
 
 path=`cd ../../template && pwd`
 
 mkdir $dir
-pushd $dir
+cd $dir
 
 cp $path/dune ./
 cp $path/main.ml ./
