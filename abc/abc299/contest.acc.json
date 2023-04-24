@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc299",
+    "title": "Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299)",
+    "url": "https://atcoder.jp/contests/abc299"
+  },
+  "tasks": [
+    {
+      "id": "abc299_a",
+      "label": "A",
+      "title": "Treasure Chest",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc299_b",
+      "label": "B",
+      "title": "Trick Taking",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc299_c",
+      "label": "C",
+      "title": "Dango",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc299_d",
+      "label": "D",
+      "title": "Find by Query",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc299_e",
+      "label": "E",
+      "title": "Nearest Black Vertex",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc299_f",
+      "label": "F",
+      "title": "Square Subsequence",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc299_g",
+      "label": "G",
+      "title": "Minimum Permutation",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc299_h",
+      "label": "Ex",
+      "title": "Dice Sum Infinity",
+      "url": "https://atcoder.jp/contests/abc299/tasks/abc299_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}

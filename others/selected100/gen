@@ -1,11 +1,11 @@
 #!/bin/sh
 
-cd `dirname $0`
+pwd=`dirname $0`
 
 dir=$1
 url=$2
 
-path=`cd ../../template && pwd`
+path=`cd $pwd/../../template && pwd`
 
 mkdir $dir
 cd $dir

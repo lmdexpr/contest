@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc225",
+    "title": "UNICORN Programming Contest 2021(AtCoder Beginner Contest 225)",
+    "url": "https://atcoder.jp/contests/abc225"
+  },
+  "tasks": [
+    {
+      "id": "abc225_a",
+      "label": "A",
+      "title": "Distinct Strings",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc225_b",
+      "label": "B",
+      "title": "Star or Not",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc225_c",
+      "label": "C",
+      "title": "Calendar Validator",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc225_d",
+      "label": "D",
+      "title": "Play Train",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc225_e",
+      "label": "E",
+      "title": "7",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc225_f",
+      "label": "F",
+      "title": "String Cards",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc225_g",
+      "label": "G",
+      "title": "X",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc225_h",
+      "label": "H",
+      "title": "Social Distance 2",
+      "url": "https://atcoder.jp/contests/abc225/tasks/abc225_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    }
+  ]
+}
