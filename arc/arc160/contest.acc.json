@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc160",
+    "title": "AtCoder Regular Contest 160",
+    "url": "https://atcoder.jp/contests/arc160"
+  },
+  "tasks": [
+    {
+      "id": "arc160_a",
+      "label": "A",
+      "title": "Reverse and Count",
+      "url": "https://atcoder.jp/contests/arc160/tasks/arc160_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc160_b",
+      "label": "B",
+      "title": "Triple Pair",
+      "url": "https://atcoder.jp/contests/arc160/tasks/arc160_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc160_c",
+      "label": "C",
+      "title": "Power Up",
+      "url": "https://atcoder.jp/contests/arc160/tasks/arc160_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc160_d",
+      "label": "D",
+      "title": "Mahjong",
+      "url": "https://atcoder.jp/contests/arc160/tasks/arc160_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "arc160_e",
+      "label": "E",
+      "title": "Make Biconnected",
+      "url": "https://atcoder.jp/contests/arc160/tasks/arc160_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "arc160_f",
+      "label": "F",
+      "title": "Count Sorted Arrays",
+      "url": "https://atcoder.jp/contests/arc160/tasks/arc160_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
