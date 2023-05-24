@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc150",
+    "title": "AtCoder Regular Contest 150",
+    "url": "https://atcoder.jp/contests/arc150"
+  },
+  "tasks": [
+    {
+      "id": "arc150_a",
+      "label": "A",
+      "title": "Continuous 1",
+      "url": "https://atcoder.jp/contests/arc150/tasks/arc150_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc150_b",
+      "label": "B",
+      "title": "Make Divisible",
+      "url": "https://atcoder.jp/contests/arc150/tasks/arc150_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc150_c",
+      "label": "C",
+      "title": "Path and Subsequence",
+      "url": "https://atcoder.jp/contests/arc150/tasks/arc150_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc150_d",
+      "label": "D",
+      "title": "Removing Gacha",
+      "url": "https://atcoder.jp/contests/arc150/tasks/arc150_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "arc150_e",
+      "label": "E",
+      "title": "Weathercock",
+      "url": "https://atcoder.jp/contests/arc150/tasks/arc150_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "arc150_f",
+      "label": "F",
+      "title": "Constant Sum Subsequence",
+      "url": "https://atcoder.jp/contests/arc150/tasks/arc150_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
