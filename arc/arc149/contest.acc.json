@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "arc149",
+    "title": "AtCoder Regular Contest 149",
+    "url": "https://atcoder.jp/contests/arc149"
+  },
+  "tasks": [
+    {
+      "id": "arc149_a",
+      "label": "A",
+      "title": "Repdigit Number",
+      "url": "https://atcoder.jp/contests/arc149/tasks/arc149_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "arc149_b",
+      "label": "B",
+      "title": "Two LIS Sum",
+      "url": "https://atcoder.jp/contests/arc149/tasks/arc149_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "arc149_c",
+      "label": "C",
+      "title": "Avoid Prime Sum",
+      "url": "https://atcoder.jp/contests/arc149/tasks/arc149_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "arc149_d",
+      "label": "D",
+      "title": "Simultaneous Sugoroku",
+      "url": "https://atcoder.jp/contests/arc149/tasks/arc149_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "arc149_e",
+      "label": "E",
+      "title": "Sliding Window Sort",
+      "url": "https://atcoder.jp/contests/arc149/tasks/arc149_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "arc149_f",
+      "label": "F",
+      "title": "Rational Number System",
+      "url": "https://atcoder.jp/contests/arc149/tasks/arc149_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
