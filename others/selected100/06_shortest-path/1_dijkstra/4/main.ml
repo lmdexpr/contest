@@ -1,3 +1,5 @@
+(* https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e *)
+(* MLE しているが、制約が厳しいパターンなのでいつか再チャレンジする…… *)
 open Core
 open Scanf
 
