@@ -2,6 +2,6 @@
   "task": {
     "program": [["main.ml", "{tasklabel}.ml"]],
     "submit": "{tasklabel}.ml",
-    "cmd": "echo \"(executable (name $(basename $(pwd))) (libraries core iter num containers))\" > \"dune\""
+    "cmd": "echo \"(executable (name $(basename $(pwd))) (libraries core iter num containers batteries))\" > \"dune\""
   }
 }
