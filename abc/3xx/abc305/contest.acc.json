@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc305",
+    "title": "KYOCERA Programming Contest 2023（AtCoder Beginner Contest 305）",
+    "url": "https://atcoder.jp/contests/abc305"
+  },
+  "tasks": [
+    {
+      "id": "abc305_a",
+      "label": "A",
+      "title": "Water Station",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc305_b",
+      "label": "B",
+      "title": "ABCDEFG",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc305_c",
+      "label": "C",
+      "title": "Snuke the Cookie Picker",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc305_d",
+      "label": "D",
+      "title": "Sleep Log",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc305_e",
+      "label": "E",
+      "title": "Art Gallery on Graph",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc305_f",
+      "label": "F",
+      "title": "Dungeon Explore",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc305_g",
+      "label": "G",
+      "title": "Banned Substrings",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc305_h",
+      "label": "Ex",
+      "title": "Shojin",
+      "url": "https://atcoder.jp/contests/abc305/tasks/abc305_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
