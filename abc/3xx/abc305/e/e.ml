@@ -30,21 +30,27 @@ module Heap = struct
       Some (result, heap)
 end
 
+let add h heap u =
+  if guard.(u) >= h then heap
+  else begin
+    guard.(u) <- h;
+    Heap.add (-h, u) heap
+  end
+
 let rec dijkstra heap =
   match Heap.find_min_opt heap with
-  | None                                    -> ()
-  | Some ((_, p), heap) when 0 <= guard.(p) -> dijkstra heap
+  | None                                     -> ()
+  | Some ((h, p), heap) when guard.(p) <> -h -> dijkstra heap
   | Some ((h, p), heap) ->
-    guard.(p) <- -h;
+    let h = -h in
     Graph.around g p
-    |> Iter.filter (fun u -> guard.(u) < 0)
-    |> Iter.fold   (fun heap u -> Heap.add (h+1, u) heap) heap
+    |> Iter.fold (add @@ h - 1) heap
     |> dijkstra
 
 let () =
   Iter.(1 -- k)
   |> Iter.map  (fun _ -> scanf " %d %d" Tuple2.create)
-  |> Iter.fold (fun heap (p, h) -> Heap.add (-h, p) heap) Heap.empty
+  |> Iter.fold (fun heap (p, h) -> add h heap p) Heap.empty
   |> dijkstra;
   let ans = Array.filter_mapi guard ~f:(fun i p -> Option.some_if (p >= 0) i) in
   printf "%d\n" @@ Array.length ans;
