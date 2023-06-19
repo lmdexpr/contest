@@ -29,3 +29,13 @@ setup.log
 _opam/
 
 toolkit/
+
+# direnv
+.direnv
+
+# nix
+result
+result-*
+
+# npm
+node_modules/
