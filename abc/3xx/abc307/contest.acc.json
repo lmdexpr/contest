@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc307",
+    "title": "Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 307)",
+    "url": "https://atcoder.jp/contests/abc307"
+  },
+  "tasks": [
+    {
+      "id": "abc307_a",
+      "label": "A",
+      "title": "Weekly Records",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc307_b",
+      "label": "B",
+      "title": "racecar",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc307_c",
+      "label": "C",
+      "title": "Ideal Sheet",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc307_d",
+      "label": "D",
+      "title": "Mismatched Parentheses",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc307_e",
+      "label": "E",
+      "title": "Distinct Adjacent",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc307_f",
+      "label": "F",
+      "title": "Virus 2",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc307_g",
+      "label": "G",
+      "title": "Approximate Equalization",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc307_h",
+      "label": "Ex",
+      "title": "Marquee",
+      "url": "https://atcoder.jp/contests/abc307/tasks/abc307_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "tests",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
