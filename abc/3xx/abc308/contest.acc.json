@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc308",
+    "title": "AtCoder Beginner Contest 308",
+    "url": "https://atcoder.jp/contests/abc308"
+  },
+  "tasks": [
+    {
+      "id": "abc308_a",
+      "label": "A",
+      "title": "New Scheme",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc308_b",
+      "label": "B",
+      "title": "Default Price",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc308_c",
+      "label": "C",
+      "title": "Standings",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc308_d",
+      "label": "D",
+      "title": "Snuke Maze",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc308_e",
+      "label": "E",
+      "title": "MEX",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc308_f",
+      "label": "F",
+      "title": "Vouchers",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc308_g",
+      "label": "G",
+      "title": "Minimum Xor Pair Query",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc308_h",
+      "label": "Ex",
+      "title": "Make Q",
+      "url": "https://atcoder.jp/contests/abc308/tasks/abc308_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "tests",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
