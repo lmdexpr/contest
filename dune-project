@@ -17,7 +17,7 @@
  (synopsis "For contest.")
  (allow_empty)
  (depends
-   (ocaml (= 4.10.2))
+   (ocaml (= 5.0.0))
    ocamlformat
    ocaml-lsp-server
    dune

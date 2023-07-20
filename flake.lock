@@ -21,11 +21,11 @@
         "systems": "systems"
       },
       "locked": {
-        "lastModified": 1687171271,
-        "narHash": "sha256-BJlq+ozK2B1sJDQXS3tzJM5a+oVZmi1q0FlBK/Xqv7M=",
+        "lastModified": 1689068808,
+        "narHash": "sha256-6ixXo3wt24N/melDWjq70UuHQLxGV8jZvooRanIHXw0=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "abfb11bd1aec8ced1c9bb9adfe68018230f4fb3c",
+        "rev": "919d646de7be200f3bf08cb76ae1f09402b6f9b4",
         "type": "github"
       },
       "original": {
@@ -92,11 +92,11 @@
         "opam2json": "opam2json"
       },
       "locked": {
-        "lastModified": 1686742877,
-        "narHash": "sha256-HOWgC19NkL4+7DCbXgocRE9MZUxT5lhBWv3YF5z7LL8=",
+        "lastModified": 1689588185,
+        "narHash": "sha256-ZWQ3xaIT/ildXDjVCO93F6B01XQ21b8lCkIoILP2HX8=",
         "owner": "tweag",
         "repo": "opam-nix",
-        "rev": "06bd670789748155195083ddabd8a383bac4cc5c",
+        "rev": "34d74ca9d64339c453cbac3f85255644361937e2",
         "type": "github"
       },
       "original": {

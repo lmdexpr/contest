@@ -7,7 +7,7 @@ license: "MIT"
 homepage: "https://github.com/lmdexpr/contest"
 bug-reports: "https://github.com/lmdexpr/contest/issues"
 depends: [
-  "ocaml" {= "4.10.2"}
+  "ocaml" {= "5.0.0"}
   "ocamlformat"
   "ocaml-lsp-server"
   "dune" {>= "3.7"}
