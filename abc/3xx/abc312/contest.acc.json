@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc312",
+    "title": "UNIQUE VISION Programming Contest 2023 Summer(AtCoder Beginner Contest 312)",
+    "url": "https://atcoder.jp/contests/abc312"
+  },
+  "tasks": [
+    {
+      "id": "abc312_a",
+      "label": "A",
+      "title": "Chord",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc312_b",
+      "label": "B",
+      "title": "TaK Code",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc312_c",
+      "label": "C",
+      "title": "Invisible Hand",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc312_d",
+      "label": "D",
+      "title": "Count Bracket Sequences",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc312_e",
+      "label": "E",
+      "title": "Tangency of Cuboids ",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc312_f",
+      "label": "F",
+      "title": "Cans and Openers",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc312_g",
+      "label": "G",
+      "title": "Avoid Straight Line",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc312_h",
+      "label": "Ex",
+      "title": "snukesnuke",
+      "url": "https://atcoder.jp/contests/abc312/tasks/abc312_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
