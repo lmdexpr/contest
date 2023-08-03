@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc313",
+    "title": "AtCoder Beginner Contest 313",
+    "url": "https://atcoder.jp/contests/abc313"
+  },
+  "tasks": [
+    {
+      "id": "abc313_a",
+      "label": "A",
+      "title": "To Be Saikyo",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc313_b",
+      "label": "B",
+      "title": "Who is Saikyo?",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc313_c",
+      "label": "C",
+      "title": "Approximate Equalization 2",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc313_d",
+      "label": "D",
+      "title": "Odd or Even",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc313_e",
+      "label": "E",
+      "title": "Duplicate",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc313_f",
+      "label": "F",
+      "title": "Flip Machines",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc313_g",
+      "label": "G",
+      "title": "Redistribution of Piles",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc313_h",
+      "label": "Ex",
+      "title": "Group Photo",
+      "url": "https://atcoder.jp/contests/abc313/tasks/abc313_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
