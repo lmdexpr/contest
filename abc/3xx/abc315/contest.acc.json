@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc315",
+    "title": "KEYENCE Programming Contest 2023 Summer（AtCoder Beginner Contest 315）",
+    "url": "https://atcoder.jp/contests/abc315"
+  },
+  "tasks": [
+    {
+      "id": "abc315_a",
+      "label": "A",
+      "title": "tcdr",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc315_b",
+      "label": "B",
+      "title": "The Middle Day",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc315_c",
+      "label": "C",
+      "title": "Flavors",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc315_d",
+      "label": "D",
+      "title": "Magical Cookies",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc315_e",
+      "label": "E",
+      "title": "Prerequisites",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc315_f",
+      "label": "F",
+      "title": "Shortcuts",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc315_g",
+      "label": "G",
+      "title": "Ai + Bj + Ck = X (1 <= i, j, k <= N)",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc315_h",
+      "label": "Ex",
+      "title": "Typical Convolution Problem",
+      "url": "https://atcoder.jp/contests/abc315/tasks/abc315_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
