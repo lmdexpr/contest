@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc321",
+    "title": "SuntoryProgrammingContest2023（AtCoder Beginner Contest 321）",
+    "url": "https://atcoder.jp/contests/abc321"
+  },
+  "tasks": [
+    {
+      "id": "abc321_a",
+      "label": "A",
+      "title": "321-like Checker",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc321_b",
+      "label": "B",
+      "title": "Cutoff",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc321_c",
+      "label": "C",
+      "title": "321-like Searcher",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc321_d",
+      "label": "D",
+      "title": "Set Menu",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc321_e",
+      "label": "E",
+      "title": "Complete Binary Tree",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc321_f",
+      "label": "F",
+      "title": "#(subset sum = K) with Add and Erase ",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc321_g",
+      "label": "G",
+      "title": "Electric Circuit",
+      "url": "https://atcoder.jp/contests/abc321/tasks/abc321_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
