@@ -1,6 +1,6 @@
 (lang dune 3.7)
 
-(name contest)
+(name codeforces)
 
 (generate_opam_files true)
 
@@ -13,7 +13,7 @@
 (license MIT)
 
 (package
- (name contest)
+ (name codeforces)
  (synopsis "For contest.")
  (allow_empty)
  (depends
