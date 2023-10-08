@@ -1,0 +1,21 @@
+(lang dune 3.7)
+
+(name contest)
+
+(generate_opam_files true)
+
+(source (github lmdexpr/contest))
+
+(authors "Yuki Tajiri")
+
+(maintainers "Yuki Tajiri <lmdexpr@gmail.com>")
+
+(license MIT)
+
+(package
+ (name contest)
+ (synopsis "For contest.")
+ (allow_empty)
+ (depends
+   (ocaml (= 4.02.1))
+   dune))
