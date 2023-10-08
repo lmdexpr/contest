@@ -5,7 +5,7 @@
     nixpkgs.follows = "opam-nix/nixpkgs";
   };
   outputs = { self, flake-utils, opam-nix, nixpkgs }@inputs:
-    let package = "contest";
+    let package = "codeforces";
     in flake-utils.lib.eachDefaultSystem (system:
       let
         pkgs = nixpkgs.legacyPackages.${system};
