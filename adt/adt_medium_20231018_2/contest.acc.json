@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231018_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/10/18 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231018_2"
+  },
+  "tasks": [
+    {
+      "id": "abc220_b",
+      "label": "C",
+      "title": "Base K",
+      "url": "https://atcoder.jp/contests/adt_medium_20231018_2/tasks/abc220_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc263_b",
+      "label": "D",
+      "title": "Ancestor",
+      "url": "https://atcoder.jp/contests/adt_medium_20231018_2/tasks/abc263_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc237_c",
+      "label": "E",
+      "title": "kasaka",
+      "url": "https://atcoder.jp/contests/adt_medium_20231018_2/tasks/abc237_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc223_c",
+      "label": "F",
+      "title": "Doukasen",
+      "url": "https://atcoder.jp/contests/adt_medium_20231018_2/tasks/abc223_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc258_d",
+      "label": "G",
+      "title": "Trophy",
+      "url": "https://atcoder.jp/contests/adt_medium_20231018_2/tasks/abc258_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
