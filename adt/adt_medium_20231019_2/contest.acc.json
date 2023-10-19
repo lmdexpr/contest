@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231019_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/10/19 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231019_2"
+  },
+  "tasks": [
+    {
+      "id": "abc249_b",
+      "label": "C",
+      "title": "Perfect String",
+      "url": "https://atcoder.jp/contests/adt_medium_20231019_2/tasks/abc249_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc265_b",
+      "label": "D",
+      "title": "Explore",
+      "url": "https://atcoder.jp/contests/adt_medium_20231019_2/tasks/abc265_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc272_c",
+      "label": "E",
+      "title": "Max Even",
+      "url": "https://atcoder.jp/contests/adt_medium_20231019_2/tasks/abc272_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc284_c",
+      "label": "F",
+      "title": "Count Connected Components",
+      "url": "https://atcoder.jp/contests/adt_medium_20231019_2/tasks/abc284_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc216_d",
+      "label": "G",
+      "title": "Pair of Balls",
+      "url": "https://atcoder.jp/contests/adt_medium_20231019_2/tasks/abc216_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
