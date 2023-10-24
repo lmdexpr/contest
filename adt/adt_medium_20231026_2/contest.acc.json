@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231026_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/10/26 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231026_2"
+  },
+  "tasks": [
+    {
+      "id": "abc244_b",
+      "label": "C",
+      "title": "Go Straight and Turn Right",
+      "url": "https://atcoder.jp/contests/adt_medium_20231026_2/tasks/abc244_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "D",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_medium_20231026_2/tasks/abc285_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc251_c",
+      "label": "E",
+      "title": "Poem Online Judge",
+      "url": "https://atcoder.jp/contests/adt_medium_20231026_2/tasks/abc251_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc221_c",
+      "label": "F",
+      "title": "Select Mul",
+      "url": "https://atcoder.jp/contests/adt_medium_20231026_2/tasks/abc221_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc243_d",
+      "label": "G",
+      "title": "Moves on Binary Tree",
+      "url": "https://atcoder.jp/contests/adt_medium_20231026_2/tasks/abc243_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
