@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231025_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/10/25 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231025_2"
+  },
+  "tasks": [
+    {
+      "id": "abc264_b",
+      "label": "C",
+      "title": "Nice Grid",
+      "url": "https://atcoder.jp/contests/adt_medium_20231025_2/tasks/abc264_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc293_b",
+      "label": "D",
+      "title": "Call the ID Number",
+      "url": "https://atcoder.jp/contests/adt_medium_20231025_2/tasks/abc293_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc296_c",
+      "label": "E",
+      "title": "Gap Existence",
+      "url": "https://atcoder.jp/contests/adt_medium_20231025_2/tasks/abc296_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc238_c",
+      "label": "F",
+      "title": "digitnum",
+      "url": "https://atcoder.jp/contests/adt_medium_20231025_2/tasks/abc238_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc225_d",
+      "label": "G",
+      "title": "Play Train",
+      "url": "https://atcoder.jp/contests/adt_medium_20231025_2/tasks/abc225_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
