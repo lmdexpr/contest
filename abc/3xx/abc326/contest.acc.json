@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc326",
+    "title": "Panasonic Programming Contest 2023（AtCoder Beginner Contest 326）",
+    "url": "https://atcoder.jp/contests/abc326"
+  },
+  "tasks": [
+    {
+      "id": "abc326_a",
+      "label": "A",
+      "title": "2UP3DOWN",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc326_b",
+      "label": "B",
+      "title": "326-like Numbers",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc326_c",
+      "label": "C",
+      "title": "Peak",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc326_d",
+      "label": "D",
+      "title": "ABC Puzzle",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc326_e",
+      "label": "E",
+      "title": "Revenge of \"The Salary of AtCoder Inc.\"",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc326_f",
+      "label": "F",
+      "title": "Robot Rotation",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc326_g",
+      "label": "G",
+      "title": "Unlock Achievement",
+      "url": "https://atcoder.jp/contests/abc326/tasks/abc326_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
