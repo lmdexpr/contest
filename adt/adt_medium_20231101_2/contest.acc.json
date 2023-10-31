@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231101_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/11/1 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231101_2"
+  },
+  "tasks": [
+    {
+      "id": "abc227_b",
+      "label": "C",
+      "title": "KEYENCE building",
+      "url": "https://atcoder.jp/contests/adt_medium_20231101_2/tasks/abc227_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc261_b",
+      "label": "D",
+      "title": "Tournament Result",
+      "url": "https://atcoder.jp/contests/adt_medium_20231101_2/tasks/abc261_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc201_c",
+      "label": "E",
+      "title": "Secret Number",
+      "url": "https://atcoder.jp/contests/adt_medium_20231101_2/tasks/abc201_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc311_c",
+      "label": "F",
+      "title": "Find it!",
+      "url": "https://atcoder.jp/contests/adt_medium_20231101_2/tasks/abc311_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc249_d",
+      "label": "G",
+      "title": "Index Trio",
+      "url": "https://atcoder.jp/contests/adt_medium_20231101_2/tasks/abc249_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
