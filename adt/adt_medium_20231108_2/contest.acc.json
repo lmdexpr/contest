@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231108_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/11/8 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231108_2"
+  },
+  "tasks": [
+    {
+      "id": "abc245_b",
+      "label": "C",
+      "title": "Mex",
+      "url": "https://atcoder.jp/contests/adt_medium_20231108_2/tasks/abc245_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc271_b",
+      "label": "D",
+      "title": "Maintain Multiple Sequences",
+      "url": "https://atcoder.jp/contests/adt_medium_20231108_2/tasks/abc271_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc197_c",
+      "label": "E",
+      "title": "ORXOR",
+      "url": "https://atcoder.jp/contests/adt_medium_20231108_2/tasks/abc197_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc270_c",
+      "label": "F",
+      "title": "Simple path",
+      "url": "https://atcoder.jp/contests/adt_medium_20231108_2/tasks/abc270_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc231_d",
+      "label": "G",
+      "title": "Neighbors",
+      "url": "https://atcoder.jp/contests/adt_medium_20231108_2/tasks/abc231_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
