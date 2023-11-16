@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231116_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/11/16 18:30start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231116_2"
+  },
+  "tasks": [
+    {
+      "id": "abc219_b",
+      "label": "C",
+      "title": "Maritozzo",
+      "url": "https://atcoder.jp/contests/adt_medium_20231116_2/tasks/abc219_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc255_b",
+      "label": "D",
+      "title": "Light It Up",
+      "url": "https://atcoder.jp/contests/adt_medium_20231116_2/tasks/abc255_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc299_c",
+      "label": "E",
+      "title": "Dango",
+      "url": "https://atcoder.jp/contests/adt_medium_20231116_2/tasks/abc299_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc266_c",
+      "label": "F",
+      "title": "Convex Quadrilateral",
+      "url": "https://atcoder.jp/contests/adt_medium_20231116_2/tasks/abc266_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc281_d",
+      "label": "G",
+      "title": "Max Multiple",
+      "url": "https://atcoder.jp/contests/adt_medium_20231116_2/tasks/abc281_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
