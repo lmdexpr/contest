@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231122_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/11/22 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231122_2"
+  },
+  "tasks": [
+    {
+      "id": "abc288_b",
+      "label": "C",
+      "title": "Qualification Contest",
+      "url": "https://atcoder.jp/contests/adt_medium_20231122_2/tasks/abc288_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc256_b",
+      "label": "D",
+      "title": "Batters",
+      "url": "https://atcoder.jp/contests/adt_medium_20231122_2/tasks/abc256_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc244_c",
+      "label": "E",
+      "title": "Yamanote Line Game",
+      "url": "https://atcoder.jp/contests/adt_medium_20231122_2/tasks/abc244_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc212_c",
+      "label": "F",
+      "title": "Min Difference",
+      "url": "https://atcoder.jp/contests/adt_medium_20231122_2/tasks/abc212_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc259_d",
+      "label": "G",
+      "title": "Circumferences",
+      "url": "https://atcoder.jp/contests/adt_medium_20231122_2/tasks/abc259_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
