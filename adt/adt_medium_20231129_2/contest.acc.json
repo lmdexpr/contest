@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231129_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/11/29 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231129_2"
+  },
+  "tasks": [
+    {
+      "id": "abc248_b",
+      "label": "C",
+      "title": "Slimes",
+      "url": "https://atcoder.jp/contests/adt_medium_20231129_2/tasks/abc248_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc240_b",
+      "label": "D",
+      "title": "Count Distinct Integers",
+      "url": "https://atcoder.jp/contests/adt_medium_20231129_2/tasks/abc240_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "E",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/adt_medium_20231129_2/tasks/abc290_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc241_c",
+      "label": "F",
+      "title": "Connect 6",
+      "url": "https://atcoder.jp/contests/adt_medium_20231129_2/tasks/abc241_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc319_d",
+      "label": "G",
+      "title": "Minimum Width",
+      "url": "https://atcoder.jp/contests/adt_medium_20231129_2/tasks/abc319_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
