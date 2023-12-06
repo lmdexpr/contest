@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231206_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/12/6 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231206_2"
+  },
+  "tasks": [
+    {
+      "id": "abc299_b",
+      "label": "C",
+      "title": "Trick Taking",
+      "url": "https://atcoder.jp/contests/adt_medium_20231206_2/tasks/abc299_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc302_b",
+      "label": "D",
+      "title": "Find snuke",
+      "url": "https://atcoder.jp/contests/adt_medium_20231206_2/tasks/abc302_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc249_c",
+      "label": "E",
+      "title": "Just K",
+      "url": "https://atcoder.jp/contests/adt_medium_20231206_2/tasks/abc249_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc298_c",
+      "label": "F",
+      "title": "Cards Query Problem",
+      "url": "https://atcoder.jp/contests/adt_medium_20231206_2/tasks/abc298_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc236_d",
+      "label": "G",
+      "title": "Dance",
+      "url": "https://atcoder.jp/contests/adt_medium_20231206_2/tasks/abc236_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
