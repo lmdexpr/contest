@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231213_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/12/13 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231213_2"
+  },
+  "tasks": [
+    {
+      "id": "abc311_b",
+      "label": "C",
+      "title": "Vacation Together",
+      "url": "https://atcoder.jp/contests/adt_medium_20231213_2/tasks/abc311_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc323_b",
+      "label": "D",
+      "title": "Round-Robin Tournament",
+      "url": "https://atcoder.jp/contests/adt_medium_20231213_2/tasks/abc323_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc245_c",
+      "label": "E",
+      "title": "Choose Elements",
+      "url": "https://atcoder.jp/contests/adt_medium_20231213_2/tasks/abc245_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc319_c",
+      "label": "F",
+      "title": "False Hope",
+      "url": "https://atcoder.jp/contests/adt_medium_20231213_2/tasks/abc319_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc250_d",
+      "label": "G",
+      "title": "250-like Number",
+      "url": "https://atcoder.jp/contests/adt_medium_20231213_2/tasks/abc250_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
