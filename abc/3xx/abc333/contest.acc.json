@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc333",
+    "title": "Toyota Programming Contest 2023#8（AtCoder Beginner Contest 333）",
+    "url": "https://atcoder.jp/contests/abc333"
+  },
+  "tasks": [
+    {
+      "id": "abc333_a",
+      "label": "A",
+      "title": "Three Threes ",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc333_b",
+      "label": "B",
+      "title": "Pentagon",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc333_c",
+      "label": "C",
+      "title": "Repunit Trio",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc333_d",
+      "label": "D",
+      "title": "Erase Leaves",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc333_e",
+      "label": "E",
+      "title": "Takahashi Quest",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc333_f",
+      "label": "F",
+      "title": "Bomb Game 2",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc333_g",
+      "label": "G",
+      "title": "Nearest Fraction",
+      "url": "https://atcoder.jp/contests/abc333/tasks/abc333_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
