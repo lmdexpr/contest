@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20231220_2",
+    "title": "AtCoder Daily Training MEDIUM 2023/12/20 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20231220_2"
+  },
+  "tasks": [
+    {
+      "id": "abc249_b",
+      "label": "C",
+      "title": "Perfect String",
+      "url": "https://atcoder.jp/contests/adt_medium_20231220_2/tasks/abc249_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc265_b",
+      "label": "D",
+      "title": "Explore",
+      "url": "https://atcoder.jp/contests/adt_medium_20231220_2/tasks/abc265_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc280_c",
+      "label": "E",
+      "title": "Extra Character",
+      "url": "https://atcoder.jp/contests/adt_medium_20231220_2/tasks/abc280_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc216_c",
+      "label": "F",
+      "title": "Many Balls",
+      "url": "https://atcoder.jp/contests/adt_medium_20231220_2/tasks/abc216_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc279_d",
+      "label": "G",
+      "title": "Freefall",
+      "url": "https://atcoder.jp/contests/adt_medium_20231220_2/tasks/abc279_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
