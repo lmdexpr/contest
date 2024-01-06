@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc335",
+    "title": "AtCoder Beginner Contest 335 (Sponsored by Mynavi)",
+    "url": "https://atcoder.jp/contests/abc335"
+  },
+  "tasks": [
+    {
+      "id": "abc335_a",
+      "label": "A",
+      "title": "202<s>3</s>",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc335_b",
+      "label": "B",
+      "title": "Tetrahedral Number",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc335_c",
+      "label": "C",
+      "title": "Loong Tracking",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc335_d",
+      "label": "D",
+      "title": "Loong and Takahashi",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc335_e",
+      "label": "E",
+      "title": "Non-Decreasing Colorful Path",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc335_f",
+      "label": "F",
+      "title": "Hop Sugoroku",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc335_g",
+      "label": "G",
+      "title": "Discrete Logarithm Problems",
+      "url": "https://atcoder.jp/contests/abc335/tasks/abc335_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
