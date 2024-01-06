@@ -14,7 +14,7 @@ let () =
   for _ = 1 to m do
     let u, v = scanf " %d %d" Tuple2.create in
     let u, v = if a.(u) < a.(v) then u, v else v, u in
-    if u = v then
+    if a.(u) = a.(v) then
       Union_find.union uf.(u) uf.(v)
     else
       es.(a.(u)) <- (u, v) :: es.(a.(u));
