@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240117_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/01/17 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240117_2"
+  },
+  "tasks": [
+    {
+      "id": "abc327_b",
+      "label": "C",
+      "title": "A^A",
+      "url": "https://atcoder.jp/contests/adt_medium_20240117_2/tasks/abc327_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc292_b",
+      "label": "D",
+      "title": "Yellow and Red Card",
+      "url": "https://atcoder.jp/contests/adt_medium_20240117_2/tasks/abc292_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc297_c",
+      "label": "E",
+      "title": "PC on the Table",
+      "url": "https://atcoder.jp/contests/adt_medium_20240117_2/tasks/abc297_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc218_c",
+      "label": "F",
+      "title": "Shapes",
+      "url": "https://atcoder.jp/contests/adt_medium_20240117_2/tasks/abc218_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc294_d",
+      "label": "G",
+      "title": "Bank",
+      "url": "https://atcoder.jp/contests/adt_medium_20240117_2/tasks/abc294_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
