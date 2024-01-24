@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240124_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/01/24 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240124_2"
+  },
+  "tasks": [
+    {
+      "id": "abc261_b",
+      "label": "C",
+      "title": "Tournament Result",
+      "url": "https://atcoder.jp/contests/adt_medium_20240124_2/tasks/abc261_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc331_b",
+      "label": "D",
+      "title": "Buy One Carton of Milk",
+      "url": "https://atcoder.jp/contests/adt_medium_20240124_2/tasks/abc331_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc226_c",
+      "label": "E",
+      "title": "Martial artist",
+      "url": "https://atcoder.jp/contests/adt_medium_20240124_2/tasks/abc226_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc331_c",
+      "label": "F",
+      "title": "Sum of Numbers Greater Than Me",
+      "url": "https://atcoder.jp/contests/adt_medium_20240124_2/tasks/abc331_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc284_d",
+      "label": "G",
+      "title": "Happy New Year 2023 ",
+      "url": "https://atcoder.jp/contests/adt_medium_20240124_2/tasks/abc284_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
