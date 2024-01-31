@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240131_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/01/31 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240131_2"
+  },
+  "tasks": [
+    {
+      "id": "abc287_b",
+      "label": "C",
+      "title": "Postal Card",
+      "url": "https://atcoder.jp/contests/adt_medium_20240131_2/tasks/abc287_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc277_b",
+      "label": "D",
+      "title": "Playing Cards Validation",
+      "url": "https://atcoder.jp/contests/adt_medium_20240131_2/tasks/abc277_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc261_c",
+      "label": "E",
+      "title": "NewFolder(1)",
+      "url": "https://atcoder.jp/contests/adt_medium_20240131_2/tasks/abc261_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc227_c",
+      "label": "F",
+      "title": "ABC conjecture",
+      "url": "https://atcoder.jp/contests/adt_medium_20240131_2/tasks/abc227_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc248_d",
+      "label": "G",
+      "title": "Range Count Query",
+      "url": "https://atcoder.jp/contests/adt_medium_20240131_2/tasks/abc248_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
