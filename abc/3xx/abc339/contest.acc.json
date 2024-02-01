@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc339",
+    "title": "Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339)",
+    "url": "https://atcoder.jp/contests/abc339"
+  },
+  "tasks": [
+    {
+      "id": "abc339_a",
+      "label": "A",
+      "title": "TLD",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc339_b",
+      "label": "B",
+      "title": "Langton's Takahashi",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc339_c",
+      "label": "C",
+      "title": "Perfect Bus",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc339_d",
+      "label": "D",
+      "title": "Synchronized Players ",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc339_e",
+      "label": "E",
+      "title": "Smooth Subsequence",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc339_f",
+      "label": "F",
+      "title": "Product Equality",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc339_g",
+      "label": "G",
+      "title": "Smaller Sum",
+      "url": "https://atcoder.jp/contests/abc339/tasks/abc339_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
