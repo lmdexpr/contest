@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240214_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/02/14 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240214_2"
+  },
+  "tasks": [
+    {
+      "id": "abc216_b",
+      "label": "C",
+      "title": "Same Name",
+      "url": "https://atcoder.jp/contests/adt_medium_20240214_2/tasks/abc216_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc313_b",
+      "label": "D",
+      "title": "Who is Saikyo?",
+      "url": "https://atcoder.jp/contests/adt_medium_20240214_2/tasks/abc313_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc325_c",
+      "label": "E",
+      "title": "Sensors",
+      "url": "https://atcoder.jp/contests/adt_medium_20240214_2/tasks/abc325_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc286_c",
+      "label": "F",
+      "title": "Rotate and Palindrome",
+      "url": "https://atcoder.jp/contests/adt_medium_20240214_2/tasks/abc286_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc259_d",
+      "label": "G",
+      "title": "Circumferences",
+      "url": "https://atcoder.jp/contests/adt_medium_20240214_2/tasks/abc259_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
