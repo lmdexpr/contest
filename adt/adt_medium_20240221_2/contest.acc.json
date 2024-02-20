@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240221_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/02/21 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240221_2"
+  },
+  "tasks": [
+    {
+      "id": "abc286_b",
+      "label": "C",
+      "title": "Cat",
+      "url": "https://atcoder.jp/contests/adt_medium_20240221_2/tasks/abc286_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc234_b",
+      "label": "D",
+      "title": "Longest Segment",
+      "url": "https://atcoder.jp/contests/adt_medium_20240221_2/tasks/abc234_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc324_c",
+      "label": "E",
+      "title": "Error Correction",
+      "url": "https://atcoder.jp/contests/adt_medium_20240221_2/tasks/abc324_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc257_c",
+      "label": "F",
+      "title": "Robot Takahashi ",
+      "url": "https://atcoder.jp/contests/adt_medium_20240221_2/tasks/abc257_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc304_d",
+      "label": "G",
+      "title": "A Piece of Cake",
+      "url": "https://atcoder.jp/contests/adt_medium_20240221_2/tasks/abc304_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
