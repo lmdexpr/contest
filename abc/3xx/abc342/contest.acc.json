@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc342",
+    "title": "HUAWEI Programming Contest 2024（AtCoder Beginner Contest 342）",
+    "url": "https://atcoder.jp/contests/abc342"
+  },
+  "tasks": [
+    {
+      "id": "abc342_a",
+      "label": "A",
+      "title": "Yay!",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc342_b",
+      "label": "B",
+      "title": "Which is ahead?",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc342_c",
+      "label": "C",
+      "title": "Many Replacement",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc342_d",
+      "label": "D",
+      "title": "Square Pair",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc342_e",
+      "label": "E",
+      "title": "Last Train",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc342_f",
+      "label": "F",
+      "title": "Black Jack",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc342_g",
+      "label": "G",
+      "title": "Retroactive Range Chmax",
+      "url": "https://atcoder.jp/contests/abc342/tasks/abc342_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
