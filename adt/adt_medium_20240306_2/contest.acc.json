@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240306_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/06 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240306_2"
+  },
+  "tasks": [
+    {
+      "id": "abc214_b",
+      "label": "C",
+      "title": "How many?",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_2/tasks/abc214_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc264_b",
+      "label": "D",
+      "title": "Nice Grid",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_2/tasks/abc264_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc305_c",
+      "label": "E",
+      "title": "Snuke the Cookie Picker",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_2/tasks/abc305_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc296_c",
+      "label": "F",
+      "title": "Gap Existence",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_2/tasks/abc296_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc240_d",
+      "label": "G",
+      "title": "Strange Balls",
+      "url": "https://atcoder.jp/contests/adt_medium_20240306_2/tasks/abc240_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
