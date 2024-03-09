@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc344",
+    "title": "Toyota Programming Contest 2024#3（AtCoder Beginner Contest 344）",
+    "url": "https://atcoder.jp/contests/abc344"
+  },
+  "tasks": [
+    {
+      "id": "abc344_a",
+      "label": "A",
+      "title": "Spoiler",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc344_b",
+      "label": "B",
+      "title": "Delimiter",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc344_c",
+      "label": "C",
+      "title": "A+B+C",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc344_d",
+      "label": "D",
+      "title": "String Bags",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc344_e",
+      "label": "E",
+      "title": "Insert or Erase",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc344_f",
+      "label": "F",
+      "title": "Earn to Advance",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc344_g",
+      "label": "G",
+      "title": "Points and Comparison",
+      "url": "https://atcoder.jp/contests/abc344/tasks/abc344_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
