@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240313_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/13 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240313_2"
+  },
+  "tasks": [
+    {
+      "id": "abc330_b",
+      "label": "C",
+      "title": "Minimize Abs 1",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_2/tasks/abc330_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc337_b",
+      "label": "D",
+      "title": "Extended ABC",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_2/tasks/abc337_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc215_c",
+      "label": "E",
+      "title": "One More aab aba baa",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_2/tasks/abc215_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc281_c",
+      "label": "F",
+      "title": "Circular Playlist",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_2/tasks/abc281_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc308_d",
+      "label": "G",
+      "title": "Snuke Maze",
+      "url": "https://atcoder.jp/contests/adt_medium_20240313_2/tasks/abc308_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
