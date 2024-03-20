@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240320_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/20 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240320_2"
+  },
+  "tasks": [
+    {
+      "id": "abc265_b",
+      "label": "C",
+      "title": "Explore",
+      "url": "https://atcoder.jp/contests/adt_medium_20240320_2/tasks/abc265_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc304_b",
+      "label": "D",
+      "title": "Subscribers",
+      "url": "https://atcoder.jp/contests/adt_medium_20240320_2/tasks/abc304_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc220_c",
+      "label": "E",
+      "title": "Long Sequence",
+      "url": "https://atcoder.jp/contests/adt_medium_20240320_2/tasks/abc220_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc310_c",
+      "label": "F",
+      "title": "Reversible",
+      "url": "https://atcoder.jp/contests/adt_medium_20240320_2/tasks/abc310_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc269_d",
+      "label": "G",
+      "title": "Do use hexagon grid",
+      "url": "https://atcoder.jp/contests/adt_medium_20240320_2/tasks/abc269_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
