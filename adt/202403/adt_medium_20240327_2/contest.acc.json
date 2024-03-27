@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240327_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/03/27 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240327_2"
+  },
+  "tasks": [
+    {
+      "id": "abc260_b",
+      "label": "C",
+      "title": "Better Students Are Needed!",
+      "url": "https://atcoder.jp/contests/adt_medium_20240327_2/tasks/abc260_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc295_b",
+      "label": "D",
+      "title": "Bombs",
+      "url": "https://atcoder.jp/contests/adt_medium_20240327_2/tasks/abc295_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc327_c",
+      "label": "E",
+      "title": "Number Place",
+      "url": "https://atcoder.jp/contests/adt_medium_20240327_2/tasks/abc327_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc238_c",
+      "label": "F",
+      "title": "digitnum",
+      "url": "https://atcoder.jp/contests/adt_medium_20240327_2/tasks/abc238_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc315_d",
+      "label": "G",
+      "title": "Magical Cookies",
+      "url": "https://atcoder.jp/contests/adt_medium_20240327_2/tasks/abc315_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
