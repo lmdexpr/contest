@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240410_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/04/10 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240410_2"
+  },
+  "tasks": [
+    {
+      "id": "abc246_b",
+      "label": "C",
+      "title": "Get Closer",
+      "url": "https://atcoder.jp/contests/adt_medium_20240410_2/tasks/abc246_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc270_b",
+      "label": "D",
+      "title": "Hammer",
+      "url": "https://atcoder.jp/contests/adt_medium_20240410_2/tasks/abc270_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "E",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/adt_medium_20240410_2/tasks/abc290_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc288_c",
+      "label": "F",
+      "title": "Don’t be cycle",
+      "url": "https://atcoder.jp/contests/adt_medium_20240410_2/tasks/abc288_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc330_d",
+      "label": "G",
+      "title": "Counting Ls",
+      "url": "https://atcoder.jp/contests/adt_medium_20240410_2/tasks/abc330_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
