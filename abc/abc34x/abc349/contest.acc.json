@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc349",
+    "title": "AtCoder Beginner Contest 349",
+    "url": "https://atcoder.jp/contests/abc349"
+  },
+  "tasks": [
+    {
+      "id": "abc349_a",
+      "label": "A",
+      "title": "Zero Sum Game",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc349_b",
+      "label": "B",
+      "title": "Commencement",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc349_c",
+      "label": "C",
+      "title": "Airport Code",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc349_d",
+      "label": "D",
+      "title": "Divide Interval",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc349_e",
+      "label": "E",
+      "title": "Weighted Tic-Tac-Toe",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc349_f",
+      "label": "F",
+      "title": "Subsequence LCM",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc349_g",
+      "label": "G",
+      "title": "Palindrome Construction",
+      "url": "https://atcoder.jp/contests/abc349/tasks/abc349_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
