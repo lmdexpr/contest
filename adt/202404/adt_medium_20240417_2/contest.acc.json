@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240417_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/04/17 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240417_2"
+  },
+  "tasks": [
+    {
+      "id": "abc215_b",
+      "label": "C",
+      "title": "log2(N)",
+      "url": "https://atcoder.jp/contests/adt_medium_20240417_2/tasks/abc215_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc319_b",
+      "label": "D",
+      "title": "Measure",
+      "url": "https://atcoder.jp/contests/adt_medium_20240417_2/tasks/abc319_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc305_c",
+      "label": "E",
+      "title": "Snuke the Cookie Picker",
+      "url": "https://atcoder.jp/contests/adt_medium_20240417_2/tasks/abc305_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc317_c",
+      "label": "F",
+      "title": "Remembering the Days",
+      "url": "https://atcoder.jp/contests/adt_medium_20240417_2/tasks/abc317_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc333_d",
+      "label": "G",
+      "title": "Erase Leaves",
+      "url": "https://atcoder.jp/contests/adt_medium_20240417_2/tasks/abc333_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
