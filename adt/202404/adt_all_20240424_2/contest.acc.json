@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240424_2",
+    "title": "AtCoder Daily Training ALL 2024/04/24 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240424_2"
+  },
+  "tasks": [
+    {
+      "id": "abc225_a",
+      "label": "A",
+      "title": "Distinct Strings",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc225_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc220_a",
+      "label": "B",
+      "title": "Find Multiple",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc220_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc285_b",
+      "label": "C",
+      "title": "Longest Uncommon Prefix",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc285_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc337_b",
+      "label": "D",
+      "title": "Extended ABC",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc337_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc228_c",
+      "label": "E",
+      "title": "Final Day",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc228_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc248_c",
+      "label": "F",
+      "title": "Dice Sum",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc248_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc224_d",
+      "label": "G",
+      "title": "8 Puzzle on Graph",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc224_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc298_e",
+      "label": "H",
+      "title": "Unfair Sugoroku",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc298_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc344_f",
+      "label": "I",
+      "title": "Earn to Advance",
+      "url": "https://atcoder.jp/contests/adt_all_20240424_2/tasks/abc344_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
