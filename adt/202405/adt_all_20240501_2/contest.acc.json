@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240501_2",
+    "title": "AtCoder Daily Training ALL 2024/05/01 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240501_2"
+  },
+  "tasks": [
+    {
+      "id": "abc236_a",
+      "label": "A",
+      "title": "chukodai",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc236_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc265_a",
+      "label": "B",
+      "title": "Apple",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc265_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc243_b",
+      "label": "C",
+      "title": "Hit and Blow",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc243_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc345_b",
+      "label": "D",
+      "title": "Integer Division Returns",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc345_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc277_c",
+      "label": "E",
+      "title": "Ladder Takahashi",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc277_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc219_c",
+      "label": "F",
+      "title": "Neo-lexicographic Ordering",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc219_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc309_d",
+      "label": "G",
+      "title": "Add One Edge",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc309_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc286_e",
+      "label": "H",
+      "title": "Souvenir",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc286_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc333_f",
+      "label": "I",
+      "title": "Bomb Game 2",
+      "url": "https://atcoder.jp/contests/adt_all_20240501_2/tasks/abc333_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
