@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240508_2",
+    "title": "AtCoder Daily Training ALL 2024/05/08 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240508_2"
+  },
+  "tasks": [
+    {
+      "id": "abc250_a",
+      "label": "A",
+      "title": "Adjacent Squares",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc250_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc307_a",
+      "label": "B",
+      "title": "Weekly Records",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc307_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc289_b",
+      "label": "C",
+      "title": "V",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc289_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc260_b",
+      "label": "D",
+      "title": "Better Students Are Needed!",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc260_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc279_c",
+      "label": "E",
+      "title": "RANDOM",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc279_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc276_c",
+      "label": "F",
+      "title": "Previous Permutation",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc276_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc301_d",
+      "label": "G",
+      "title": "Bitmask",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc301_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc218_e",
+      "label": "H",
+      "title": "Destruction",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc218_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc336_f",
+      "label": "I",
+      "title": "Rotation Puzzle",
+      "url": "https://atcoder.jp/contests/adt_all_20240508_2/tasks/abc336_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
