@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc353",
+    "title": "AtCoder Beginner Contest 353",
+    "url": "https://atcoder.jp/contests/abc353"
+  },
+  "tasks": [
+    {
+      "id": "abc353_a",
+      "label": "A",
+      "title": "Buildings",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc353_b",
+      "label": "B",
+      "title": "AtCoder Amusement Park",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc353_c",
+      "label": "C",
+      "title": "Sigma Problem",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc353_d",
+      "label": "D",
+      "title": "Another Sigma Problem ",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc353_e",
+      "label": "E",
+      "title": "Yet Another Sigma Problem ",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc353_f",
+      "label": "F",
+      "title": "Tile Distance",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc353_g",
+      "label": "G",
+      "title": "Merchant Takahashi",
+      "url": "https://atcoder.jp/contests/abc353/tasks/abc353_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
