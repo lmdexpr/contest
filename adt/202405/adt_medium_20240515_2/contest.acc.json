@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_medium_20240515_2",
+    "title": "AtCoder Daily Training MEDIUM 2024/05/15 18:00start",
+    "url": "https://atcoder.jp/contests/adt_medium_20240515_2"
+  },
+  "tasks": [
+    {
+      "id": "abc287_b",
+      "label": "C",
+      "title": "Postal Card",
+      "url": "https://atcoder.jp/contests/adt_medium_20240515_2/tasks/abc287_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc269_b",
+      "label": "D",
+      "title": "Rectangle Detection",
+      "url": "https://atcoder.jp/contests/adt_medium_20240515_2/tasks/abc269_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc304_c",
+      "label": "E",
+      "title": "Virus",
+      "url": "https://atcoder.jp/contests/adt_medium_20240515_2/tasks/abc304_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc283_c",
+      "label": "F",
+      "title": "Cash Register",
+      "url": "https://atcoder.jp/contests/adt_medium_20240515_2/tasks/abc283_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc325_d",
+      "label": "G",
+      "title": "Printing Machine",
+      "url": "https://atcoder.jp/contests/adt_medium_20240515_2/tasks/abc325_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
