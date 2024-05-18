@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc354",
+    "title": "Panasonic Programming Contest 2024（AtCoder Beginner Contest 354）",
+    "url": "https://atcoder.jp/contests/abc354"
+  },
+  "tasks": [
+    {
+      "id": "abc354_a",
+      "label": "A",
+      "title": "Exponential Plant",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc354_b",
+      "label": "B",
+      "title": "AtCoder Janken 2",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc354_c",
+      "label": "C",
+      "title": "AtCoder Magics",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc354_d",
+      "label": "D",
+      "title": "AtCoder Wallpaper",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc354_e",
+      "label": "E",
+      "title": "Remove Pairs",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc354_f",
+      "label": "F",
+      "title": "Useless for LIS",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc354_g",
+      "label": "G",
+      "title": "Select Strings",
+      "url": "https://atcoder.jp/contests/abc354/tasks/abc354_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
