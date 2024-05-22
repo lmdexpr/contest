@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240522_2",
+    "title": "AtCoder Daily Training ALL 2024/05/22 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240522_2"
+  },
+  "tasks": [
+    {
+      "id": "abc217_a",
+      "label": "A",
+      "title": "Lexicographic Order",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc217_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc261_a",
+      "label": "B",
+      "title": "Intersection",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc261_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc278_b",
+      "label": "C",
+      "title": "Misjudge the Time",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc278_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc253_b",
+      "label": "D",
+      "title": "Distance Between Tokens",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc253_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc280_c",
+      "label": "E",
+      "title": "Extra Character",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc280_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc284_c",
+      "label": "F",
+      "title": "Count Connected Components",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc284_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc216_d",
+      "label": "G",
+      "title": "Pair of Balls",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc216_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc307_e",
+      "label": "H",
+      "title": "Distinct Adjacent",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc307_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc310_f",
+      "label": "I",
+      "title": "Make 10 Again",
+      "url": "https://atcoder.jp/contests/adt_all_20240522_2/tasks/abc310_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
