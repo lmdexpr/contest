@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc355",
+    "title": "Tokio Marine & Nichido Fire Insurance Programming Contest 2024（AtCoder Beginner Contest 355)",
+    "url": "https://atcoder.jp/contests/abc355"
+  },
+  "tasks": [
+    {
+      "id": "abc355_a",
+      "label": "A",
+      "title": "Who Ate the Cake?",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc355_b",
+      "label": "B",
+      "title": "Piano 2",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc355_c",
+      "label": "C",
+      "title": "Bingo 2",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc355_d",
+      "label": "D",
+      "title": "Intersecting Intervals",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc355_e",
+      "label": "E",
+      "title": "Guess the Sum",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc355_f",
+      "label": "F",
+      "title": "MST Query",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc355_g",
+      "label": "G",
+      "title": "Baseball",
+      "url": "https://atcoder.jp/contests/abc355/tasks/abc355_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
