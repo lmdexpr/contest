@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc356",
+    "title": "AtCoder Beginner Contest 356",
+    "url": "https://atcoder.jp/contests/abc356"
+  },
+  "tasks": [
+    {
+      "id": "abc356_a",
+      "label": "A",
+      "title": "Subsegment Reverse",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc356_b",
+      "label": "B",
+      "title": "Nutrients",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc356_c",
+      "label": "C",
+      "title": "Keys",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc356_d",
+      "label": "D",
+      "title": "Masked Popcount",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc356_e",
+      "label": "E",
+      "title": "Max/Min",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc356_f",
+      "label": "F",
+      "title": "Distance Component Size Query",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc356_g",
+      "label": "G",
+      "title": "Freestyle",
+      "url": "https://atcoder.jp/contests/abc356/tasks/abc356_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
