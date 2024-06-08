@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc357",
+    "title": "SuntoryProgrammingContest2024（AtCoder Beginner Contest 357）",
+    "url": "https://atcoder.jp/contests/abc357"
+  },
+  "tasks": [
+    {
+      "id": "abc357_a",
+      "label": "A",
+      "title": "Sanitize Hands",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc357_b",
+      "label": "B",
+      "title": "Uppercase and Lowercase",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc357_c",
+      "label": "C",
+      "title": "Sierpinski carpet",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc357_d",
+      "label": "D",
+      "title": "88888888",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc357_e",
+      "label": "E",
+      "title": "Reachability in Functional Graph",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc357_f",
+      "label": "F",
+      "title": "Two Sequence Queries",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc357_g",
+      "label": "G",
+      "title": "Stair-like Grid",
+      "url": "https://atcoder.jp/contests/abc357/tasks/abc357_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
