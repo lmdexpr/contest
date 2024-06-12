@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240612_2",
+    "title": "AtCoder Daily Training ALL 2024/06/12 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240612_2"
+  },
+  "tasks": [
+    {
+      "id": "abc295_a",
+      "label": "A",
+      "title": "Probably English",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc295_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc287_a",
+      "label": "B",
+      "title": "Majority",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc287_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc298_b",
+      "label": "C",
+      "title": "Coloring Matrix",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc298_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc224_b",
+      "label": "D",
+      "title": "Mongeness",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc224_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc293_c",
+      "label": "E",
+      "title": "Make Takahashi Happy ",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc293_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc213_c",
+      "label": "F",
+      "title": "Reorder Cards",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc213_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc220_d",
+      "label": "G",
+      "title": "FG operation",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc220_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc303_e",
+      "label": "H",
+      "title": "A Gift From the Stars",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc303_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc349_f",
+      "label": "I",
+      "title": "Subsequence LCM",
+      "url": "https://atcoder.jp/contests/adt_all_20240612_2/tasks/abc349_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
