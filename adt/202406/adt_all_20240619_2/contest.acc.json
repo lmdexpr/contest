@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240619_2",
+    "title": "AtCoder Daily Training ALL 2024/06/19 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240619_2"
+  },
+  "tasks": [
+    {
+      "id": "abc264_a",
+      "label": "A",
+      "title": "\"atcoder\".substr()",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc264_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc335_a",
+      "label": "B",
+      "title": "202<s>3</s>",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc335_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc334_b",
+      "label": "C",
+      "title": "Christmas Trees",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc334_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc332_b",
+      "label": "D",
+      "title": "Glass and Mug",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc332_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc333_c",
+      "label": "E",
+      "title": "Repunit Trio",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc333_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc229_c",
+      "label": "F",
+      "title": "Cheese",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc229_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc347_d",
+      "label": "G",
+      "title": "Popcount and XOR",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc347_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc230_e",
+      "label": "H",
+      "title": "Fraction Floor Sum",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc230_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc256_f",
+      "label": "I",
+      "title": "Cumulative Cumulative Cumulative Sum",
+      "url": "https://atcoder.jp/contests/adt_all_20240619_2/tasks/abc256_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
