@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc359",
+    "title": "UNIQUE VISION Programming Contest 2024 Summer (AtCoder Beginner Contest 359)",
+    "url": "https://atcoder.jp/contests/abc359"
+  },
+  "tasks": [
+    {
+      "id": "abc359_a",
+      "label": "A",
+      "title": "Count Takahashi",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc359_b",
+      "label": "B",
+      "title": "Couples",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc359_c",
+      "label": "C",
+      "title": "Tile Distance 2",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc359_d",
+      "label": "D",
+      "title": "Avoid K Palindrome",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc359_e",
+      "label": "E",
+      "title": "Water Tank",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc359_f",
+      "label": "F",
+      "title": "Tree Degree Optimization",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc359_g",
+      "label": "G",
+      "title": "Sum of Tree Distance",
+      "url": "https://atcoder.jp/contests/abc359/tasks/abc359_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
