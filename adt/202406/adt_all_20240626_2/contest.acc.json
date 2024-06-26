@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20240626_2",
+    "title": "AtCoder Daily Training ALL 2024/06/26 18:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20240626_2"
+  },
+  "tasks": [
+    {
+      "id": "abc324_a",
+      "label": "A",
+      "title": "Same",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc324_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc238_a",
+      "label": "B",
+      "title": "Exponential or Quadratic",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc238_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc273_b",
+      "label": "C",
+      "title": "Broken Rounding",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc273_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc341_b",
+      "label": "D",
+      "title": "Foreign Exchange",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc341_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc300_c",
+      "label": "E",
+      "title": "Cross",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc300_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "F",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc290_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc289_d",
+      "label": "G",
+      "title": "Step Up Robot",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc289_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc339_e",
+      "label": "H",
+      "title": "Smooth Subsequence",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc339_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "abc317_f",
+      "label": "I",
+      "title": "Nim",
+      "url": "https://atcoder.jp/contests/adt_all_20240626_2/tasks/abc317_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    }
+  ]
+}
