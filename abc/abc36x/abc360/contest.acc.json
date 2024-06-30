@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc360",
+    "title": "AtCoder Beginner Contest 360",
+    "url": "https://atcoder.jp/contests/abc360"
+  },
+  "tasks": [
+    {
+      "id": "abc360_a",
+      "label": "A",
+      "title": "A Healthy Breakfast",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc360_b",
+      "label": "B",
+      "title": "Vertical Reading",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc360_c",
+      "label": "C",
+      "title": "Move It",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc360_d",
+      "label": "D",
+      "title": "Ghost Ants",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc360_e",
+      "label": "E",
+      "title": "Random Swaps of Balls",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc360_f",
+      "label": "F",
+      "title": "InterSections",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc360_g",
+      "label": "G",
+      "title": "Suitable Edit for LIS",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
