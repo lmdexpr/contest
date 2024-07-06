@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc361",
+    "title": "Denso Create Programming Contest 2024（AtCoder Beginner Contest 361）",
+    "url": "https://atcoder.jp/contests/abc361"
+  },
+  "tasks": [
+    {
+      "id": "abc361_a",
+      "label": "A",
+      "title": "Insert",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc361_b",
+      "label": "B",
+      "title": "Intesection of Cuboids",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc361_c",
+      "label": "C",
+      "title": "Make Them Narrow",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc361_d",
+      "label": "D",
+      "title": "Go Stone Puzzle",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc361_e",
+      "label": "E",
+      "title": "Tree and Hamilton Path 2",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc361_f",
+      "label": "F",
+      "title": "x = a^b",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc361_g",
+      "label": "G",
+      "title": "Go Territory",
+      "url": "https://atcoder.jp/contests/abc361/tasks/abc361_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
