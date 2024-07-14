@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc362",
+    "title": "Toyota Programming Contest 2024#7（AtCoder Beginner Contest 362）",
+    "url": "https://atcoder.jp/contests/abc362"
+  },
+  "tasks": [
+    {
+      "id": "abc362_a",
+      "label": "A",
+      "title": "Buy a Pen",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc362_b",
+      "label": "B",
+      "title": "Right Triangle",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc362_c",
+      "label": "C",
+      "title": "Sum = 0",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc362_d",
+      "label": "D",
+      "title": "Shortest Path 3",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc362_e",
+      "label": "E",
+      "title": "Count Arithmetic Subsequences",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc362_f",
+      "label": "F",
+      "title": "Perfect Matching on a Tree",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc362_g",
+      "label": "G",
+      "title": "Count Substring Query",
+      "url": "https://atcoder.jp/contests/abc362/tasks/abc362_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
