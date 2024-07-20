@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc363",
+    "title": "AtCoder Beginner Contest 363",
+    "url": "https://atcoder.jp/contests/abc363"
+  },
+  "tasks": [
+    {
+      "id": "abc363_a",
+      "label": "A",
+      "title": "Piling Up",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc363_b",
+      "label": "B",
+      "title": "Japanese Cursed Doll",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc363_c",
+      "label": "C",
+      "title": "Avoid K Palindrome 2",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc363_d",
+      "label": "D",
+      "title": "Palindromic Number",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc363_e",
+      "label": "E",
+      "title": "Sinking Land",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc363_f",
+      "label": "F",
+      "title": "Palindromic Expression",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc363_g",
+      "label": "G",
+      "title": "Dynamic Scheduling",
+      "url": "https://atcoder.jp/contests/abc363/tasks/abc363_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
