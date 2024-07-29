@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc364",
+    "title": "Japan Registry Services (JPRS) Programming Contest 2024#2 (AtCoder Beginner Contest 364)",
+    "url": "https://atcoder.jp/contests/abc364"
+  },
+  "tasks": [
+    {
+      "id": "abc364_a",
+      "label": "A",
+      "title": "Glutton Takahashi",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc364_b",
+      "label": "B",
+      "title": "Grid Walk",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc364_c",
+      "label": "C",
+      "title": "Minimum Glutton",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc364_d",
+      "label": "D",
+      "title": "K-th Nearest",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc364_e",
+      "label": "E",
+      "title": "Maximum Glutton",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc364_f",
+      "label": "F",
+      "title": "Range Connect MST",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc364_g",
+      "label": "G",
+      "title": "Last Major City",
+      "url": "https://atcoder.jp/contests/abc364/tasks/abc364_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
