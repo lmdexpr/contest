@@ -1,0 +1,1 @@
+(executable (name o) (libraries core iter num containers batteries))
