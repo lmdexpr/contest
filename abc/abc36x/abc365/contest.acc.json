@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc365",
+    "title": "Toyota Programming Contest 2024#8（AtCoder Beginner Contest 365）",
+    "url": "https://atcoder.jp/contests/abc365"
+  },
+  "tasks": [
+    {
+      "id": "abc365_a",
+      "label": "A",
+      "title": "Leap Year",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc365_b",
+      "label": "B",
+      "title": "Second Best",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc365_c",
+      "label": "C",
+      "title": "Transportation Expenses",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc365_d",
+      "label": "D",
+      "title": "AtCoder Janken 3",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc365_e",
+      "label": "E",
+      "title": "Xor Sigma Problem",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc365_f",
+      "label": "F",
+      "title": "Takahashi on Grid",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc365_g",
+      "label": "G",
+      "title": "AtCoder Office",
+      "url": "https://atcoder.jp/contests/abc365/tasks/abc365_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
