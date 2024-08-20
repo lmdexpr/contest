@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc367",
+    "title": "AtCoder Beginner Contest 367",
+    "url": "https://atcoder.jp/contests/abc367"
+  },
+  "tasks": [
+    {
+      "id": "abc367_a",
+      "label": "A",
+      "title": "Shout Everyday",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc367_b",
+      "label": "B",
+      "title": "Cut .0",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc367_c",
+      "label": "C",
+      "title": "Enumerate Sequences",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc367_d",
+      "label": "D",
+      "title": "Pedometer",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc367_e",
+      "label": "E",
+      "title": "Permute K times",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc367_f",
+      "label": "F",
+      "title": "Rearrange Query",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc367_g",
+      "label": "G",
+      "title": "Sum of (XOR^K or 0)",
+      "url": "https://atcoder.jp/contests/abc367/tasks/abc367_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
