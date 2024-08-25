@@ -1,9 +1,8 @@
 open Core
 open Scanf
 
-let n = scanf "%d" Fn.id
-
-let _a = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
+let s = scanf "%s\n" Fn.id
+let t = scanf "%s\n" Fn.id
 
 let ans = 0
 
