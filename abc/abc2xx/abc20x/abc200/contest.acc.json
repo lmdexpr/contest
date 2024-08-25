@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "abc200",
+    "title": "KYOCERA Programming Contest 2021（AtCoder Beginner Contest 200）",
+    "url": "https://atcoder.jp/contests/abc200"
+  },
+  "tasks": [
+    {
+      "id": "abc200_a",
+      "label": "A",
+      "title": "Century",
+      "url": "https://atcoder.jp/contests/abc200/tasks/abc200_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc200_b",
+      "label": "B",
+      "title": "200th ABC-200",
+      "url": "https://atcoder.jp/contests/abc200/tasks/abc200_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc200_c",
+      "label": "C",
+      "title": "Ringo's Favorite Numbers 2",
+      "url": "https://atcoder.jp/contests/abc200/tasks/abc200_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc200_d",
+      "label": "D",
+      "title": "Happy Birthday! 2",
+      "url": "https://atcoder.jp/contests/abc200/tasks/abc200_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc200_e",
+      "label": "E",
+      "title": "Patisserie ABC 2",
+      "url": "https://atcoder.jp/contests/abc200/tasks/abc200_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc200_f",
+      "label": "F",
+      "title": "Minflip Summation",
+      "url": "https://atcoder.jp/contests/abc200/tasks/abc200_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "f.ml"
+      }
+    }
+  ]
+}
