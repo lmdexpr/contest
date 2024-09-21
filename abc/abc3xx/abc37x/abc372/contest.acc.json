@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc372",
+    "title": "UNIQUE VISION Programming Contest 2024 Autumn (AtCoder Beginner Contest 372)",
+    "url": "https://atcoder.jp/contests/abc372"
+  },
+  "tasks": [
+    {
+      "id": "abc372_a",
+      "label": "A",
+      "title": "delete .",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc372_b",
+      "label": "B",
+      "title": "3^A",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc372_c",
+      "label": "C",
+      "title": "Count ABC Again",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc372_d",
+      "label": "D",
+      "title": "Buildings",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc372_e",
+      "label": "E",
+      "title": "K-th Largest Connected Components",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc372_f",
+      "label": "F",
+      "title": "Teleporting Takahashi 2",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc372_g",
+      "label": "G",
+      "title": "Ax + By < C",
+      "url": "https://atcoder.jp/contests/abc372/tasks/abc372_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
