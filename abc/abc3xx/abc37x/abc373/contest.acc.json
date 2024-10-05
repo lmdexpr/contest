@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc373",
+    "title": "AtCoder Beginner Contest 373",
+    "url": "https://atcoder.jp/contests/abc373"
+  },
+  "tasks": [
+    {
+      "id": "abc373_a",
+      "label": "A",
+      "title": "September",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc373_b",
+      "label": "B",
+      "title": "1D Keyboard",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc373_c",
+      "label": "C",
+      "title": "Max Ai+Bj",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc373_d",
+      "label": "D",
+      "title": "Hidden Weights",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc373_e",
+      "label": "E",
+      "title": "How to Win the Election",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc373_f",
+      "label": "F",
+      "title": "Knapsack with Diminishing Values",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc373_g",
+      "label": "G",
+      "title": "No Cross Matching",
+      "url": "https://atcoder.jp/contests/abc373/tasks/abc373_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
