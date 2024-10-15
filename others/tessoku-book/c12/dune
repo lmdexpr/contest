@@ -1,0 +1,1 @@
+(executable (name c12) (libraries core iter num containers batteries))

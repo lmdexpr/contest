@@ -1,0 +1,1 @@
+(executable (name c20) (libraries core iter num containers batteries))
