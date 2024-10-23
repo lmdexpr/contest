@@ -1,10 +1,10 @@
 open Core
 open Scanf
 
-let n = scanf "%d" Fn.id
+let a, b = scanf "%d %d" Tuple2.create
 
-let _a = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
+let yes = Iter.(a -- b) |> Iter.find_pred (fun x -> 100 % x = 0) |> Option.is_some
 
-let ans = 0
+let ans = if yes then "Yes" else "No"
 
-let () = printf "%d\n%!" ans
+let () = printf "%s\n%!" ans

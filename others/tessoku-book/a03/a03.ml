@@ -1,10 +1,16 @@
 open Core
 open Scanf
 
-let n = scanf "%d" Fn.id
+let n, k = scanf "%d %d" Tuple2.create
 
-let _a = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
+let p = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
+let q = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
 
-let ans = 0
+let yes = 
+  Array.exists p ~f:(fun p ->
+    Array.exists q ~f:(fun q -> p + q = k)
+  )
 
-let () = printf "%d\n%!" ans
+let ans = if yes then "Yes" else "No"
+
+let () = printf "%s\n%!" ans
