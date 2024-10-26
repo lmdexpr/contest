@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc377",
+    "title": "TOYOTA SYSTEMS Programming Contest 2024（AtCoder Beginner Contest 377)",
+    "url": "https://atcoder.jp/contests/abc377"
+  },
+  "tasks": [
+    {
+      "id": "abc377_a",
+      "label": "A",
+      "title": "Rearranging ABC",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc377_b",
+      "label": "B",
+      "title": "Avoid Rook Attack",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc377_c",
+      "label": "C",
+      "title": "Avoid Knight Attack",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc377_d",
+      "label": "D",
+      "title": "Many Segments 2",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc377_e",
+      "label": "E",
+      "title": "Permute K times 2",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc377_f",
+      "label": "F",
+      "title": "Avoid Queen Attack",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc377_g",
+      "label": "G",
+      "title": "Edit to Match",
+      "url": "https://atcoder.jp/contests/abc377/tasks/abc377_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
