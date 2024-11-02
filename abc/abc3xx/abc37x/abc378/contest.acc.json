@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc378",
+    "title": "AtCoder Beginner Contest 378",
+    "url": "https://atcoder.jp/contests/abc378"
+  },
+  "tasks": [
+    {
+      "id": "abc378_a",
+      "label": "A",
+      "title": "Pairing",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc378_b",
+      "label": "B",
+      "title": "Garbage Collection",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc378_c",
+      "label": "C",
+      "title": "Repeating",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc378_d",
+      "label": "D",
+      "title": "Count Simple Paths",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc378_e",
+      "label": "E",
+      "title": "Mod Sigma Problem",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc378_f",
+      "label": "F",
+      "title": "Add One Edge 2",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc378_g",
+      "label": "G",
+      "title": "Everlasting LIDS",
+      "url": "https://atcoder.jp/contests/abc378/tasks/abc378_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
