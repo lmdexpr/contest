@@ -1,0 +1,141 @@
+{
+  "contest": {
+    "id": "practice2",
+    "title": "AtCoder Library Practice Contest",
+    "url": "https://atcoder.jp/contests/practice2"
+  },
+  "tasks": [
+    {
+      "id": "practice2_a",
+      "label": "A",
+      "title": "Disjoint Set Union",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "practice2_b",
+      "label": "B",
+      "title": "Fenwick Tree",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "practice2_c",
+      "label": "C",
+      "title": "Floor Sum",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "practice2_d",
+      "label": "D",
+      "title": "Maxflow",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "practice2_e",
+      "label": "E",
+      "title": "MinCostFlow",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "practice2_f",
+      "label": "F",
+      "title": "Convolution",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "practice2_g",
+      "label": "G",
+      "title": "SCC",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "practice2_h",
+      "label": "H",
+      "title": "Two SAT",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_h",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "h.ml"
+      }
+    },
+    {
+      "id": "practice2_i",
+      "label": "I",
+      "title": "Number of Substrings",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_i",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "i.ml"
+      }
+    },
+    {
+      "id": "practice2_j",
+      "label": "J",
+      "title": "Segment Tree",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_j",
+      "directory": {
+        "path": "j",
+        "testdir": "test",
+        "submit": "j.ml"
+      }
+    },
+    {
+      "id": "practice2_k",
+      "label": "K",
+      "title": "Range Affine Range Sum",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_k",
+      "directory": {
+        "path": "k",
+        "testdir": "test",
+        "submit": "k.ml"
+      }
+    },
+    {
+      "id": "practice2_l",
+      "label": "L",
+      "title": "Lazy Segment Tree",
+      "url": "https://atcoder.jp/contests/practice2/tasks/practice2_l",
+      "directory": {
+        "path": "l",
+        "testdir": "test",
+        "submit": "l.ml"
+      }
+    }
+  ]
+}

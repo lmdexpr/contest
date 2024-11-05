@@ -24,26 +24,19 @@ module Fenwick = struct
     M.(go Int.(pred r) zero - go Int.(pred l) zero)
 end
 
-let n, m = scanf "%d %d" Tuple2.create
+let n, q = scanf "%d %d" Tuple2.create
 
 let a = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
 
-let cumsum a =
-  let paired f a b = let r = f a b in r, r in
-  Array.append [| 0 |] @@ 
-  Array.folding_map a ~init:0 ~f:(paired (fun a b -> (a + b) % m))
+let tree = Fenwick.create n
+let () =
+  for i = 0 to n - 1 do
+    Fenwick.add tree i a.(i)
+  done;
+  for _ = 1 to q do
+    scanf " %d %d %d" @@ function
+    | 0 -> Fenwick.add tree
+    | 1 -> fun l r -> printf "%d\n" @@ Fenwick.sum tree l r
+    | _ -> assert false
+  done
 
-let s = cumsum a
-
-let tree = Fenwick.create m
-let ans, _ =
-  Iter.(1 -- n)
-  |> Iter.fold 
-    (fun (acc, ss) r -> 
-      let acc = acc + r * s.(r) - ss + Fenwick.sum tree (s.(r) + 1) m * m in
-      Fenwick.add tree s.(r) 1;
-      acc, ss + s.(r)
-    )
-    (0, 0)
-
-let () = printf "%d\n%!" ans
