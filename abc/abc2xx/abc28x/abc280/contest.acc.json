@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc280",
+    "title": "Denso Create Programming Contest 2022 Winter(AtCoder Beginner Contest 280)",
+    "url": "https://atcoder.jp/contests/abc280"
+  },
+  "tasks": [
+    {
+      "id": "abc280_a",
+      "label": "A",
+      "title": "Pawn on a Grid",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc280_b",
+      "label": "B",
+      "title": "Inverse Prefix Sum",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc280_c",
+      "label": "C",
+      "title": "Extra Character",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc280_d",
+      "label": "D",
+      "title": "Factorial and Multiple",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc280_e",
+      "label": "E",
+      "title": "Critical Hit",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc280_f",
+      "label": "F",
+      "title": "Pay or Receive",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc280_g",
+      "label": "G",
+      "title": "Do Use Hexagon Grid 2",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc280_h",
+      "label": "Ex",
+      "title": "Substring Sort",
+      "url": "https://atcoder.jp/contests/abc280/tasks/abc280_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}

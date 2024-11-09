@@ -1,3 +1,1 @@
-(executable
-  (name f)
-  (libraries core iter num))
+(executable (name f) (libraries core iter num containers batteries))

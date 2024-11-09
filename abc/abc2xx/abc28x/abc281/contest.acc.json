@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc281",
+    "title": "AtCoder Beginner Contest 281",
+    "url": "https://atcoder.jp/contests/abc281"
+  },
+  "tasks": [
+    {
+      "id": "abc281_a",
+      "label": "A",
+      "title": "Count Down",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc281_b",
+      "label": "B",
+      "title": "Sandwich Number",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc281_c",
+      "label": "C",
+      "title": "Circular Playlist",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc281_d",
+      "label": "D",
+      "title": "Max Multiple",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc281_e",
+      "label": "E",
+      "title": "Least Elements ",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc281_f",
+      "label": "F",
+      "title": "Xor Minimization",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc281_g",
+      "label": "G",
+      "title": "Farthest City",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc281_h",
+      "label": "Ex",
+      "title": "Alchemy",
+      "url": "https://atcoder.jp/contests/abc281/tasks/abc281_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
