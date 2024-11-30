@@ -1,0 +1,42 @@
+* 入力生成器
+使い方: python3 generator.py <seed>
+指定した乱数seed(整数値)を元に入力を生成して標準出力に書き出します。
+
+* スコア計算器
+使い方: python3 tester.py <input_file> <output_file>
+入力ファイルとその入力に対する解答プログラムの出力からスコアを計算して出力します。
+一行目は最終日における満足度で、二行目はスコア(=max(0, 10^6+満足度))です。
+
+* ビジュアライザ
+tester.pyを実行するとvis.svgファイルが更新されます。
+直接もしくはvis.htmlファイルから入出力のビジュアライズ結果を確認できます。
+一番上の行にc[i]の値、その下にD行26列の表でs[d][i]の値とどれが選ばれたかが表示されます。
+
+* 例
+python3 generator.py 12345 > input.txt
+./my_solution < input.txt > output.txt
+python3 tester.py input.txt output.txt
+google-chrome vis.html
+
+
+
+* Input Generator
+Usage: python3 generator.py <seed>
+Generate an input using the specified seed (integer value) and write it to the standard output.
+
+* Score Calculator
+Usage: python3 tester.py <input_file> <output_file>
+Calculate the score of the specified output file against the specified input file.
+The first line of the standard output shows the satisfaction at the end of day D and the second line shows the score (=max(0, 10^6+satisfaction)).
+
+* Visualizer
+Running tester.py updates the vis.svg file.
+You can check the input/output visualization results directly from the svg file or from the vis.html file.
+The top row shows the value of c[i].
+Below that, the table in row D column 26 shows the values of s[d][i] and which ones were chosen.
+
+* Example
+python3 generator.py 12345 > input.txt
+./my_solution < input.txt > output.txt
+python3 tester.py input.txt output.txt
+google-chrome vis.html

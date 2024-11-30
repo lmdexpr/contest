@@ -1,0 +1,42 @@
+{
+  "contest": {
+    "id": "intro-heuristics",
+    "title": "Introduction to Heuristics Contest",
+    "url": "https://atcoder.jp/contests/intro-heuristics"
+  },
+  "tasks": [
+    {
+      "id": "intro_heuristics_a",
+      "label": "A",
+      "title": "AtCoder Contest Scheduling",
+      "url": "https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "intro_heuristics_b",
+      "label": "B",
+      "title": "Scoring",
+      "url": "https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "intro_heuristics_c",
+      "label": "C",
+      "title": "Incremental Scoring",
+      "url": "https://atcoder.jp/contests/intro-heuristics/tasks/intro_heuristics_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    }
+  ]
+}

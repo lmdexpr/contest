@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc380",
+    "title": "AtCoder Beginner Contest 380",
+    "url": "https://atcoder.jp/contests/abc380"
+  },
+  "tasks": [
+    {
+      "id": "abc380_a",
+      "label": "A",
+      "title": "123233",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc380_b",
+      "label": "B",
+      "title": "Hurdle Parsing",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc380_c",
+      "label": "C",
+      "title": "Move Segment",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc380_d",
+      "label": "D",
+      "title": "Strange Mirroring",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc380_e",
+      "label": "E",
+      "title": "1D Bucket Tool",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc380_f",
+      "label": "F",
+      "title": "Exchange Game",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc380_g",
+      "label": "G",
+      "title": "Another Shuffle Window",
+      "url": "https://atcoder.jp/contests/abc380/tasks/abc380_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
