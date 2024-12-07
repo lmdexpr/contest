@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc383",
+    "title": "Daiwa Securities Co. Ltd. Programming Contest 2024（AtCoder Beginner Contest 383）",
+    "url": "https://atcoder.jp/contests/abc383"
+  },
+  "tasks": [
+    {
+      "id": "abc383_a",
+      "label": "A",
+      "title": "Humidifier 1",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc383_b",
+      "label": "B",
+      "title": "Humidifier 2",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc383_c",
+      "label": "C",
+      "title": "Humidifier 3",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc383_d",
+      "label": "D",
+      "title": "9 Divisors",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc383_e",
+      "label": "E",
+      "title": "Sum of Max Matching",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc383_f",
+      "label": "F",
+      "title": "Diversity",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc383_g",
+      "label": "G",
+      "title": "Bar Cover",
+      "url": "https://atcoder.jp/contests/abc383/tasks/abc383_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
