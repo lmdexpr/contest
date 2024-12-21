@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc385",
+    "title": "UNIQUE VISION Programming Contest 2024 Christmas (AtCoder Beginner Contest 385)",
+    "url": "https://atcoder.jp/contests/abc385"
+  },
+  "tasks": [
+    {
+      "id": "abc385_a",
+      "label": "A",
+      "title": "Equally",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc385_b",
+      "label": "B",
+      "title": "Santa Claus 1",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc385_c",
+      "label": "C",
+      "title": "Illuminate Buildings",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc385_d",
+      "label": "D",
+      "title": "Santa Claus 2",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc385_e",
+      "label": "E",
+      "title": "Snowflake Tree",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc385_f",
+      "label": "F",
+      "title": "Visible Buildings",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc385_g",
+      "label": "G",
+      "title": "Counting Buildings",
+      "url": "https://atcoder.jp/contests/abc385/tasks/abc385_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
