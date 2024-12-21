@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc384",
+    "title": "Toyota Programming Contest 2024#12（AtCoder Beginner Contest 384）",
+    "url": "https://atcoder.jp/contests/abc384"
+  },
+  "tasks": [
+    {
+      "id": "abc384_a",
+      "label": "A",
+      "title": "aaaadaa",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc384_b",
+      "label": "B",
+      "title": "ARC Division",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc384_c",
+      "label": "C",
+      "title": "Perfect Standings",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc384_d",
+      "label": "D",
+      "title": "Repeated Sequence",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc384_e",
+      "label": "E",
+      "title": "Takahashi is Slime 2",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc384_f",
+      "label": "F",
+      "title": "Double Sum 2",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc384_g",
+      "label": "G",
+      "title": "Abs Sum",
+      "url": "https://atcoder.jp/contests/abc384/tasks/abc384_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
