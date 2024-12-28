@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc386",
+    "title": "AtCoder Beginner Contest 386",
+    "url": "https://atcoder.jp/contests/abc386"
+  },
+  "tasks": [
+    {
+      "id": "abc386_a",
+      "label": "A",
+      "title": "Full House 2",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc386_b",
+      "label": "B",
+      "title": "Calculator",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc386_c",
+      "label": "C",
+      "title": "Operate 1",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc386_d",
+      "label": "D",
+      "title": "Diagonal Separation",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc386_e",
+      "label": "E",
+      "title": " Maximize XOR",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc386_f",
+      "label": "F",
+      "title": "Operate K",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc386_g",
+      "label": "G",
+      "title": "Many MST",
+      "url": "https://atcoder.jp/contests/abc386/tasks/abc386_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
