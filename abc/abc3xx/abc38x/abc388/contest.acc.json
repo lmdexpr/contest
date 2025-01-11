@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc388",
+    "title": "HHKB Programming Contest 2025(AtCoder Beginner Contest 388)",
+    "url": "https://atcoder.jp/contests/abc388"
+  },
+  "tasks": [
+    {
+      "id": "abc388_a",
+      "label": "A",
+      "title": "?UPC",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc388_b",
+      "label": "B",
+      "title": "Heavy Snake",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc388_c",
+      "label": "C",
+      "title": "Various Kagamimochi",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc388_d",
+      "label": "D",
+      "title": "Coming of Age Celebration",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc388_e",
+      "label": "E",
+      "title": "Simultaneous Kagamimochi",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc388_f",
+      "label": "F",
+      "title": "Dangerous Sugoroku ",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc388_g",
+      "label": "G",
+      "title": "Simultaneous Kagamimochi 2",
+      "url": "https://atcoder.jp/contests/abc388/tasks/abc388_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
