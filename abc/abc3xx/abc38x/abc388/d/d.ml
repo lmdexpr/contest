@@ -12,7 +12,7 @@ let ans = Array.mapi a ~f:(fun i x ->
   if x >= 0 then x
   else (
     let j = max 0 n + x in
-    sentinel.(j) <- sentinel.(j) - 1;
+    sentinel.(j) <- pred sentinel.(j);
     0
   )
 )
