@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc041",
+    "title": "ALGO ARTIS Programming Contest 2025 Winter（AtCoder Heuristic Contest 041）",
+    "url": "https://atcoder.jp/contests/ahc041"
+  },
+  "tasks": [
+    {
+      "id": "ahc041_a",
+      "label": "A",
+      "title": "Christmas Tree Cutting",
+      "url": "https://atcoder.jp/contests/ahc041/tasks/ahc041_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}

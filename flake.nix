@@ -108,8 +108,9 @@
             buildInputs = with pkgs; devPackages ++ [ 
               nil 
               nixpkgs-fmt 
+              cargo
               online-judge-tools
-               atcoder-cli
+              atcoder-cli
             ];
             shellHook = ''
               acc config oj-path `which oj`
