@@ -1,6 +1,7 @@
 open Core
+open Scanf
 
-let n = Scanf.scanf "%d" ident
+let n = scanf "%d" Fn.id
 
 let ladder = Hashtbl.create ~size:(2 * n) (module Int)
 
@@ -17,22 +18,16 @@ let () =
 
 let queue = Queue.singleton 1
 
-module SI = Set.Make(Int)
-
-let rec bfs s =
-  if Queue.is_empty queue then s
-  else
+let ans = ref Int.Set.empty
+let () =
+  while not @@ Queue.is_empty queue do
     match Queue.dequeue_exn queue |> Hashtbl.find ladder with
-    | None -> s
+    | None -> ()
     | Some around ->
-      let f s i = 
-        if SI.mem s i then s
-        else begin
-          Queue.enqueue queue i;
-          SI.add s i
-        end
-      in
-      let s = List.fold around ~init:s ~f in
-      bfs s
-
-let () = bfs SI.empty |> SI.max_elt |> Option.value ~default:1 |> printf "%d\n" 
+      around |> List.iter ~f:(fun i ->
+          if not @@ Set.mem !ans i then begin
+            Queue.enqueue queue i;
+            ans := Set.add !ans i
+          end)
+  done;
+  !ans |> Set.max_elt |> Option.value ~default:1 |> printf "%d\n"

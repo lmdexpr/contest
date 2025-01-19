@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc389",
+    "title": "Toyota Programming Contest 2025（AtCoder Beginner Contest 389)",
+    "url": "https://atcoder.jp/contests/abc389"
+  },
+  "tasks": [
+    {
+      "id": "abc389_a",
+      "label": "A",
+      "title": "9x9",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc389_b",
+      "label": "B",
+      "title": "tcaF",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc389_c",
+      "label": "C",
+      "title": "Snake Queue",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc389_d",
+      "label": "D",
+      "title": "Squares in Circle",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc389_e",
+      "label": "E",
+      "title": "Square Price",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc389_f",
+      "label": "F",
+      "title": "Rated Range",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc389_g",
+      "label": "G",
+      "title": "Odd Even Graph",
+      "url": "https://atcoder.jp/contests/abc389/tasks/abc389_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
