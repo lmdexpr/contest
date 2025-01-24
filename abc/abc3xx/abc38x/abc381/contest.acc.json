@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc381",
+    "title": "AtCoder Beginner Contest 381",
+    "url": "https://atcoder.jp/contests/abc381"
+  },
+  "tasks": [
+    {
+      "id": "abc381_a",
+      "label": "A",
+      "title": "11/22 String",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc381_b",
+      "label": "B",
+      "title": "1122 String",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc381_c",
+      "label": "C",
+      "title": "11/22 Substring",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc381_d",
+      "label": "D",
+      "title": "1122 Substring",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc381_e",
+      "label": "E",
+      "title": "11/22 Subsequence",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc381_f",
+      "label": "F",
+      "title": "1122 Subsequence",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc381_g",
+      "label": "G",
+      "title": "Fibonacci Product",
+      "url": "https://atcoder.jp/contests/abc381/tasks/abc381_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
