@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc390",
+    "title": "AtCoder Beginner Contest 390",
+    "url": "https://atcoder.jp/contests/abc390"
+  },
+  "tasks": [
+    {
+      "id": "abc390_a",
+      "label": "A",
+      "title": "12435",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc390_b",
+      "label": "B",
+      "title": "Geometric Sequence",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc390_c",
+      "label": "C",
+      "title": "Paint to make a rectangle",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc390_d",
+      "label": "D",
+      "title": "Stone XOR",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc390_e",
+      "label": "E",
+      "title": "Vitamin Balance",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc390_f",
+      "label": "F",
+      "title": "Double Sum 3",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc390_g",
+      "label": "G",
+      "title": "Permutation Concatenation",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
