@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc392",
+    "title": "Japan Registry Services (JPRS) Programming Contest 2025#1 (AtCoder Beginner Contest 392)",
+    "url": "https://atcoder.jp/contests/abc392"
+  },
+  "tasks": [
+    {
+      "id": "abc392_a",
+      "label": "A",
+      "title": "Shuffled Equation",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc392_b",
+      "label": "B",
+      "title": "Who is Missing?",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc392_c",
+      "label": "C",
+      "title": "Bib",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc392_d",
+      "label": "D",
+      "title": "Doubles",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc392_e",
+      "label": "E",
+      "title": "Cables and Servers",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc392_f",
+      "label": "F",
+      "title": "Insert",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc392_g",
+      "label": "G",
+      "title": "Fine Triplets",
+      "url": "https://atcoder.jp/contests/abc392/tasks/abc392_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
