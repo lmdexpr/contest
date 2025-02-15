@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": "abc393",
+    "title": "AtCoder Beginner Contest 393",
+    "url": "https://atcoder.jp/contests/abc393"
+  },
+  "tasks": [
+    {
+      "id": "abc393_a",
+      "label": "A",
+      "title": "Poisonous Oyster ",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc393_b",
+      "label": "B",
+      "title": "A..B..C",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc393_c",
+      "label": "C",
+      "title": "Make it Simple",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc393_d",
+      "label": "D",
+      "title": "Swap to Gather",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc393_e",
+      "label": "E",
+      "title": "GCD of Subset",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc393_f",
+      "label": "F",
+      "title": "Prefix LIS Query ",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc393_g",
+      "label": "G",
+      "title": "Unevenness",
+      "url": "https://atcoder.jp/contests/abc393/tasks/abc393_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
