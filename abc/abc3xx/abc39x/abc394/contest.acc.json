@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc394",
+    "title": "KAJIMA CORPORATION CONTEST 2025 (AtCoder Beginner Contest 394)",
+    "url": "https://atcoder.jp/contests/abc394"
+  },
+  "tasks": [
+    {
+      "id": "abc394_a",
+      "label": "A",
+      "title": "22222",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc394_b",
+      "label": "B",
+      "title": "cat",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc394_c",
+      "label": "C",
+      "title": "Debug",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc394_d",
+      "label": "D",
+      "title": "Colorful Bracket Sequence",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc394_e",
+      "label": "E",
+      "title": "Palindromic Shortest Path",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc394_f",
+      "label": "F",
+      "title": "Alkane",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc394_g",
+      "label": "G",
+      "title": "Dense Buildings",
+      "url": "https://atcoder.jp/contests/abc394/tasks/abc394_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}

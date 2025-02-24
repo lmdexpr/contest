@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc042",
+    "title": "AtCoder Heuristic Contest 042",
+    "url": "https://atcoder.jp/contests/ahc042"
+  },
+  "tasks": [
+    {
+      "id": "ahc042_a",
+      "label": "A",
+      "title": "Oni wa Soto, Fuku wa Uchi",
+      "url": "https://atcoder.jp/contests/ahc042/tasks/ahc042_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
