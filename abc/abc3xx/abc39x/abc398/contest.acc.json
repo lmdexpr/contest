@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc398",
+    "title": "UNIQUE VISION Programming Contest 2025 Spring (AtCoder Beginner Contest 398)",
+    "url": "https://atcoder.jp/contests/abc398"
+  },
+  "tasks": [
+    {
+      "id": "abc398_a",
+      "label": "A",
+      "title": "Doors in the Center",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc398_b",
+      "label": "B",
+      "title": "Full House 3",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc398_c",
+      "label": "C",
+      "title": "Uniqueness",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc398_d",
+      "label": "D",
+      "title": "Bonfire",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc398_e",
+      "label": "E",
+      "title": "Tree Game",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc398_f",
+      "label": "F",
+      "title": "ABCBA",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc398_g",
+      "label": "G",
+      "title": "Not Only Tree Game",
+      "url": "https://atcoder.jp/contests/abc398/tasks/abc398_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
