@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc400",
+    "title": "AtCoder Beginner Contest 400",
+    "url": "https://atcoder.jp/contests/abc400"
+  },
+  "tasks": [
+    {
+      "id": "abc400_a",
+      "label": "A",
+      "title": "ABC400 Party",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc400_b",
+      "label": "B",
+      "title": "Sum of Geometric Series",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc400_c",
+      "label": "C",
+      "title": "2^a b^2",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc400_d",
+      "label": "D",
+      "title": "Takahashi the Wall Breaker",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc400_e",
+      "label": "E",
+      "title": "Ringo's Favorite Numbers 3",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc400_f",
+      "label": "F",
+      "title": "Happy Birthday! 3",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc400_g",
+      "label": "G",
+      "title": "Patisserie ABC 3",
+      "url": "https://atcoder.jp/contests/abc400/tasks/abc400_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
