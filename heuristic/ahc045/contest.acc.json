@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc045",
+    "title": "THIRD PROGRAMMING CONTEST 2025（AtCoder Heuristic Contest 045）",
+    "url": "https://atcoder.jp/contests/ahc045"
+  },
+  "tasks": [
+    {
+      "id": "ahc045_a",
+      "label": "A",
+      "title": "Oracle-Guided Road Network Planning",
+      "url": "https://atcoder.jp/contests/ahc045/tasks/ahc045_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
