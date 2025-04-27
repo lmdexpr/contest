@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc046",
+    "title": "BrainPad Programming Contest 2025 （AtCoder Heuristic Contest 046）",
+    "url": "https://atcoder.jp/contests/ahc046"
+  },
+  "tasks": [
+    {
+      "id": "ahc046_a",
+      "label": "A",
+      "title": "Skating with Blocks",
+      "url": "https://atcoder.jp/contests/ahc046/tasks/ahc046_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
