@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc404",
+    "title": "AtCoder Beginner Contest 404",
+    "url": "https://atcoder.jp/contests/abc404"
+  },
+  "tasks": [
+    {
+      "id": "abc404_a",
+      "label": "A",
+      "title": "Not Found",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc404_b",
+      "label": "B",
+      "title": "Grid Rotation",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc404_c",
+      "label": "C",
+      "title": "Cycle Graph?",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc404_d",
+      "label": "D",
+      "title": "Goin' to the Zoo",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc404_e",
+      "label": "E",
+      "title": "Bowls and Beans",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc404_f",
+      "label": "F",
+      "title": "Lost and Pound",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc404_g",
+      "label": "G",
+      "title": "Specified Range Sums",
+      "url": "https://atcoder.jp/contests/abc404/tasks/abc404_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
