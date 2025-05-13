@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc340",
+    "title": "KAJIMA CORPORATION CONTEST 2024（AtCoder Beginner Contest 340）",
+    "url": "https://atcoder.jp/contests/abc340"
+  },
+  "tasks": [
+    {
+      "id": "abc340_a",
+      "label": "A",
+      "title": "Arithmetic Progression",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc340_b",
+      "label": "B",
+      "title": "Append",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc340_c",
+      "label": "C",
+      "title": "Divide and Divide",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc340_d",
+      "label": "D",
+      "title": "Super Takahashi Bros.",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc340_e",
+      "label": "E",
+      "title": "Mancala 2",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc340_f",
+      "label": "F",
+      "title": "S = 1",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc340_g",
+      "label": "G",
+      "title": "Leaf Color",
+      "url": "https://atcoder.jp/contests/abc340/tasks/abc340_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}

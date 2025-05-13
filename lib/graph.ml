@@ -54,24 +54,32 @@ module WeightedGraph = struct
 end
 let g = WeightedGraph.create ~size:n (module Int)
 
-let inf = 1000_000_000
+module Heap = struct
+  include Batteries.Heap
+  let singleton v = add v empty
+  let pop_min heap =
+    if size heap = 0 then None
+    else
+      Some (find_min heap, del_min heap)
+end
+
 let dijkstra init = 
-  let dist = Array.init (n+1) ~f:(const inf) in dist.(init) <- 0;
-  let q = Queue.singleton init in
-  let rec dijkstra () =
-    match Queue.dequeue q with
-    | None   -> dist
-    | Some v ->
+  let inf = 1_000_000_000_000_000L in
+  let dist = Array.init (n+1) ~f:(const inf) in dist.(init) <- 0L;
+  let rec dijkstra h =
+    match Heap.pop_min h with
+    | None             -> dist
+    | Some ((_, v), h) ->
       WeightedGraph.around g v
-      |> Iter.iter (fun (u, cost) ->
-          if dist.(u) > dist.(v) + cost then begin
-            dist.(u) <- dist.(v) + cost;
-            Queue.enqueue q u
-          end
-        );
-      dijkstra ()
+      |> Fn.flip Iter.fold h Int64.(fun h (u, cost) ->
+        if dist.(u) <= dist.(v) + cost then h
+        else (
+          dist.(u) <- dist.(v) + cost;
+          Heap.add (dist.(u), u) h
+        ))
+      |> dijkstra
   in
-  dijkstra ()
+  dijkstra Heap.(singleton (dist.(init), init))
 
 let _dist_from_1 = dijkstra 1
 let _dist_from_n = dijkstra n
