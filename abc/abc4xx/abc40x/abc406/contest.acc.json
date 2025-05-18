@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc406",
+    "title": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）",
+    "url": "https://atcoder.jp/contests/abc406"
+  },
+  "tasks": [
+    {
+      "id": "abc406_a",
+      "label": "A",
+      "title": "Not Acceptable",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc406_b",
+      "label": "B",
+      "title": "Product Calculator",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc406_c",
+      "label": "C",
+      "title": "~",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc406_d",
+      "label": "D",
+      "title": "Garbage Removal",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc406_e",
+      "label": "E",
+      "title": "Popcount Sum 3",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc406_f",
+      "label": "F",
+      "title": "Compare Tree Weights",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc406_g",
+      "label": "G",
+      "title": "Travelling Salesman Problem",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
