@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc047",
+    "title": "Toyota Programming Contest 2025#2（AtCoder Heuristic Contest 047）",
+    "url": "https://atcoder.jp/contests/ahc047"
+  },
+  "tasks": [
+    {
+      "id": "ahc047_a",
+      "label": "A",
+      "title": "Lovely Language Model",
+      "url": "https://atcoder.jp/contests/ahc047/tasks/ahc047_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
