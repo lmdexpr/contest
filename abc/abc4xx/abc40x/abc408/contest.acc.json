@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc408",
+    "title": "AtCoder Beginner Contest 408",
+    "url": "https://atcoder.jp/contests/abc408"
+  },
+  "tasks": [
+    {
+      "id": "abc408_a",
+      "label": "A",
+      "title": "Timeout",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc408_b",
+      "label": "B",
+      "title": "Compression",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc408_c",
+      "label": "C",
+      "title": "Not All Covered",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc408_d",
+      "label": "D",
+      "title": "Flip to Gather",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc408_e",
+      "label": "E",
+      "title": "Minimum OR Path",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc408_f",
+      "label": "F",
+      "title": "Athletic",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc408_g",
+      "label": "G",
+      "title": "A/B < p/q < C/D",
+      "url": "https://atcoder.jp/contests/abc408/tasks/abc408_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
