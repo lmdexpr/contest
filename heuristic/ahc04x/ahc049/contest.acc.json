@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc049",
+    "title": "Toyota Programming Contest 2025#3（AtCoder Heuristic Contest 049）",
+    "url": "https://atcoder.jp/contests/ahc049"
+  },
+  "tasks": [
+    {
+      "id": "ahc049_a",
+      "label": "A",
+      "title": "Durability-Constrained Transport",
+      "url": "https://atcoder.jp/contests/ahc049/tasks/ahc049_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
