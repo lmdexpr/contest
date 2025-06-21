@@ -1,0 +1,129 @@
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Problem Summary: A - Mixing on the Palette (AHC048)
+### A - Mixing on the Palette
+
+#### 概要
+
+あなたは高橋画伯のアシスタントとして、彼が求める $H$ 種類の色を順番通りに作成します。絵の具は高価なため、できるだけ正確に、かつ少ない無駄で色を作成することが目標です。
+
+#### 問題設定
+
+##### 色の表現
+絵の具の色は、シアン ($C$)、マゼンタ ($M$)、イエロー ($Y$) の三次元ベクトル $(C, M, Y)$ で表されます。各成分は $0 \le C, M, Y \le 1$ を満たします。
+
+##### 色の混合
+色 $p_1 = (C_1, M_1, Y_1)$ の絵の具 $v_1$ グラムと、色 $p_2 = (C_2, M_2, Y_2)$ の絵の具 $v_2$ グラムを混ぜると、色 $\frac{v_1 \cdot p_1 + v_2 \cdot p_2}{v_1 + v_2}$ の絵の具が $v_1 + v_2$ グラム得られます。
+
+##### 所持品とコスト
+- $K$ 種類のチューブ絵の具を所持しています。$i$ 番目のチューブの色は $(C_i^{own}, M_i^{own}, Y_i^{own})$ です。
+- 各チューブから絵の具を1グラム使うごとに、コスト $D$ がかかります。
+
+##### 目標
+- $H$ 種類の色を順番に1グラムずつ作成し、画伯に渡します。
+- $i$ 番目に作るべき目標色は $(C_i^{target}, M_i^{target}, Y_i^{target})$ です。
+- 作成の順番は固定です。
+
+##### パレット
+- パレットは $N \times N$ の格子状のマス目で構成されます。左上のマスは $(0,0)$ です。
+- 各マスは、上下左右の隣接マスとの間に仕切りを備えています。
+    - 仕切りの初期状態は自由に設定できます。
+    - 仕切りが下がっている場合、隣接するマスは**連結**です。
+    - 連結なマス同士をたどって到達可能なマスの集合を**ウェル**と定義します。
+- 各ウェルには高々1色の絵の具しか入れられません。
+- $k$ マスからなるウェルには最大で $k$ グラムの絵の具を入れることができます。
+- 初期状態ではどのウェルにも絵の具は入っていません。
+
+##### 操作（最大 $T$ ターンまで）
+1.  **追加**: マス $(i,j)$ とチューブ $k$ を選び、そのマスが属するウェルにチューブから1グラムの絵の具を出します。
+    - ウェルの残り容量を $w$ とすると、実際に混ざるのは $\min(w, 1)$ グラムです。
+    - 残りの $1 - \min(w, 1)$ グラムは廃棄されます。
+2.  **取り出し（画伯へ）**: マス $(i,j)$ を選び、そのマスの属するウェルから1グラムの絵の具を取り出して画伯に渡します。
+    - そのウェルの絵の具が $1 - 10^{-6}$ グラム未満の場合は選択できません。
+    - **この操作は、ちょうど $H$ 回行わなければなりません。**
+3.  **廃棄**: マス $(i,j)$ を選び、そのマスの属するウェルから1グラムの絵の具を廃棄します。1グラムに満たない場合は、すべて廃棄されます。
+4.  **仕切り操作**: 隣接する2マス $s, t$ を選び、仕切りを出し入れします。
+    - 仕切りを下げて2つのウェルが合併した場合、絵の具は混ざって1色になります。
+    - 仕切りを上げて1つのウェルが2つに分割された場合、絵の具も新しいウェルの容量に比例して分割されます。
+        - 分割前の絵の具量 $v$、 $s$側の容量 $v_s$、$t$側の容量 $v_t$ のとき、 $s$側には $v \times \frac{v_s}{v_s + v_t}$、$t$側には $v \times \frac{v_t}{v_s + v_t}$ が残ります。
+
+##### 計算誤差について
+- 絵の具量は倍精度浮動小数 (double) で管理されます。
+- 操作2の可否判定:
+    - ウェルの絵の具量 $v < 1 - 10^{-6}$ の場合、操作不可。
+    - ウェルの絵の具量 $v \ge 1 - 10^{-6}$ の場合、操作可。
+- 操作2の取り出し量:
+    - $v \ge 1$ の場合、ちょうど1グラム取り出す。
+    - $1 - 10^{-6} \le v < 1$ の場合、ウェル内の絵の具をすべて取り出す。
+
+#### 得点
+
+- $i$ 番目に画伯に渡した絵の具の色を $(C_i^{made}, M_i^{made}, Y_i^{made})$ としたとき、誤差 $E$ を以下で定義します。
+  $$E = \sum_{i=0}^{H-1} \sqrt{(C_i^{target} - C_i^{made})^2 + (M_i^{target} - M_i^{made})^2 + (Y_i^{target} - Y_i^{made})^2}$$
+- 操作1（チューブからの追加）を行った回数を $V$ としたとき、絶対スコアは以下で計算されます（小さいほど良い）。
+  $$\text{絶対スコア} = 1 + D \cdot (V - H) + \mathrm{round}(10^4 \times E)$$
+- 各テストケースの相対スコアは $\mathrm{round}(10^9 \times \frac{\text{全参加者中の最小絶対スコア}}{\text{自身の絶対スコア}})$ で計算され、その和が提出の得点となります。
+
+#### 入力形式
+
+1.  $N$ $K$ $H$ $T$ $D$
+2.  $K$行: $C_i^{own}$ $M_i^{own}$ $Y_i^{own}$ （$i=0, \dots, K-1$）
+3.  $H$行: $C_i^{target}$ $M_i^{target}$ $Y_i^{target}$ （$i=0, \dots, H-1$）
+
+##### 制約
+- $N = 20$ (固定)
+- $4 \le K \le 20$
+- $H = 1000$ (固定)
+- $4000 \le T \le 64000$
+- $10 \le D \le 10000$
+
+#### 出力形式
+
+1.  初期の仕切り配置：
+    - $N$行: $v_{i,0} \dots v_{i,N-2}$ （マス $(i,j)$ と $(i,j+1)$ 間の縦の仕切り。0:低い, 1:高い）
+    - $N-1$行: $h_{i,0} \dots h_{i,N-1}$ （マス $(i,j)$ と $(i+1,j)$ 間の横の仕切り。0:低い, 1:高い）
+2.  各ターンの操作（最大 $T$ 行）:
+    - `1 i j k`: チューブ $k$ からマス $(i,j)$ のウェルに絵の具を追加
+    - `2 i j`: マス $(i,j)$ のウェルから画伯へ絵の具を取り出し
+    - `3 i j`: マス $(i,j)$ のウェルから絵の具を廃棄
+    - `4 i1 j1 i2 j2`: マス $(i_1,j_1)$ と $(i_2,j_2)$ 間の仕切りを操作
+
+#### 入力生成方法の概要
+（詳細は問題文参照）
+- $N, H$ は固定値。
+- $K, T, D$ は指定範囲内の乱数や計算式で生成。
+- チューブ絵の具の色 $(C^{own}, M^{own}, Y^{own})$ は各成分が $[0, 1]$ の範囲でランダムに生成（$10^{-5}$ 単位）。
+- 目標色 $(C^{target}, M^{target}, Y^{target})$ は、まず$K$個のチューブ絵の具をランダムな比率（ディリクレ分布に近い方法）で混合することを想定し、その結果の色を$10^{-5}$単位で丸めて生成。
+
+## Build & Run Commands
+- Build: `dune build`
+- Run: `dune exec ./a.exe`
+- Run with test input: `dune exec ./a.exe < test/sample-1.in`
+- Test evaluation: `rm -rf result && dune exec ./a.exe < test/sample-1.in > result`
+
+## Code Style Guidelines
+- Use OCaml standard coding practices
+- Modules: CamelCase with first letter uppercase (e.g., `Color`, `Well`)
+- Functions: snake_case (e.g., `distance_sq`, `find_spec_tube_idx`)
+- Records: Use curly braces and labeled fields
+- Types: Define structured types at module start
+- Error handling: Prefer Option.value_exn over exceptions
+- Use Core library constructs (Array.iter, Array.mapi)
+- Maintain existing type annotations and module structure
+- Follow functional programming paradigms when possible
+
+## Algorithm Optimization Principles
+- Use lookahead algorithms for tube selection to minimize overall error
+- Implement color similarity metrics for well reuse optimization
+- Apply adaptive parameters based on problem constraints (e.g., tube cost)
+- Sort target colors by similarity for better paint reuse
+- Use on-demand initialization of wells to reduce operation count
+- Apply color space clustering for efficient batch processing
+- Implement dynamic well sizing based on color frequency analysis
+- Use early stopping in mixing when improvement falls below threshold
+- Apply smart paint reuse by analyzing future target colors
+- Optimize well layout with variable-sized wells for better color space coverage
+
+- 日本語で回答してください

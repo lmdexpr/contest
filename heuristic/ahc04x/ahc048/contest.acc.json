@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc048",
+    "title": "MC Digital Programming Contest 2025 (AtCoder Heuristic Contest 048)",
+    "url": "https://atcoder.jp/contests/ahc048"
+  },
+  "tasks": [
+    {
+      "id": "ahc048_a",
+      "label": "A",
+      "title": "Mixing on the Palette",
+      "url": "https://atcoder.jp/contests/ahc048/tasks/ahc048_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
