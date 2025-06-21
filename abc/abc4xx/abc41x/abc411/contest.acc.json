@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc411",
+    "title": "UNIQUE VISION Programming Contest 2025 Summer (AtCoder Beginner Contest 411)",
+    "url": "https://atcoder.jp/contests/abc411"
+  },
+  "tasks": [
+    {
+      "id": "abc411_a",
+      "label": "A",
+      "title": "Required Length",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc411_b",
+      "label": "B",
+      "title": "Distance Table",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc411_c",
+      "label": "C",
+      "title": "Black Intervals",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc411_d",
+      "label": "D",
+      "title": "Conflict 2",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc411_e",
+      "label": "E",
+      "title": "E [max]",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc411_f",
+      "label": "F",
+      "title": "Contraction",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc411_g",
+      "label": "G",
+      "title": "Count Cycles",
+      "url": "https://atcoder.jp/contests/abc411/tasks/abc411_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
