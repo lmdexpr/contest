@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc412",
+    "title": "AtCoder Beginner Contest 412",
+    "url": "https://atcoder.jp/contests/abc412"
+  },
+  "tasks": [
+    {
+      "id": "abc412_a",
+      "label": "A",
+      "title": "Task Failed Successfully",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc412_b",
+      "label": "B",
+      "title": "Precondition",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc412_c",
+      "label": "C",
+      "title": "Giant Domino",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc412_d",
+      "label": "D",
+      "title": "Make 2-Regular Graph",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc412_e",
+      "label": "E",
+      "title": "LCM Sequence",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc412_f",
+      "label": "F",
+      "title": "Socks 4",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc412_g",
+      "label": "G",
+      "title": "Degree Harmony",
+      "url": "https://atcoder.jp/contests/abc412/tasks/abc412_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
