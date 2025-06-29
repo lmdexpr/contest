@@ -1,0 +1,97 @@
+{
+  "contest": {
+    "id": "abc235",
+    "title": "HHKB Programming Contest 2022（AtCoder Beginner Contest 235）",
+    "url": "https://atcoder.jp/contests/abc235"
+  },
+  "tasks": [
+    {
+      "id": "abc235_a",
+      "label": "A",
+      "title": "Rotate",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc235_b",
+      "label": "B",
+      "title": "Climbing Takahashi",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc235_c",
+      "label": "C",
+      "title": "The Kth Time Query",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc235_d",
+      "label": "D",
+      "title": "Multiply and Rotate",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc235_e",
+      "label": "E",
+      "title": "MST + 1",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc235_f",
+      "label": "F",
+      "title": "Variety of Digits",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc235_g",
+      "label": "G",
+      "title": "Gardens",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    },
+    {
+      "id": "abc235_h",
+      "label": "Ex",
+      "title": "Painting Weighted Graph",
+      "url": "https://atcoder.jp/contests/abc235/tasks/abc235_h",
+      "directory": {
+        "path": "ex",
+        "testdir": "test",
+        "submit": "ex.ml"
+      }
+    }
+  ]
+}
