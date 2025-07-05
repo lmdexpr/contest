@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc413",
+    "title": "Denso Create Programming Contest 2025（AtCoder Beginner Contest 413）",
+    "url": "https://atcoder.jp/contests/abc413"
+  },
+  "tasks": [
+    {
+      "id": "abc413_a",
+      "label": "A",
+      "title": "Content Too Large",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc413_b",
+      "label": "B",
+      "title": "cat 2",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc413_c",
+      "label": "C",
+      "title": "Large Queue",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc413_d",
+      "label": "D",
+      "title": "Make Geometric Sequence",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc413_e",
+      "label": "E",
+      "title": "Reverse 2^i",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc413_f",
+      "label": "F",
+      "title": "No Passage",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc413_g",
+      "label": "G",
+      "title": "Big Banned Grid",
+      "url": "https://atcoder.jp/contests/abc413/tasks/abc413_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
