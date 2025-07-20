@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc415",
+    "title": "Japan Registry Services (JPRS) Programming Contest 2025#2 (AtCoder Beginner Contest 415)",
+    "url": "https://atcoder.jp/contests/abc415"
+  },
+  "tasks": [
+    {
+      "id": "abc415_a",
+      "label": "A",
+      "title": "Unsupported Type",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc415_b",
+      "label": "B",
+      "title": "Pick Two",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc415_c",
+      "label": "C",
+      "title": "Mixture",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc415_d",
+      "label": "D",
+      "title": "Get Many Stickers",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc415_e",
+      "label": "E",
+      "title": "Hungry Takahashi",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc415_f",
+      "label": "F",
+      "title": "Max Combo",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc415_g",
+      "label": "G",
+      "title": "Get Many Cola",
+      "url": "https://atcoder.jp/contests/abc415/tasks/abc415_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
