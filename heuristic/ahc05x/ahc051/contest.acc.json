@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "ahc051",
+    "title": "THIRD Programming Contest 2025 Summer（AtCoder Heuristic Contest 051）",
+    "url": "https://atcoder.jp/contests/ahc051"
+  },
+  "tasks": [
+    {
+      "id": "ahc051_a",
+      "label": "A",
+      "title": "Probabilistic Waste Sorting",
+      "url": "https://atcoder.jp/contests/ahc051/tasks/ahc051_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    }
+  ]
+}
