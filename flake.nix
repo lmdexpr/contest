@@ -111,6 +111,8 @@
               cargo
               online-judge-tools
               atcoder-cli
+              unzip
+              xclip
             ];
             shellHook = ''
               acc config oj-path `which oj`
