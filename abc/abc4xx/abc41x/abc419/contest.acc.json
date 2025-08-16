@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc419",
+    "title": "AtCoder Beginner Contest 419",
+    "url": "https://atcoder.jp/contests/abc419"
+  },
+  "tasks": [
+    {
+      "id": "abc419_a",
+      "label": "A",
+      "title": "AtCoder Language",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc419_b",
+      "label": "B",
+      "title": "Get Min",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc419_c",
+      "label": "C",
+      "title": "King's Summit",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc419_d",
+      "label": "D",
+      "title": "Substr Swap",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc419_e",
+      "label": "E",
+      "title": "Subarray Sum Divisibility",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc419_f",
+      "label": "F",
+      "title": "All Included",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc419_g",
+      "label": "G",
+      "title": "Count Simple Paths 2",
+      "url": "https://atcoder.jp/contests/abc419/tasks/abc419_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
