@@ -1,4 +1,4 @@
-(lang dune 3.7)
+(lang dune 3.20)
 
 (name contest)
 
@@ -17,7 +17,7 @@
  (synopsis "For contest.")
  (allow_empty)
  (depends
-   (ocaml (= 5.0.0))
+   (ocaml (= 5.3.0))
    ocamlformat
    ocaml-lsp-server
    dune

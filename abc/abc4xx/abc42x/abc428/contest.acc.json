@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc428",
+    "title": "AtCoder Beginner Contest 428",
+    "url": "https://atcoder.jp/contests/abc428"
+  },
+  "tasks": [
+    {
+      "id": "abc428_a",
+      "label": "A",
+      "title": "Grandma's Footsteps",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc428_b",
+      "label": "B",
+      "title": "Most Frequent Substrings",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc428_c",
+      "label": "C",
+      "title": "Brackets Stack Query",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc428_d",
+      "label": "D",
+      "title": "183184",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc428_e",
+      "label": "E",
+      "title": "Farthest Vertex",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc428_f",
+      "label": "F",
+      "title": "Pyramid Alignment",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc428_g",
+      "label": "G",
+      "title": "Necklace",
+      "url": "https://atcoder.jp/contests/abc428/tasks/abc428_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
