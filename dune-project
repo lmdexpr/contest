@@ -21,10 +21,10 @@
    ocamlformat
    ocaml-lsp-server
    dune
-   cmdliner
    ounit2
-   core
-   iter
-   num
-   containers
-   batteries))
+   (core (= v0.17.1))
+   (iter (= 1.9))
+   (num (= 1.6))
+   (containers (= 3.16))
+   (batteries (= 3.9.0))
+ ))
