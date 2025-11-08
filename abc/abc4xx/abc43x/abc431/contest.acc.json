@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc431",
+    "title": "TOYOTA SYSTEMS Programming Contest 2025（AtCoder Beginner Contest 431)",
+    "url": "https://atcoder.jp/contests/abc431"
+  },
+  "tasks": [
+    {
+      "id": "abc431_a",
+      "label": "A",
+      "title": "Robot Balance",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc431_b",
+      "label": "B",
+      "title": "Robot Weight",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc431_c",
+      "label": "C",
+      "title": "Robot Factory",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc431_d",
+      "label": "D",
+      "title": "Robot Customize",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc431_e",
+      "label": "E",
+      "title": "Reflection on Grid",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc431_f",
+      "label": "F",
+      "title": "Almost Sorted 2",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc431_g",
+      "label": "G",
+      "title": "One Time Swap 2",
+      "url": "https://atcoder.jp/contests/abc431/tasks/abc431_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
