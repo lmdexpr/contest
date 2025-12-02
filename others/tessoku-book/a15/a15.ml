@@ -1,10 +1,17 @@
 open Core
 open Scanf
 
-let n = scanf "%d" Fn.id
+let n = scanf " %d" Fn.id
+let a = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
 
-let _a = Array.init n ~f:(fun _ -> scanf " %d" Fn.id)
+let t = Int.Set.of_array a |> Set.to_array
 
-let ans = 0
+let ans = Array.map a ~f:(fun x ->
+  Array.binary_search t ~compare `First_equal_to x
+  |> Option.value_exn
+  |> succ
+)
 
-let () = printf "%d\n%!" ans
+let () =
+  Array.iter ans ~f:(printf "%d ");
+  printf "\n%!"
