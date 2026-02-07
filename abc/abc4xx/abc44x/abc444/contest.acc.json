@@ -1,0 +1,86 @@
+{
+  "contest": {
+    "id": "abc444",
+    "title": "AtCoder Beginner Contest 444",
+    "url": "https://atcoder.jp/contests/abc444"
+  },
+  "tasks": [
+    {
+      "id": "abc444_a",
+      "label": "A",
+      "title": "Repdigit",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "a.ml"
+      }
+    },
+    {
+      "id": "abc444_b",
+      "label": "B",
+      "title": "Digit Sum",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_b",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "b.ml"
+      }
+    },
+    {
+      "id": "abc444_c",
+      "label": "C",
+      "title": "AtCoder Riko",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_c",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "c.ml"
+      }
+    },
+    {
+      "id": "abc444_d",
+      "label": "D",
+      "title": "Many Repunit Sum",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_d",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "d.ml"
+      }
+    },
+    {
+      "id": "abc444_e",
+      "label": "E",
+      "title": "Sparse Range",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_e",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "e.ml"
+      }
+    },
+    {
+      "id": "abc444_f",
+      "label": "F",
+      "title": "Half and Median",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_f",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "f.ml"
+      }
+    },
+    {
+      "id": "abc444_g",
+      "label": "G",
+      "title": "Kyoen",
+      "url": "https://atcoder.jp/contests/abc444/tasks/abc444_g",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "g.ml"
+      }
+    }
+  ]
+}
